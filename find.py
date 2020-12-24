@@ -12,14 +12,25 @@ def main():
     url = "https://downloadlibrary.overdrive.com/collection/1067423?addedDate=days-0-7&language=en&maturityLevel=generalcontent&maturityLevel=youngadult"
 
     page = DownloadLibraryCataloguePage(url)
-    page.fetch_books()
+    books = list(load_books_from_starting_page(page).values())
+    books = sorted(books, key=lambda b: b["sortTitle"])
+    books = sorted(books, key=lambda b: b["firstCreatorName"])
 
-    while page.next_page_url:
-        if page.books:
-            for book in page.books.values():
-                print(book["title"])
-        page = DownloadLibraryCataloguePage(page.next_page_url)
+    for book in books:
+        print(f"{book['firstCreatorName']}\t{book['sortTitle']}")
+
+
+def load_books_from_starting_page(page):
+    books = {}
+
+    while True:
         page.fetch_books()
+        if page.books:
+            books.update(page.books)
+        if not page.next_page_url:
+            break
+        page = DownloadLibraryCataloguePage(page.next_page_url)
+    return books
 
 
 class DownloadLibraryCataloguePage:
