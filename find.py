@@ -13,7 +13,6 @@ def main():
 
     page = DownloadLibraryCataloguePage(url)
     books = load_books_from_starting_page(page).values()
-    books = sorted(books, key=lambda b: b["sortTitle"])
     books = sorted(books, key=lambda b: b["firstCreatorName"])
 
     for book in books:
