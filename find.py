@@ -1,36 +1,64 @@
 import datetime
+import feedgen.feed
 import html
 import json
+import os
 import re
 import requests
 import urllib.parse
 
-from feedgen.feed import FeedGenerator
+from xml.etree import ElementTree
 
 
 def main():
     url = "https://downloadlibrary.overdrive.com/collection/1067423?addedDate=days-0-7&language=en&maturityLevel=generalcontent&maturityLevel=youngadult"
 
     page = DownloadLibraryCataloguePage(url)
-    books = load_books_from_starting_page(page).values()
-    books = sorted(books, key=lambda b: b.creator_name)
+    books = load_books_from_starting_page(page)
 
-    for book in books:
-        print(f"{book.creator_name}\t{book.title}")
+    if not books:
+        print("No new books at library.")
+        return
 
-    create_feed(books)
+    feed_generator = feedgen.feed.FeedGenerator()
+    feed_generator.id("https://blairconrad.com/new-ebooks-at-downloadlibrary")
+    feed_generator.title("Blair's list of new e-books at downloadLibrary")
+    feed_generator.author(name="Blair Conrad", email="blair@blairconrad.com")
+
+    recover_feed_entries_from_file(feed_generator, "atom.xml")
+
+    for entry in feed_generator.entry():
+        del books[entry.id()]
+
+    if not books:
+        print("All new books have been seen already.")
+        return
+
+    books = sorted(books.values(), key=lambda b: b.creator_name)
+    add_books_to_feed(feed_generator, books)
+    feed_generator.atom_file("atom.xml", pretty=True)
 
 
-def create_feed(books):
+def recover_feed_entries_from_file(feed_generator, feed_path):
+    ns = "{http://www.w3.org/2005/Atom}"
+    if not os.path.isfile(feed_path):
+        return
+    root = ElementTree.parse(feed_path).getroot()
+    for entry in root.iter(f"{ns}entry"):
+        recovered_entry = feed_generator.add_entry(order="append")
+        recovered_entry.id(entry.find(f"{ns}id").text)
+        recovered_entry.title(entry.find(f"{ns}title").text)
+        recovered_entry.link(href=entry.find(f"{ns}link").attrib["href"])
+        recovered_entry.content(type="html", content=entry.find(f"{ns}content").text)
+        recovered_entry.published(entry.find(f"{ns}published").text)
+        recovered_entry.updated(entry.find(f"{ns}updated").text)
+
+
+def add_books_to_feed(feed_generator, books):
     now = datetime.datetime.now(datetime.timezone.utc)
-    generator = FeedGenerator()
-
-    generator.id("https://blairconrad.com/new-ebooks-at-downloadlibrary")
-    generator.title("Blair's list of new e-books at downloadLibrary")
-    generator.author(name="Blair Conrad", email="blair@blairconrad.com")
 
     for ebook in books:
-        entry = generator.add_entry(order="append")
+        entry = feed_generator.add_entry()
         entry.id(ebook.id)
         entry.title(
             ebook.title + " by " + ebook.creator_name + " is in the downloadLibrary"
@@ -46,8 +74,6 @@ is an ebook and is available at the downloadLibrary.
         entry.content(type="html", content=content)
         entry.published(now)
         entry.updated(now)
-
-    generator.atom_file("atom.xml", pretty=True)  # Write the ATOM feed to a file
 
 
 def load_books_from_starting_page(page):
