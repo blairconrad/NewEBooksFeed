@@ -1,3 +1,4 @@
+import datetime
 import html
 import json
 import re
@@ -5,19 +6,53 @@ import requests
 import urllib.parse
 
 from feedgen.feed import FeedGenerator
-from xml.etree import ElementTree
 
 
 def main():
     url = "https://downloadlibrary.overdrive.com/collection/1067423?addedDate=days-0-7&language=en&maturityLevel=generalcontent&maturityLevel=youngadult"
 
     page = DownloadLibraryCataloguePage(url)
-    books = list(load_books_from_starting_page(page).values())
+    books = load_books_from_starting_page(page).values()
     books = sorted(books, key=lambda b: b["sortTitle"])
     books = sorted(books, key=lambda b: b["firstCreatorName"])
 
     for book in books:
-        print(f"{book['firstCreatorName']}\t{book['sortTitle']}")
+        print(f"{book['firstCreatorName']}\t{book['title']}")
+
+    create_feed(books)
+
+
+def create_feed(books):
+    now = datetime.datetime.now(datetime.timezone.utc)
+    generator = FeedGenerator()
+
+    generator.id("https://blairconrad.com/new-ebooks-at-downloadlibrary")
+    generator.title("Blair's list of new e-books at downloadLibrary")
+    generator.author(name="Blair Conrad", email="blair@blairconrad.com")
+
+    for ebook in books:
+        url = "https://downloadlibrary.overdrive.com/media/" + ebook["id"]
+        entry = generator.add_entry(order="append")
+        entry.id(ebook["id"])
+        entry.title(
+            ebook["title"]
+            + " by "
+            + ebook["firstCreatorName"]
+            + " is in the downloadLibrary"
+        )
+        content = f"""
+<a href="{url}">
+<img src="{ebook["covers"]["cover150Wide"]["href"]}">
+<h2>{ebook["title"]}</h2>
+</a>
+is an ebook and is available at the downloadLibrary.
+"""
+        entry.link(href=url)
+        entry.content(type="html", content=content)
+        entry.published(now)
+        entry.updated(now)
+
+    generator.atom_file("atom.xml", pretty=True)  # Write the ATOM feed to a file
 
 
 def load_books_from_starting_page(page):
