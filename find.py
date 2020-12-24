@@ -13,10 +13,10 @@ def main():
 
     page = DownloadLibraryCataloguePage(url)
     books = load_books_from_starting_page(page).values()
-    books = sorted(books, key=lambda b: b["firstCreatorName"])
+    books = sorted(books, key=lambda b: b.creator_name)
 
     for book in books:
-        print(f"{book['firstCreatorName']}\t{book['title']}")
+        print(f"{book.creator_name}\t{book.title}")
 
     create_feed(books)
 
@@ -30,23 +30,19 @@ def create_feed(books):
     generator.author(name="Blair Conrad", email="blair@blairconrad.com")
 
     for ebook in books:
-        url = "https://downloadlibrary.overdrive.com/media/" + ebook["id"]
         entry = generator.add_entry(order="append")
-        entry.id(ebook["id"])
+        entry.id(ebook.id)
         entry.title(
-            ebook["title"]
-            + " by "
-            + ebook["firstCreatorName"]
-            + " is in the downloadLibrary"
+            ebook.title + " by " + ebook.creator_name + " is in the downloadLibrary"
         )
         content = f"""
-<a href="{url}">
-<img src="{ebook["covers"]["cover150Wide"]["href"]}">
-<h2>{ebook["title"]}</h2>
+<a href="{ebook.get_url()}">
+<img src="{ebook.cover_url}">
+<h2>{ebook.title}</h2>
 </a>
 is an ebook and is available at the downloadLibrary.
 """
-        entry.link(href=url)
+        entry.link(href=ebook.get_url())
         entry.content(type="html", content=content)
         entry.published(now)
         entry.updated(now)
@@ -65,6 +61,17 @@ def load_books_from_starting_page(page):
             break
         page = DownloadLibraryCataloguePage(page.next_page_url)
     return books
+
+
+class Book:
+    def __init__(self, id, title, creator_name, cover_url):
+        self.id = id
+        self.title = title
+        self.creator_name = creator_name
+        self.cover_url = cover_url
+
+    def get_url(self):
+        return "https://downloadlibrary.overdrive.com/media/" + self.id
 
 
 class DownloadLibraryCataloguePage:
@@ -92,8 +99,20 @@ class DownloadLibraryCataloguePage:
             response_text,
         )
         if match:
-            json_books = match.group(1)
-            self.books = json.loads(json_books)
+            json_text = match.group(1)
+            dict_books = json.loads(json_text)
+            self.books = {
+                key: self._make_book_from_dictionary(value)
+                for (key, value) in dict_books.items()
+            }
+
+    def _make_book_from_dictionary(self, dict):
+        return Book(
+            id=dict["id"],
+            title=dict["title"],
+            creator_name=dict["firstCreatorName"],
+            cover_url=dict["covers"]["cover150Wide"]["href"],
+        )
 
 
 if __name__ == "__main__":
