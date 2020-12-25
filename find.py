@@ -69,6 +69,9 @@ def add_books_to_feed(feed_generator, books):
 <h2>{ebook.title}</h2>
 </a>
 is an ebook and is available at the downloadLibrary.
+<div>
+{ebook.description}
+</div>
 """
         entry.link(href=ebook.get_url())
         entry.content(type="html", content=content)
@@ -90,11 +93,12 @@ def load_books_from_starting_page(page):
 
 
 class Book:
-    def __init__(self, id, title, creator_name, cover_url):
+    def __init__(self, id, title, creator_name, cover_url, description):
         self.id = id
         self.title = title
         self.creator_name = creator_name
         self.cover_url = cover_url
+        self.description = description
 
     def get_url(self):
         return "https://downloadlibrary.overdrive.com/media/" + self.id
@@ -138,6 +142,7 @@ class DownloadLibraryCataloguePage:
             title=dict["title"],
             creator_name=dict["firstCreatorName"],
             cover_url=dict["covers"]["cover150Wide"]["href"],
+            description=dict["description"],
         )
 
 
