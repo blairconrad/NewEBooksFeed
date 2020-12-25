@@ -28,7 +28,7 @@ def main():
     recover_feed_entries_from_file(feed_generator, "atom.xml")
 
     for entry in feed_generator.entry():
-        del books[entry.id()]
+        books.pop(entry.id(), None)
 
     if not books:
         print("All new books have been seen already.")
