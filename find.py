@@ -69,9 +69,9 @@ def add_books_to_feed(feed_generator, books):
 <h2>{ebook.title}</h2>
 </a>
 is an ebook and is available at the downloadLibrary.
-<div>
+<blockquote>
 {ebook.description}
-</div>
+</blockquote>
 """
         entry.link(href=ebook.get_url())
         entry.content(type="html", content=content)
