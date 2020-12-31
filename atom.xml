@@ -2,12 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2020-12-29T11:03:35.121071+00:00</updated>
+  <updated>2020-12-31T11:05:24.344840+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5198875</id>
+    <title>Marion Lane and the Midnight Murder by T.A. Willberg is in the downloadLibrary</title>
+    <updated>2020-12-31T11:05:24.386835+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5198875"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1071-1/43E/0EB/87/{43E0EB87-90CF-42A9-86CA-C3140061F00C}Img150.jpg"&gt;
+&lt;h2&gt;Marion Lane and the Midnight Murder&lt;/h2&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;blockquote&gt;
+&lt;strong&gt;"This is the most fun I've had with a book this year. Every page is a delight and the mystery got its hooks into me from the first chapter." &amp;#8211; Stuart Turton, bestselling author of The 7&amp;#189; Deaths of Evelyn...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5198875" rel="alternate"/>
+    <published>2020-12-31T11:05:24.386835+00:00</published>
+  </entry>
   <entry>
     <id>4874833</id>
     <title>An Indecent Desire by Stephanie Julian is in the downloadLibrary</title>
