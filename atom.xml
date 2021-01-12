@@ -2,12 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-01-08T11:11:24.571456+00:00</updated>
+  <updated>2021-01-12T11:18:07.285609+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5981639</id>
+    <title>Pivoting during the Pandemic by Kathleen Hughes is in the downloadLibrary</title>
+    <updated>2021-01-12T11:18:07.334216+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5981639"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2756-1/ADA/C3B/14/{ADAC3B14-D729-4B3A-B4AC-A727014A40BA}Img150.jpg"&gt;
+&lt;h2&gt;Pivoting during the Pandemic&lt;/h2&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;blockquote&gt;
+Sharing lessons learned and barriers overcome, this book will spur you towards new ways of serving your patrons during unprecedented times. When the pandemic suddenly forced many public libraries to close their doors or limit patron access,...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5981639" rel="alternate"/>
+    <published>2021-01-12T11:18:07.334216+00:00</published>
+  </entry>
   <entry>
     <id>5255196</id>
     <title>The Ministry for the Future by Kim Stanley Robinson is in the downloadLibrary</title>
