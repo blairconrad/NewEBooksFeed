@@ -2,12 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-02-10T10:51:38.858581+00:00</updated>
+  <updated>2021-02-17T10:51:47.882117+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>2217622</id>
+    <title>History of the Twentieth Century by Martin Gilbert is in the downloadLibrary</title>
+    <updated>2021-02-17T10:51:47.995611+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/2217622"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/C1F/BCF/3B/{C1FBCF3B-1242-47AF-ABDB-B29429E749F7}Img150.jpg"&gt;
+&lt;h2&gt;History of the Twentieth Century&lt;/h2&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;blockquote&gt;
+&lt;p&gt;&lt;B&gt;A chronological compilation of twentieth-century world events in one volume&amp;#8212;from the acclaimed historian and biographer of Winston Churchill. &lt;/B&gt;&lt;BR /&gt; &lt;BR /&gt; The twentieth century has been one of the most unique in human history. It...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/2217622" rel="alternate"/>
+    <published>2021-02-17T10:51:47.995611+00:00</published>
+  </entry>
+  <entry>
+    <id>2386561</id>
+    <title>Voyage of the Damned by Gordon Thomas is in the downloadLibrary</title>
+    <updated>2021-02-17T10:51:47.995611+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/2386561"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/D95/6C6/F6/{D956C6F6-496B-4894-8FAA-F4FE0400FD78}Img150.jpg"&gt;
+&lt;h2&gt;Voyage of the Damned&lt;/h2&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;blockquote&gt;
+&lt;p&gt;&lt;B&gt;The "extraordinary" true story of the &lt;I&gt;St. Louis&lt;/I&gt;, a German ship that, in 1939, carried Jews away from Hamburg&amp;#8212;and into an unimaginable ordeal (&lt;I&gt;The New York Times&lt;/I&gt;).&lt;/B&gt;&lt;BR /&gt; On May 13, 1939, the luxury liner &lt;I&gt;St....
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/2386561" rel="alternate"/>
+    <published>2021-02-17T10:51:47.995611+00:00</published>
+  </entry>
   <entry>
     <id>4833763</id>
     <title>Ghosting by Tash Skilton is in the downloadLibrary</title>
