@@ -2,12 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-02-20T10:52:49.553700+00:00</updated>
+  <updated>2021-02-24T10:55:33.903150+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6069723</id>
+    <title>The Best-Laid Plans by Sarah M. Eden is in the downloadLibrary</title>
+    <updated>2021-02-24T10:55:34.015332+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6069723"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/8081-1/D57/3D0/B2/{D573D0B2-98E1-48DE-ABC4-B18BE3E00E43}Img150.jpg"&gt;
+&lt;h2&gt;The Best-Laid Plans&lt;/h2&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;blockquote&gt;
+&lt;p&gt;Newton Hughes has long dreamed of pursuing a career in law, an acceptable choice for a gentleman of status and wealth. His parents, however, disapprove of his ambition, urging him instead to take his rightful place as a gentleman of...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6069723" rel="alternate"/>
+    <published>2021-02-24T10:55:34.015332+00:00</published>
+  </entry>
   <entry>
     <id>5255998</id>
     <title>City of Schemes by Victoria Thompson is in the downloadLibrary</title>
