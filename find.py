@@ -63,12 +63,15 @@ def add_books_to_feed(feed_generator, books):
         entry.title(
             ebook.title + " by " + ebook.creator_name + " is in the downloadLibrary"
         )
+        subtitle = ebook.subtitle and f"<h3>{ebook.subtitle}</h3>" or ""
         content = f"""
 <a href="{ebook.get_url()}">
 <img src="{ebook.cover_url}">
 <h2>{ebook.title}</h2>
+{subtitle}
 </a>
 is an ebook and is available at the downloadLibrary.
+<p>Subjects: {ebook.subjects}</p>
 <blockquote>
 {ebook.description}
 </blockquote>
@@ -93,12 +96,16 @@ def load_books_from_starting_page(page):
 
 
 class Book:
-    def __init__(self, id, title, creator_name, cover_url, description):
+    def __init__(
+        self, id, title, subtitle, creator_name, cover_url, description, subjects
+    ):
         self.id = id
         self.title = title
+        self.subtitle = subtitle
         self.creator_name = creator_name
         self.cover_url = cover_url
         self.description = description
+        self.subjects = subjects
 
     def get_url(self):
         return "https://downloadlibrary.overdrive.com/media/" + self.id
@@ -140,9 +147,11 @@ class DownloadLibraryCataloguePage:
         return Book(
             id=dict["id"],
             title=dict["title"],
+            subtitle=dict.get("subtitle", None),
             creator_name=dict["firstCreatorName"],
             cover_url=dict["covers"]["cover150Wide"]["href"],
             description=dict["description"],
+            subjects=", ".join(sorted([s["name"] for s in dict["subjects"]])),
         )
 
 
