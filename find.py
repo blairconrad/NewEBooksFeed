@@ -3,6 +3,7 @@ import feedgen.feed
 import html
 import json
 import os
+import pprint
 import re
 import requests
 import urllib.parse
@@ -144,15 +145,37 @@ class DownloadLibraryCataloguePage:
             }
 
     def _make_book_from_dictionary(self, dict):
-        return Book(
-            id=dict["id"],
-            title=dict["title"],
-            subtitle=dict.get("subtitle", None),
-            creator_name=dict["firstCreatorName"],
-            cover_url=dict["covers"]["cover150Wide"]["href"],
-            description=dict["description"],
-            subjects=", ".join(sorted([s["name"] for s in dict["subjects"]])),
+        try:
+            cover_url = self._find_best_cover_url(dict)
+            return Book(
+                id=dict["id"],
+                title=dict["title"],
+                subtitle=dict.get("subtitle", None),
+                creator_name=dict["firstCreatorName"],
+                cover_url=cover_url,
+                description=dict["description"],
+                subjects=", ".join(sorted([s["name"] for s in dict["subjects"]])),
+            )
+        except:
+            raise Exception(
+                "Unable to parse book object. Dictionary is\n" + pprint.pformat(dict)
+            )
+
+    def _find_best_cover_url(self, dict):
+        all_covers = dict.get("covers", {})
+        if all_covers:
+            preferred_cover = all_covers.get("cover150Wide", None)
+            if preferred_cover:
+                return preferred_cover["href"]
+
+            any_cover = next(iter(all_covers.values()))
+            return any_cover["href"]
+
+        print(
+            "Unable to get cover from book. Returning stock image. Book is\n"
+            + pprint.pformat(dict)
         )
+        return "https://source.unsplash.com/random/150x200"
 
 
 if __name__ == "__main__":
