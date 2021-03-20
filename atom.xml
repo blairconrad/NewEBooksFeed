@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-03-19T10:55:28.366184+00:00</updated>
+  <updated>2021-03-20T10:55:24.105434+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5190293</id>
+    <title>Murder at Queen's Landing by Andrea Penrose is in the downloadLibrary</title>
+    <updated>2021-03-20T10:55:24.274000+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5190293"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/5D2/42E/5E/{5D242E5E-DE39-4F1F-947C-C298718031B8}Img150.jpg"&gt;
+&lt;h2&gt;Murder at Queen's Landing&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Mystery, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;strong&gt;The murder of a shipping clerk . . . the strange disappearance of trusted friends . . . rumors of corruption within the powerful East India Company . . . all add up to a dark mystery entangling Lady Charlotte Sloane and the Earl of...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5190293" rel="alternate"/>
+    <published>2021-03-20T10:55:24.274000+00:00</published>
+  </entry>
+  <entry>
+    <id>3580985</id>
+    <title>Murder at Half Moon Gate by Andrea Penrose is in the downloadLibrary</title>
+    <updated>2021-03-20T10:55:24.274000+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/3580985"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/582/12B/C7/{58212BC7-8738-4E47-873F-7C3526229856}Img150.jpg"&gt;
+&lt;h2&gt;Murder at Half Moon Gate&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Mystery, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;i&gt;A wealthy lord who happens to be a brilliant scientist . . . an enigmatic young widow who secretly pens satirical cartoons . . . a violent killing disguised as a robbery . . . Nothing is as it seems in Regency London, especially when the Earl...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/3580985" rel="alternate"/>
+    <published>2021-03-20T10:55:24.274000+00:00</published>
+  </entry>
+  <entry>
+    <id>3082431</id>
+    <title>Murder on Black Swan Lane by Andrea Penrose is in the downloadLibrary</title>
+    <updated>2021-03-20T10:55:24.274000+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/3082431"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/ECD/6D1/2C/{ECD6D12C-7E62-4B60-8D46-B2581720CB40}Img150.jpg"&gt;
+&lt;h2&gt;Murder on Black Swan Lane&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Mystery, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;i&gt;In Regency London, an unconventional scientist and a fearless female artist form an unlikely alliance to expose unspeakable evil . . .&lt;/i&gt;&lt;br&gt; &lt;br&gt; The Earl of Wrexford possesses a brilliant scientific mind, but boredom and pride lead him to...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/3082431" rel="alternate"/>
+    <published>2021-03-20T10:55:24.274000+00:00</published>
+  </entry>
   <entry>
     <id>4826002</id>
     <title>James Monroe by Tim McGrath is in the downloadLibrary</title>
