@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-03-20T10:55:24.105434+00:00</updated>
+  <updated>2021-03-24T11:13:00.337453+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5417162</id>
+    <title>Remote Control by Nnedi Okorafor is in the downloadLibrary</title>
+    <updated>2021-03-24T11:13:00.541000+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5417162"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/01D/F47/EC/{01DF47EC-71A2-4E57-A264-8EA601905F05}Img150.jpg"&gt;
+&lt;h2&gt;Remote Control&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Science Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;An alien artifact turns a young girl into Death's adopted daughter in &lt;i&gt;Remote Control&lt;/i&gt;, a thrilling sci-fi tale of community and female empowerment from Nebula and Hugo Award-winner Nnedi Okorafor&lt;/b&gt;&lt;br&gt;&lt;b&gt;"She's the adopted daughter...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5417162" rel="alternate"/>
+    <published>2021-03-24T11:13:00.541000+00:00</published>
+  </entry>
+  <entry>
+    <id>1416734</id>
+    <title>To Cut a Long Story Short by Jeffrey Archer is in the downloadLibrary</title>
+    <updated>2021-03-24T11:13:00.541000+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/1416734"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/C1F/CAC/CA/{C1FCACCA-7C78-4618-96E4-5628CEE674D6}Img150.jpg"&gt;
+&lt;h2&gt;To Cut a Long Story Short&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From the master storyteller comes a masterful collection of fourteen riveting tales of elaborate confidence tricks, political chicanery, immoral behavior, and dangerously illicit affairs, rendered with the breathtaking narrative twists that...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/1416734" rel="alternate"/>
+    <published>2021-03-24T11:13:00.541000+00:00</published>
+  </entry>
   <entry>
     <id>5190293</id>
     <title>Murder at Queen's Landing by Andrea Penrose is in the downloadLibrary</title>
