@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-04-10T10:56:21.831646+00:00</updated>
+  <updated>2021-04-15T10:55:55.919218+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>4692660</id>
+    <title>Lost in the Never Woods by Aiden Thomas is in the downloadLibrary</title>
+    <updated>2021-04-15T10:55:56.051415+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/4692660"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/B54/F89/80/{B54F8980-C16C-4A2F-A716-E3D7ED54E7BC}Img150.jpg"&gt;
+&lt;h2&gt;Lost in the Never Woods&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Folklore, Thriller, Young Adult Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;When children start to go missing in the local woods, a teen girl must face her fears and a past she can't remember to rescue them in this atmospheric YA novel from the author of &lt;i&gt;Cemetery Boys&lt;/i&gt;. &lt;/b&gt;&lt;/p&gt;&lt;p&gt;It's been five years since...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/4692660" rel="alternate"/>
+    <published>2021-04-15T10:55:56.051415+00:00</published>
+  </entry>
   <entry>
     <id>468244</id>
     <title>The Choir by Joanna Trollope is in the downloadLibrary</title>
