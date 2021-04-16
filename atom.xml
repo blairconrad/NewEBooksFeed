@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-04-15T10:55:55.919218+00:00</updated>
+  <updated>2021-04-16T10:55:47.785284+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5786288</id>
+    <title>The Ultimate Road Trip by Mike Wilson is in the downloadLibrary</title>
+    <updated>2021-04-16T10:55:48.010289+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5786288"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/5177-1/7D7/DDC/CD/{7D7DDCCD-4427-43E3-A64F-9A85BBD2BBE3}Img150.jpg"&gt;
+&lt;h2&gt;The Ultimate Road Trip&lt;/h2&gt;
+&lt;h3&gt;All 89 Games with the Toronto Maple Leafs and the Ultimate Leafs Fan&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Sports &amp; Recreations&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;The Ultimate Leafs Fan makes it his mission to figure out what makes fans bleed blue&lt;/b&gt;&lt;p&gt;Mike Wilson, the man ESPN called the "Ultimate Leafs Fan," attended &lt;i&gt;every&lt;/i&gt; Leaf contest of the 2018&amp;#8211;19 NHL season. With a foreword from...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5786288" rel="alternate"/>
+    <published>2021-04-16T10:55:48.010289+00:00</published>
+  </entry>
+  <entry>
+    <id>5703904</id>
+    <title>Star Trek by James Swallow is in the downloadLibrary</title>
+    <updated>2021-04-16T10:55:48.010289+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5703904"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/718/50F/40/{71850F40-660D-49C0-8E9D-61A35A4F1E9C}Img150.jpg"&gt;
+&lt;h2&gt;Star Trek&lt;/h2&gt;
+&lt;h3&gt;Picard: The Dark Veil&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Science Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;A thrilling untold adventure based on the acclaimed &lt;i&gt;Star Trek: Picard&lt;/i&gt; TV series! &lt;/b&gt;&lt;BR&gt;The Alpha Quadrant is mired in crisis.&lt;BR&gt; &lt;BR&gt;Within the United Federation of Planets, a terrorist strike on the shipyards of Mars has led to the...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5703904" rel="alternate"/>
+    <published>2021-04-16T10:55:48.010289+00:00</published>
+  </entry>
   <entry>
     <id>4692660</id>
     <title>Lost in the Never Woods by Aiden Thomas is in the downloadLibrary</title>
