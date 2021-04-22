@@ -35,6 +35,8 @@ def main():
         print("All new books have been seen already.")
         return
 
+    remove_old_entries_from_feed(feed_generator)
+
     books = sorted(books.values(), key=lambda b: b.creator_name)
     add_books_to_feed(feed_generator, books)
     feed_generator.atom_file("atom.xml", pretty=True)
@@ -53,6 +55,23 @@ def recover_feed_entries_from_file(feed_generator, feed_path):
         recovered_entry.content(type="html", content=entry.find(f"{ns}content").text)
         recovered_entry.published(entry.find(f"{ns}published").text)
         recovered_entry.updated(entry.find(f"{ns}updated").text)
+
+
+def remove_old_entries_from_feed(feed_generator):
+    old_cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(
+        days=90
+    )
+    all_entries = feed_generator.entry()
+    number_of_entries = len(all_entries)
+    first_new_index = number_of_entries
+
+    for i in range(number_of_entries - 1, -1, -1):
+        if all_entries[i].published() >= old_cutoff:
+            first_new_index = i
+            break
+
+    for i in range(first_new_index + 1, number_of_entries):
+        feed_generator.remove_entry(-1)
 
 
 def add_books_to_feed(feed_generator, books):
