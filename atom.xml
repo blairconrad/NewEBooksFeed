@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-05-17T10:57:56.434996+00:00</updated>
+  <updated>2021-05-18T10:57:20.327675+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5572241</id>
+    <title>We Should All Be Millionaires by Rachel Rodgers is in the downloadLibrary</title>
+    <updated>2021-05-18T10:57:20.504139+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5572241"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0409-1/B67/55D/85/{B6755D85-11DC-4173-8C50-DFC655A5599C}Img150.jpg"&gt;
+&lt;h2&gt;We Should All Be Millionaires&lt;/h2&gt;
+&lt;h3&gt;A Woman's Guide to Earning More, Building Wealth, and Gaining Economic Power&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Business, Economics, Nonfiction, Women's Studies&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;While ninety percent of the world's millionaires are men, only ten percent are women, making it difficult for women to wield the economic power that will create lasting equality. Rachel Rodgers, founder of Hello Seven, a company that...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5572241" rel="alternate"/>
+    <published>2021-05-18T10:57:20.504139+00:00</published>
+  </entry>
+  <entry>
+    <id>5762095</id>
+    <title>Hang the Moon by Alexandria Bellefleur is in the downloadLibrary</title>
+    <updated>2021-05-18T10:57:20.504139+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5762095"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/FC6/340/A9/{FC6340A9-1EB1-4D48-82EE-31DB76DEEF29}Img150.jpg"&gt;
+&lt;h2&gt;Hang the Moon&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Humor (Fiction), Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In a delightful follow-up to Written in the Stars, Alexandria Bellefleur delivers another #ownvoices queer rom-com about a hopeless romantic who vows to show his childhood crush that romance isn't dead by recreating iconic dates from...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5762095" rel="alternate"/>
+    <published>2021-05-18T10:57:20.504139+00:00</published>
+  </entry>
   <entry>
     <id>5678302</id>
     <title>The Girl Who Died by Ragnar Jonasson is in the downloadLibrary</title>
@@ -11238,39 +11276,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/5118972" rel="alternate"/>
     <published>2021-02-20T10:52:49.645411+00:00</published>
-  </entry>
-  <entry>
-    <id>2217622</id>
-    <title>History of the Twentieth Century by Martin Gilbert is in the downloadLibrary</title>
-    <updated>2021-02-17T10:51:47.995611+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2217622"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/C1F/BCF/3B/{C1FBCF3B-1242-47AF-ABDB-B29429E749F7}Img150.jpg"&gt;
-&lt;h2&gt;History of the Twentieth Century&lt;/h2&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;blockquote&gt;
-&lt;p&gt;&lt;B&gt;A chronological compilation of twentieth-century world events in one volume&amp;#8212;from the acclaimed historian and biographer of Winston Churchill. &lt;/B&gt;&lt;BR /&gt; &lt;BR /&gt; The twentieth century has been one of the most unique in human history. It...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2217622" rel="alternate"/>
-    <published>2021-02-17T10:51:47.995611+00:00</published>
-  </entry>
-  <entry>
-    <id>2386561</id>
-    <title>Voyage of the Damned by Gordon Thomas is in the downloadLibrary</title>
-    <updated>2021-02-17T10:51:47.995611+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2386561"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/D95/6C6/F6/{D956C6F6-496B-4894-8FAA-F4FE0400FD78}Img150.jpg"&gt;
-&lt;h2&gt;Voyage of the Damned&lt;/h2&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;blockquote&gt;
-&lt;p&gt;&lt;B&gt;The "extraordinary" true story of the &lt;I&gt;St. Louis&lt;/I&gt;, a German ship that, in 1939, carried Jews away from Hamburg&amp;#8212;and into an unimaginable ordeal (&lt;I&gt;The New York Times&lt;/I&gt;).&lt;/B&gt;&lt;BR /&gt; On May 13, 1939, the luxury liner &lt;I&gt;St....
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2386561" rel="alternate"/>
-    <published>2021-02-17T10:51:47.995611+00:00</published>
   </entry>
 </feed>
