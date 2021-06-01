@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-05-29T11:28:32.700970+00:00</updated>
+  <updated>2021-06-01T11:39:59.174582+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5678050</id>
+    <title>Second Place by Rachel Cusk is in the downloadLibrary</title>
+    <updated>2021-06-01T11:39:59.312289+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5678050"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/40E/CD9/80/{40ECD980-9472-42AA-BF1C-B59A22E9632F}Img150.jpg"&gt;
+&lt;h2&gt;Second Place&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Historical Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On a sun-soaked Parisian street, M, a mother on the brink of rebellion, wanders into a famous artist's gallery show. The artist's paintings speak&amp;#8212;quite literally&amp;#8212;to her, promising a liberation usually reserved for men. She returns...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5678050" rel="alternate"/>
+    <published>2021-06-01T11:39:59.312289+00:00</published>
+  </entry>
   <entry>
     <id>650817</id>
     <title>Toward a Spiritual Psychotherapy by Hunter Beaumont, Ph.D. is in the downloadLibrary</title>
@@ -11345,233 +11364,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/5704292" rel="alternate"/>
     <published>2021-03-06T10:54:54.228059+00:00</published>
-  </entry>
-  <entry>
-    <id>5592984</id>
-    <title>A Court of Silver Flames by Sarah J. Maas is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5592984"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2183-1/BFA/702/EB/{BFA702EB-6A0D-4834-8CC4-E30D41EFD4FA}Img150.jpg"&gt;
-&lt;h2&gt;A Court of Silver Flames&lt;/h2&gt;
-&lt;h3&gt;A Court of Thorns and Roses Series, Book 4&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Romance, Young Adult Fiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;Sarah J. Maas's sexy, richly imagined series continues with the journey of Feyre's fiery sister, Nesta. &lt;/b&gt;&lt;br/&gt;Nesta Archeron has always been prickly-proud, swift to anger, and slow to forgive. And ever since being forced into the Cauldron...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5592984" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>2948454</id>
-    <title>The Girl With the Make-Believe Husband by Julia Quinn is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2948454"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/C1C/8F2/AC/{C1C8F2AC-FD19-4CD9-A131-CB6B5E12C967}Img150.jpg"&gt;
-&lt;h2&gt;The Girl With the Make-Believe Husband&lt;/h2&gt;
-&lt;h3&gt;A Bridgerton Prequel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;There were Bridgertons before the eight alphabetically named siblings. In this second of a new prequel series, following Because of Miss Bridgerton, we go back to where it all began. . . from New York Times bestselling author Julia...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2948454" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>2276067</id>
-    <title>Because of Miss Bridgerton by Julia Quinn is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2276067"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/D20/B12/2F/{D20B122F-88CA-4804-804F-213DF73902F5}Img150.jpg"&gt;
-&lt;h2&gt;Because of Miss Bridgerton&lt;/h2&gt;
-&lt;h3&gt;A Bridgerton Prequel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Sometimes you find love in the most unexpected of places...&lt;/p&gt;&lt;p&gt;This is not one of those times.&lt;/p&gt;&lt;p&gt;Everyone expects Billie Bridgerton to marry one of the Rokesby brothers. The two families have been neighbors for centuries, and as a child...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2276067" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>2147947</id>
-    <title>The Viscount Who Loved Me (with 2nd Epilogue) by Julia Quinn is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2147947"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/1B5/8E8/2E/{1B58E82E-C300-443E-9F44-F9C02402B6EB}Img150.jpg"&gt;
-&lt;h2&gt;The Viscount Who Loved Me (with 2nd Epilogue)&lt;/h2&gt;
-&lt;h3&gt;Bridgerton Series, Book 2&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A New York Times bestseller&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;From New York Times bestselling author Julia Quinn comes the second novel in the beloved Regency-set world of her charming, powerful Bridgerton family, now a series...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2147947" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>2147944</id>
-    <title>The Duke and I (with 2nd Epilogue) by Julia Quinn is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2147944"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/9E9/18F/F0/{9E918FF0-D3AF-4FA0-A7C4-B6C3C10687FD}Img150.jpg"&gt;
-&lt;h2&gt;The Duke and I (with 2nd Epilogue)&lt;/h2&gt;
-&lt;h3&gt;Bridgerton Series, Book 1&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A #1 New York Times bestseller &lt;/strong&gt;&lt;strong&gt;&lt;br/&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; &lt;/strong&gt; &lt;strong&gt;From New York Times bestselling author Julia Quinn comes the first novel in the beloved Regency-set world of her charming, powerful...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2147944" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>2147914</id>
-    <title>An Offer from a Gentleman (with 2nd Epilogue) by Julia Quinn is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2147914"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/109/58D/42/{10958D42-860A-4A6A-AF82-192E1F2B1C8F}Img150.jpg"&gt;
-&lt;h2&gt;An Offer from a Gentleman (with 2nd Epilogue)&lt;/h2&gt;
-&lt;h3&gt;Bridgerton Series, Book 3&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;From New York Times bestselling author Julia Quinn comes the story of Benedict Bridgerton, in the third of her beloved Regency-set novels featuring her charming, powerful Bridgerton family, now a series created by Shondaland for...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2147914" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>2145133</id>
-    <title>Romancing Mister Bridgerton (with 2nd Epilogue) by Julia Quinn is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2145133"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/5AC/E2D/0C/{5ACE2D0C-B25B-4DC7-B487-BDB2BACDE658}Img150.jpg"&gt;
-&lt;h2&gt;Romancing Mister Bridgerton (with 2nd Epilogue)&lt;/h2&gt;
-&lt;h3&gt;Bridgerton Series, Book 4&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;From #1 New York Times bestselling author Julia Quinn comes the story of Colin Bridgerton and Penelope Featherington, in the fourth of her beloved Regency-set novels featuring her charming, powerful Bridgerton family, now a series...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2145133" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>1146168</id>
-    <title>The Bridgertons by Julia Quinn is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/1146168"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/DDC/51C/FA/{DDC51CFA-7282-4988-AB55-E454900E20CC}Img150.jpg"&gt;
-&lt;h2&gt;The Bridgertons&lt;/h2&gt;
-&lt;h3&gt;Happily Ever After&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;#1 New York Times bestselling author Julia Quinn presents a novella featuring Violet Bridgerton along with a collection of "second epilogues" to her Bridgerton series&amp;#8212;her beloved Regency-set novels featuring her charming,...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/1146168" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>5450951</id>
-    <title>The Affair by Danielle Steel is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5450951"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/3A4/D79/18/{3A4D7918-1891-4863-81D0-90684A778D3C}Img150.jpg"&gt;
-&lt;h2&gt;The Affair&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;In this riveting novel, Danielle Steel explores a high-profile affair that reverberates throughout an entire family, from the wounded wife to her husband&amp;#8212;torn between two women&amp;#8212;to the wife's close-knit sisters and their...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5450951" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>5537186</id>
-    <title>An Unexpected Peril by DEANNA RAYBOURN is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5537186"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/0D4/675/C8/{0D4675C8-4E52-48E8-A1CA-C502B7B354A2}Img150.jpg"&gt;
-&lt;h2&gt;An Unexpected Peril&lt;/h2&gt;
-&lt;h3&gt;A Veronica Speedwell Mystery Series, Book 6&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Mystery, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;A princess is missing and a peace treaty is on the verge of collapse in this new Veronica Speedwell adventure from the &lt;i&gt;New York Times&lt;/i&gt; bestselling and Edgar Award-nominated author Deanna Raybourn.&lt;/b&gt;&lt;br&gt;&lt;i&gt;January 1889. &lt;/i&gt;As the...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5537186" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>5511380</id>
-    <title>We Begin at the End by Chris Whitaker is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5511380"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/554/CCB/E8/{554CCBE8-C0C8-49A2-81ED-36619684790E}Img150.jpg"&gt;
-&lt;h2&gt;We Begin at the End&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Mystery&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;"A vibrant, engrossing, unputdownable thriller that packs a serious emotional punch. One of those rare books that surprise you along the way and then linger in your mind long after you have finished it."&lt;br&gt;&amp;#8212;Kristin Hannah, #1 &lt;i&gt;New...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5511380" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
-  </entry>
-  <entry>
-    <id>4985952</id>
-    <title>The Art of Taking It Easy by Brian King is in the downloadLibrary</title>
-    <updated>2021-03-03T10:54:27.531798+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4985952"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/AC5/D72/57/{AC5D7257-C310-48D5-A2E3-D0717B0D0D12}Img150.jpg"&gt;
-&lt;h2&gt;The Art of Taking It Easy&lt;/h2&gt;
-&lt;h3&gt;How to Cope with Bears, Traffic, and the Rest of Life's Stressors&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Business, Humor (Nonfiction), Nonfiction, Self-Improvement&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;&amp;#8212; Selected for OverDrive's Big Library Read (April 2021)! &amp;#8212; &lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;From a psychologist and stand-up comedian comes a practical, yet laugh-out-loud guide to embracing humor to reduce stress and live a happier, fuller...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4985952" rel="alternate"/>
-    <published>2021-03-03T10:54:27.531798+00:00</published>
   </entry>
 </feed>
