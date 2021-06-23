@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-06-22T10:53:04.801125+00:00</updated>
+  <updated>2021-06-23T10:53:15.878054+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>2309754</id>
+    <title>Yellow Emperor's Cure by Kanal Basu is in the downloadLibrary</title>
+    <updated>2021-06-23T10:53:15.971252+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/2309754"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/4951-1/C32/2B1/A9/{C322B1A9-8F45-4883-B7FB-330EB150F1D1}Img150.jpg"&gt;
+&lt;h2&gt;Yellow Emperor's Cure&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lisbon, 1898: Antonio Maria, surgeon and notorious playboy, returns home after a long absence to learn his beloved father has syphilis, the scourge of both rich and poor. Determined to find a cure, Antonio sets sail for Peking, to study under...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/2309754" rel="alternate"/>
+    <published>2021-06-23T10:53:15.971252+00:00</published>
+  </entry>
   <entry>
     <id>5808571</id>
     <title>The Other Black Girl by Zakiya Dalila Harris is in the downloadLibrary</title>
@@ -7693,43 +7712,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/2203940" rel="alternate"/>
     <published>2021-03-27T10:57:05.585527+00:00</published>
-  </entry>
-  <entry>
-    <id>5417162</id>
-    <title>Remote Control by Nnedi Okorafor is in the downloadLibrary</title>
-    <updated>2021-03-24T11:13:00.541000+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5417162"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/01D/F47/EC/{01DF47EC-71A2-4E57-A264-8EA601905F05}Img150.jpg"&gt;
-&lt;h2&gt;Remote Control&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Science Fiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;An alien artifact turns a young girl into Death's adopted daughter in &lt;i&gt;Remote Control&lt;/i&gt;, a thrilling sci-fi tale of community and female empowerment from Nebula and Hugo Award-winner Nnedi Okorafor&lt;/b&gt;&lt;br&gt;&lt;b&gt;"She's the adopted daughter...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5417162" rel="alternate"/>
-    <published>2021-03-24T11:13:00.541000+00:00</published>
-  </entry>
-  <entry>
-    <id>1416734</id>
-    <title>To Cut a Long Story Short by Jeffrey Archer is in the downloadLibrary</title>
-    <updated>2021-03-24T11:13:00.541000+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/1416734"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/C1F/CAC/CA/{C1FCACCA-7C78-4618-96E4-5628CEE674D6}Img150.jpg"&gt;
-&lt;h2&gt;To Cut a Long Story Short&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;From the master storyteller comes a masterful collection of fourteen riveting tales of elaborate confidence tricks, political chicanery, immoral behavior, and dangerously illicit affairs, rendered with the breathtaking narrative twists that...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/1416734" rel="alternate"/>
-    <published>2021-03-24T11:13:00.541000+00:00</published>
   </entry>
 </feed>
