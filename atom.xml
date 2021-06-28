@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-06-26T10:52:57.120618+00:00</updated>
+  <updated>2021-06-28T10:52:56.173411+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5376624</id>
+    <title>The Quiet Girl by S. F. Kosa is in the downloadLibrary</title>
+    <updated>2021-06-28T10:52:56.304135+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5376624"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0174-1/84A/FF1/75/{84AFF175-0B10-4BA3-AC24-7D05EA0CB2F6}Img150.jpg"&gt;
+&lt;h2&gt;The Quiet Girl&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Good girls keep quiet. But quiet girls can't stay silent forever—and the consequences are sure to make some noise.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When Alex arrives in Provincetown to patch things up with his new wife, Mina, he finds an empty wine...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5376624" rel="alternate"/>
+    <published>2021-06-28T10:52:56.304135+00:00</published>
+  </entry>
   <entry>
     <id>5606591</id>
     <title>Northern Heist by Richard O'Rawe is in the downloadLibrary</title>
