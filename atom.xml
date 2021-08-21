@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-08-20T10:52:43.426080+00:00</updated>
+  <updated>2021-08-21T10:53:49.374275+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>300204</id>
+    <title>Slow Heat by Jill Shalvis is in the downloadLibrary</title>
+    <updated>2021-08-21T10:53:49.496247+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/300204"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/B8E/F6D/49/{B8EF6D49-AA43-442F-9519-C5F901076823}Img150.jpg"&gt;
+&lt;h2&gt;Slow Heat&lt;/h2&gt;
+&lt;h3&gt;Pacific Heat Series, Book 2&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;From the &lt;i&gt;New York Times &lt;/i&gt;bestselling author of &lt;i&gt;Double Play,&amp;#160;Rescue My Heart,&lt;/i&gt;&amp;#160;&lt;i&gt;The Trouble with Paradise&lt;/i&gt;, and the Lucky Harbor novels...&lt;/b&gt;&lt;br&gt;After a woman claims she&amp;#8217;s pregnant with Wade...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/300204" rel="alternate"/>
+    <published>2021-08-21T10:53:49.496247+00:00</published>
+  </entry>
   <entry>
     <id>3209049</id>
     <title>Releasing Henry by Sarah Hegger is in the downloadLibrary</title>
@@ -7715,176 +7734,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/797036" rel="alternate"/>
     <published>2021-05-26T11:11:23.641518+00:00</published>
-  </entry>
-  <entry>
-    <id>5715494</id>
-    <title>Sufferance by Thomas King is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5715494"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/61E/9CD/42/{61E9CD42-1FFC-4C45-A275-97C3ED9BEB9B}Img150.jpg"&gt;
-&lt;h2&gt;Sufferance&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Humor (Fiction), Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Jeremiah Camp, a.k.a. the Forecaster, can look into the heart of humanity and see the patterns that create opportunities and profits for the rich and powerful. Problem is, Camp has looked one too many times, has seen what he hadn't expected to...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5715494" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5626911</id>
-    <title>The Summer Seekers by Sarah Morgan is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5626911"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-100/1071-1/{D6B18C3C-7F78-470F-9BB0-890CB9CAADA2}Img100.jpg"&gt;
-&lt;h2&gt;The Summer Seekers&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-"The ultimate road-trippin' beach read and just what we all need after the long lockdown." &amp;#8212;Booklist, STARRED REVIEW for THE SUMMER SEEKERS&lt;br /&gt;"The Summer Seekers is the ultimate road trip book&lt;strong&gt;.&lt;/strong&gt;"&amp;#8212;&lt;strong&gt;Susan...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5626911" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5678952</id>
-    <title>Family Reunion by Nancy Thayer is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5678952"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/2B8/A64/94/{2B8A6494-6934-4BC6-BA78-2C4DAA1F676A}Img150.jpg"&gt;
-&lt;h2&gt;Family Reunion&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;A longtime Nantucket resident is trying to make the best of a lonely summer. Her spirited granddaughter is learning what she wants out of life. Unforgettable surprises await them both in this magical, multigenerational novel from &lt;i&gt;New York...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5678952" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5665589</id>
-    <title>Just Last Night by Mhairi McFarlane is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5665589"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/43F/ADD/F1/{43FADDF1-62AA-41DD-8F92-E8C9393C76E3}Img150.jpg"&gt;
-&lt;h2&gt;Just Last Night&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;"I cannot remember the last book I loved as much... a luminous, heart-achingly beautiful love letter to friendship. Knockout!" &amp;#8212; Josie Silver &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;International bestseller Mhairi McFarlane explores lifelong...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5665589" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5641268</id>
-    <title>Local Woman Missing by Mary Kubica is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5641268"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1071-1/8DB/55A/3A/{8DB55A3A-0A2B-4564-8310-8F06BC195D80}Img150.jpg"&gt;
-&lt;h2&gt;Local Woman Missing&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;strong&gt;"Dark and twisty, with white-knuckle tension and jaw-dropping surprises." &amp;#8212;Riley Sager, New York Times bestselling author of Home Before Dark&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;In this smart and chilling thriller, master of suspense Mary Kubica...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5641268" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5665688</id>
-    <title>Madhouse at the End of the Earth by Julian Sancton is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5665688"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/AA0/844/6E/{AA08446E-188A-46D3-979A-427901F5139D}Img150.jpg"&gt;
-&lt;h2&gt;Madhouse at the End of the Earth&lt;/h2&gt;
-&lt;h3&gt;The Belgica's Journey into the Dark Antarctic Night&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, History, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;The&amp;#160;&lt;b&gt;&amp;ldquo;exquisitely researched and deeply engrossing&amp;rdquo; (&lt;i&gt;The New York Times&lt;/i&gt;)&lt;/b&gt; true survival story of an early polar expedition that went terribly awry&amp;mdash;with the ship frozen in ice and the crew trapped inside for...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5665688" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5695320</id>
-    <title>The Anthropocene Reviewed by John Green is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5695320"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/912/0B7/32/{9120B732-EE69-45F0-8301-0C5714147A83}Img150.jpg"&gt;
-&lt;h2&gt;The Anthropocene Reviewed&lt;/h2&gt;
-&lt;h3&gt;Essays on a Human-Centered Planet&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Essays, Literary Criticism, Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;A deeply moving and insightful collection of personal essays from #1 bestselling author John Green.&lt;/b&gt;&lt;br&gt;The Anthropocene is the current geologic age, in which humans have profoundly reshaped the planet and its biodiversity.&amp;#160;In this...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5695320" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5783304</id>
-    <title>The Final Twist by Jeffery Deaver is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5783304"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/1A8/44E/F0/{1A844EF0-60E2-45B3-887E-FD87418E4E78}Img150.jpg"&gt;
-&lt;h2&gt;The Final Twist&lt;/h2&gt;
-&lt;h3&gt;Colter Shaw Series, Book 3&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;"The master of ticking-bomb suspense" (&lt;i&gt;People&lt;/i&gt;) returns with a devilishly good thriller, and reward seeker Colter Shaw's most personal case to date.&lt;/b&gt;&lt;br&gt;Just hours after the harrowing events of &lt;i&gt;The Goodbye Man&lt;/i&gt;, Colter Shaw is...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5783304" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
-  </entry>
-  <entry>
-    <id>5697154</id>
-    <title>The Nature of Oaks by Douglas W. Tallamy is in the downloadLibrary</title>
-    <updated>2021-05-22T10:58:30.524762+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5697154"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1953-1/7D5/44A/92/{7D544A92-C453-4B04-A370-CA7659F0F9D0}Img150.jpg"&gt;
-&lt;h2&gt;The Nature of Oaks&lt;/h2&gt;
-&lt;h3&gt;The Rich Ecology of Our Most Essential Native Trees&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Gardening, Nature, Nonfiction, Science&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;P&gt;&lt;B&gt;&amp;ldquo;A timely and much needed call to plant, protect, and delight in these diverse, life-giving giants.&amp;rdquo;&lt;/B&gt;&lt;B&gt; &amp;mdash;&lt;/B&gt;&lt;B&gt;David George Haskell, author of &lt;I&gt;The Forest Unseen&lt;/I&gt; and &lt;I&gt;The Songs of Trees&lt;/I&gt;&lt;/B&gt;&lt;BR /&gt;...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5697154" rel="alternate"/>
-    <published>2021-05-22T10:58:30.524762+00:00</published>
   </entry>
 </feed>
