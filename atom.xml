@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-08-27T10:52:58.704245+00:00</updated>
+  <updated>2021-08-28T10:52:48.221251+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6182156</id>
+    <title>The Shortest History of War by Gwynne Dyer is in the downloadLibrary</title>
+    <updated>2021-08-28T10:52:48.381982+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6182156"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/C63/C05/41/{C63C0541-1F20-42AA-9C3B-C47C12F40151}Img150.jpg"&gt;
+&lt;h2&gt;The Shortest History of War&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: History, Military, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;READ IN A DAY. REMEMBER FOR A LIFETIME.&lt;/b&gt;&lt;br&gt;
+In this timely addition to the bestselling &lt;I&gt;Shortest History&lt;/I&gt; series, acclaimed writer and military expert Gwynne Dyer tells the story of war from its prehistoric &amp;#8212; perhaps...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6182156" rel="alternate"/>
+    <published>2021-08-28T10:52:48.381982+00:00</published>
+  </entry>
   <entry>
     <id>5678043</id>
     <title>The Spectacular by Zoe Whittall is in the downloadLibrary</title>
@@ -10391,43 +10411,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/5678050" rel="alternate"/>
     <published>2021-06-01T11:39:59.312289+00:00</published>
-  </entry>
-  <entry>
-    <id>650817</id>
-    <title>Toward a Spiritual Psychotherapy by Hunter Beaumont, Ph.D. is in the downloadLibrary</title>
-    <updated>2021-05-29T11:28:32.868661+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/650817"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/8F2/D83/AC/{8F2D83AC-3EDA-4CDB-93EB-379C7468CA0C}Img150.jpg"&gt;
-&lt;h2&gt;Toward a Spiritual Psychotherapy&lt;/h2&gt;
-&lt;h3&gt;Soul as a Dimension of Experience&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, New Age, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;i&gt;Toward a Spiritual Psychotherapy &lt;/i&gt;collects a series of lectures presented by psychologist Hunter Beaumont over a 10-year period. Covering such themes as relationships, family, healing, grief, mourning, and death, the book features case...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/650817" rel="alternate"/>
-    <published>2021-05-29T11:28:32.868661+00:00</published>
-  </entry>
-  <entry>
-    <id>5852159</id>
-    <title>Facing the Mountain by Daniel James Brown is in the downloadLibrary</title>
-    <updated>2021-05-29T11:28:32.868661+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5852159"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/530/B53/55/{530B5355-E507-4A7C-AF1E-21379CCBD9D3}Img150.jpg"&gt;
-&lt;h2&gt;Facing the Mountain&lt;/h2&gt;
-&lt;h3&gt;A True Story of Japanese American Heroes in World War II&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, History, Military, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;b&gt;&lt;b&gt;A&amp;nbsp;&lt;i&gt;NEW YORK TIMES&lt;/i&gt;&amp;nbsp;BESTSELLER&lt;/b&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;b&gt;&amp;ldquo;Masterly. An epic story of four Japanese-American families and their sons who volunteered for military service and displayed uncommon heroism&amp;hellip; Propulsive...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5852159" rel="alternate"/>
-    <published>2021-05-29T11:28:32.868661+00:00</published>
   </entry>
 </feed>
