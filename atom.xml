@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-09-04T10:52:54.213950+00:00</updated>
+  <updated>2021-09-05T10:52:48.173614+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5428333</id>
+    <title>Affaire Royale by Nora Roberts is in the downloadLibrary</title>
+    <updated>2021-09-05T10:52:48.382644+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5428333"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/2B2/6C4/D7/{2B26C4D7-91D2-44CE-82C9-A0D81415DF18}Img150.jpg"&gt;
+&lt;h2&gt;Affaire Royale&lt;/h2&gt;
+&lt;h3&gt;Cordina's Royal Family Series, Book 1&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Romance, Suspense&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;"The queen of romantic suspense" (&lt;i&gt;The Columbus Dispatch&lt;/i&gt;), #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Nora Roberts begins her Cordina's Royal Family quartet with the story of a woman targeted for her noble lineage, the man tasked...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5428333" rel="alternate"/>
+    <published>2021-09-05T10:52:48.382644+00:00</published>
+  </entry>
+  <entry>
+    <id>5651155</id>
+    <title>The Love Songs of W.E.B. Du Bois by Honoree Fanonne Jeffers is in the downloadLibrary</title>
+    <updated>2021-09-05T10:52:48.382644+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5651155"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/71C/D94/1D/{71CD941D-0B4F-4623-9A4D-EA461C8767B9}Img150.jpg"&gt;
+&lt;h2&gt;The Love Songs of W.E.B. Du Bois&lt;/h2&gt;
+&lt;h3&gt;An Oprah's Book Club Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: African American Fiction, Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A New York Times Book Everyone Will Be Talking About&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;"This sweeping, brilliant and beautiful narrative is at once a love song to Black girlhood, family, history, joy, pain... and so much more. In Jeffers' deft...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5651155" rel="alternate"/>
+    <published>2021-09-05T10:52:48.382644+00:00</published>
+  </entry>
   <entry>
     <id>5810238</id>
     <title>Island of Thieves by Glen Erik Hamilton is in the downloadLibrary</title>
