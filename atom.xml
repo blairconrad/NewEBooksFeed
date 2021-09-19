@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-09-18T10:52:52.377916+00:00</updated>
+  <updated>2021-09-19T10:52:55.769745+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6086291</id>
+    <title>Living the 1.5 Degree Lifestyle by Lloyd Alter is in the downloadLibrary</title>
+    <updated>2021-09-19T10:52:55.929902+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6086291"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/A4D/49A/98/{A4D49A98-4394-47F6-A127-20FF13A731C9}Img150.jpg"&gt;
+&lt;h2&gt;Living the 1.5 Degree Lifestyle&lt;/h2&gt;
+&lt;h3&gt;Why Individual Climate Action Matters More than Ever&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Home Design &amp; Décor, Nonfiction, Politics, Self-Improvement&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; &lt;strong&gt; Stop thinking about efficiency and start thinking about sufficiency &lt;/strong&gt; &lt;/p&gt; &lt;p&gt; Living the 1.5 Degree Lifestyle reveals the carbon cost of everything we do, identifying where we can make big reductions, while not sweating the...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6086291" rel="alternate"/>
+    <published>2021-09-19T10:52:55.929902+00:00</published>
+  </entry>
   <entry>
     <id>4602429</id>
     <title>She/He/They/Me by Robyn Ryle is in the downloadLibrary</title>
