@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-09-19T10:52:55.769745+00:00</updated>
+  <updated>2021-09-21T10:52:50.238300+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5502169</id>
+    <title>Pride and Papercuts by Staci Hart is in the downloadLibrary</title>
+    <updated>2021-09-21T10:52:50.428610+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5502169"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/7168-1/061/3DB/57/{0613DB57-1F52-4D56-9E99-0D9C57596A04}Img150.jpg"&gt;
+&lt;h2&gt;Pride and Papercuts&lt;/h2&gt;
+&lt;h3&gt;Inspired by Jane Austen's Pride and Prejudice&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bestselling author Staci Hart is back with the Pride and Prejudice retelling you've been waiting for. We're back at Wasted Words, the book bar of our dreams, for the epic finale of the Austen series, where we'll follow Laney Bennet and Liam...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5502169" rel="alternate"/>
+    <published>2021-09-21T10:52:50.428610+00:00</published>
+  </entry>
+  <entry>
+    <id>6429077</id>
+    <title>Developing Modern Database Applications with PostgreSQL by Dr. Quan Ha Le is in the downloadLibrary</title>
+    <updated>2021-09-21T10:52:50.428610+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6429077"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6135-1/137/D8F/30/{137D8F30-ECD5-4A71-860B-B6E2FF8B807A}Img150.jpg"&gt;
+&lt;h2&gt;Developing Modern Database Applications with PostgreSQL&lt;/h2&gt;
+&lt;h3&gt;Use the highly available and object-relational PostgreSQL to build scalable and reliable apps&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Computer Technology, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;Get up to speed with core PostgreSQL tasks such as database administration, application development, database performance monitoring, and database testing&lt;/b&gt;&lt;/p&gt;Key Features&lt;li&gt;Build real-world enterprise database management systems using...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6429077" rel="alternate"/>
+    <published>2021-09-21T10:52:50.428610+00:00</published>
+  </entry>
   <entry>
     <id>6086291</id>
     <title>Living the 1.5 Degree Lifestyle by Lloyd Alter is in the downloadLibrary</title>
@@ -13111,290 +13149,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/2309754" rel="alternate"/>
     <published>2021-06-23T10:53:15.971252+00:00</published>
-  </entry>
-  <entry>
-    <id>5808571</id>
-    <title>The Other Black Girl by Zakiya Dalila Harris is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5808571"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/77D/ABB/C4/{77DABBC4-0114-4DFB-96E0-A98EE1BAE8A3}Img150.jpg"&gt;
-&lt;h2&gt;The Other Black Girl&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: African American Fiction, Fiction, Literature, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;INSTANT &lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTSELLER&lt;/b&gt;&lt;BR&gt; &lt;BR&gt;&lt;b&gt;A &lt;i&gt;Good Morning America&lt;/i&gt;, &lt;i&gt;Esquire&lt;/i&gt;, and &lt;i&gt;Read with Marie Claire&lt;/i&gt; Book Club Pick and a &lt;i&gt;People&lt;/i&gt; Best Book of Summer&lt;/b&gt;&lt;BR&gt; &lt;BR&gt;&lt;b&gt;Named a Most Anticipated Book of...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5808571" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5772982</id>
-    <title>Seven Days in June by Tia Williams is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5772982"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/13C/8F8/7A/{13C8F87A-125E-4BF7-BF7D-ED95D53DBE27}Img150.jpg"&gt;
-&lt;h2&gt;Seven Days in June&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: African American Fiction, Fiction, Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;Seven days to fall in love, fifteen years to forget and seven days to get it all back again... From the author of&lt;i&gt; The Perfect Find&lt;/i&gt;, this is a witty, romantic, and sexy-as-hell new novel of two writers and their second chance at...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5772982" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5546091</id>
-    <title>Malibu Rising by Taylor Jenkins Reid is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5546091"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/C4E/69C/9B/{C4E69C9B-26BD-4F4A-B7E1-52CCE94CA9CE}Img150.jpg"&gt;
-&lt;h2&gt;Malibu Rising&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;b&gt;Malibu 1983. Four famous siblings throw an epic party to celebrate the end of the summer. But over the course of one night, each of their lives will be changed forever in this propulsive novel from the &lt;/b&gt;&lt;b&gt;&lt;i&gt;New York Times&lt;/i&gt;&lt;/b&gt;&lt;b&gt;...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5546091" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5733589</id>
-    <title>Jackpot by Stuart Woods is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5733589"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/3F3/7D5/93/{3F37D593-CF16-4284-AC2F-EC4B60042621}Img150.jpg"&gt;
-&lt;h2&gt;Jackpot&lt;/h2&gt;
-&lt;h3&gt;Teddy Fay Series, Book 5&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;Teddy Fay hedges his bets in the latest thriller from #1 &lt;i&gt;New York Times&lt;/i&gt;-bestselling author Stuart Woods.&lt;/b&gt;&lt;br&gt;When Peter Barrington and Ben Bachetti come under threat while working at a film festival abroad, Teddy Fay is lured to the...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5733589" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>6016348</id>
-    <title>The Plague Year by Lawrence Wright is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6016348"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/21D/554/04/{21D55404-E5F0-4011-A3AC-C2CE973F2060}Img150.jpg"&gt;
-&lt;h2&gt;The Plague Year&lt;/h2&gt;
-&lt;h3&gt;America in the Time of Covid&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Medical, Nonfiction, Politics, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;b&gt;From the Pulitzer Prize&amp;ndash;winning author of &lt;i&gt;The Looming Tower:&lt;/i&gt; an unprecedented, momentous account of Covid-19&amp;mdash;its origins, its wide-ranging repercussions, and the ongoing global fight to contain...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6016348" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5417160</id>
-    <title>One Two Three by Laurie Frankel is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5417160"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/893/C28/4D/{893C284D-4FFB-46BC-86B8-8CC782C7FABB}Img150.jpg"&gt;
-&lt;h2&gt;One Two Three&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;From the &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;This Is How It Always Is&lt;/i&gt;, a Reese's Book Club x Hello Sunshine Book Pick, comes a timely, topical novel about how, when days are darkest, it's our daughters who will save us...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5417160" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5678400</id>
-    <title>The Warsaw Orphan by Kelly Rimmer is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5678400"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1071-1/134/A50/7F/{134A507F-242A-44F5-B019-5C0B81434CAF}Img150.jpg"&gt;
-&lt;h2&gt;The Warsaw Orphan&lt;/h2&gt;
-&lt;h3&gt;A WWII Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;strong&gt;Instant New York Times bestseller!&lt;br /&gt;Inspired by the real-life heroine who saved thousands of Jewish children during WWII, The Warsaw Orphan is Kelly Rimmer's most anticipated novel since her bestselling sensation, The Things We Cannot...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5678400" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5728447</id>
-    <title>The Eagle's Claw by Jeff Shaara is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5728447"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/41E/FBA/5E/{41EFBA5E-8654-4A28-8B2C-B0534FB421A7}Img150.jpg"&gt;
-&lt;h2&gt;The Eagle's Claw&lt;/h2&gt;
-&lt;h3&gt;A Novel of the Battle of Midway&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;In a riveting tale that picks up where &lt;i&gt;To Wake the Giant&lt;/i&gt; left off, &lt;i&gt;New York Times&lt;/i&gt; bestselling author Jeff Shaara transports us to the Battle of Midway in another masterpiece of military historical fiction.&lt;/b&gt;&lt;br&gt;Spring 1942. The...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5728447" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5536473</id>
-    <title>The President's Daughter by James Patterson is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5536473"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/A55/3A6/72/{A553A672-B755-424F-9FAB-0218E81C6FBE}Img150.jpg"&gt;
-&lt;h2&gt;The President's Daughter&lt;/h2&gt;
-&lt;h3&gt;A Thriller&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;P&gt;&lt;B&gt;All presidents have nightmares. This one is about to come true.&lt;BR /&gt;A rocket ride of a thriller&amp;#8212;the new blockbuster by President Bill Clinton and James Patterson, "the dream team" (Lee Child).&amp;#8203;&lt;/B&gt;&lt;BR /&gt;&lt;I&gt;Every detail is...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5536473" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5808612</id>
-    <title>Unfinished Business by J.A. Jance is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5808612"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/E12/301/AF/{E12301AF-9D44-4CF5-9C83-BFC49EDFF544}Img150.jpg"&gt;
-&lt;h2&gt;Unfinished Business&lt;/h2&gt;
-&lt;h3&gt;Ali Reynolds Series, Book 16&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;In this heart-pounding and sharply written thriller from J.A. Jance, the "grand master of the genre" (&lt;i&gt;The Providence Journal&lt;/i&gt;), Ali Reynolds's personal life is thrown into turmoil just as two men show up on the scene&amp;#8212;a former...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5808612" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5772987</id>
-    <title>The Bullet by Iris Johansen is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5772987"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/CC2/B4C/34/{CC2B4C34-E516-488E-AE8C-17D6A3654E45}Img150.jpg"&gt;
-&lt;h2&gt;The Bullet&lt;/h2&gt;
-&lt;h3&gt;Eve Duncan Series, Book 27&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;B&gt;From a #1 &lt;I&gt;New York Times&lt;/I&gt; bestselling author, a woman finally gets her happily-ever-after ending with the man she loves&amp;#8212;until a woman on the run shows up on her doorstep with enough secrets to get them all killed.&lt;/B&gt;
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5772987" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5907997</id>
-    <title>Golden Girl by Elin Hilderbrand is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5907997"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/155/A95/22/{155A9522-A6FC-4609-8ACA-2BB3BC64F065}Img150.jpg"&gt;
-&lt;h2&gt;Golden Girl&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;P&gt;&lt;B&gt;In this satisfying page-turner from "the queen of beach reads" (&lt;I&gt;New York Magazine&lt;/I&gt;), a Nantucket novelist has one final summer to protect her secrets while her loved ones on earth learn to live without their golden girl.&lt;/B&gt;&lt;/P&gt;&lt;P&gt;On...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5907997" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5733507</id>
-    <title>The Disappearing Act by Catherine Steadman is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5733507"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/17A/A27/0E/{17AA270E-E0C1-4639-9546-8B234F336D16}Img150.jpg"&gt;
-&lt;h2&gt;The Disappearing Act&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;From the&amp;#160;&lt;i&gt;New York Times&amp;#160;&lt;/i&gt;bestselling author of&amp;#160;&lt;i&gt;Something in the Water&lt;/i&gt;&amp;#160;and&amp;#160;&lt;i&gt;Mr. Nobody&amp;#160;&lt;/i&gt;comes&amp;#160;&amp;ldquo;an unputdownable mystery about the nightmares that abound in the pursuit of Hollywood...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5733507" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>5962628</id>
-    <title>The Road Trip by Beth O'Leary is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5962628"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/536/3D5/4E/{5363D54E-4B69-43B0-AECB-C7643FD299FB}Img150.jpg"&gt;
-&lt;h2&gt;The Road Trip&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Humor (Fiction), Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;Two exes reach a new level of awkward when forced to take a road trip together in this endearing and humorous novel by the author of the international bestseller &lt;i&gt;The Flatshare.&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;What if the end of the road is just the...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5962628" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
-  </entry>
-  <entry>
-    <id>3093008</id>
-    <title>Heart on Fire by Amanda Bouchet is in the downloadLibrary</title>
-    <updated>2021-06-22T10:53:04.898607+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/3093008"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0174-1/9E9/6B5/21/{9E96B521-DD97-437F-B547-52CB6710D737}Img150.jpg"&gt;
-&lt;h2&gt;Heart on Fire&lt;/h2&gt;
-&lt;h3&gt;The Kingmaker Chronicles Series, Book 3&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Fiction, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;One of Entertainment Weekly's 27 Female Authors Who Rule Sci-Fi and Fantasy Right Now and the riveting conclusion to the Kingmaker Chronicles!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;GODS. I'M AN IDIOT.&lt;/strong&gt;&lt;br&gt;Without Griffin—and apparently a few...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/3093008" rel="alternate"/>
-    <published>2021-06-22T10:53:04.898607+00:00</published>
   </entry>
 </feed>
