@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-09-22T10:52:51.348828+00:00</updated>
+  <updated>2021-09-23T10:52:50.328676+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5243091</id>
+    <title>Love Hard by Nalini Singh is in the downloadLibrary</title>
+    <updated>2021-09-23T10:52:50.562119+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5243091"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/3082-1/25E/B62/12/{25EB6212-75B4-4E03-AC29-BF17CF89A69A}Img150.jpg"&gt;
+&lt;h2&gt;Love Hard&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;i&gt;New York Times&lt;/i&gt; bestselling author Nalini Singh brings you the next sizzling story in her Hard Play contemporary romance series...&lt;/b&gt;&lt;br&gt;&lt;/br&gt; Jacob Esera, star rugby player and young single father, has worked hard to create a joyous...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5243091" rel="alternate"/>
+    <published>2021-09-23T10:52:50.562119+00:00</published>
+  </entry>
+  <entry>
+    <id>2124405</id>
+    <title>Rock Hard by Nalini Singh is in the downloadLibrary</title>
+    <updated>2021-09-23T10:52:50.562119+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/2124405"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/3082-1/928/1F8/05/{9281F805-B051-4B0A-9CA2-2EC2BFF36B5C}Img150.jpg"&gt;
+&lt;h2&gt;Rock Hard&lt;/h2&gt;
+&lt;h3&gt;Rock Kiss Series, Book 2&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In &lt;i&gt;New York Times&lt;/i&gt; bestselling author Nalini Singh's newest contemporary romance, passion ignites between a gorgeous, sinfully sexy man who built himself up from nothing and a shy woman who has a terrible secret in her past...&lt;p&gt;Wealthy...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/2124405" rel="alternate"/>
+    <published>2021-09-23T10:52:50.562119+00:00</published>
+  </entry>
+  <entry>
+    <id>6329215</id>
+    <title>Unreconciled by Jesse Wente is in the downloadLibrary</title>
+    <updated>2021-09-23T10:52:50.562119+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6329215"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/5C9/840/31/{5C984031-E408-4160-BF3E-84CACA91C21F}Img150.jpg"&gt;
+&lt;h2&gt;Unreconciled&lt;/h2&gt;
+&lt;h3&gt;Family, Truth, and Indigenous Resistance&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Multi-Cultural, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;"&lt;i&gt;Unreconciled&lt;/i&gt; is one hell of a good book. Jesse Wente&amp;rsquo;s narrative moves effortlessly from the personal to the historical to the contemporary. Very powerful, and a joy to read."&lt;br&gt;&lt;b&gt;&amp;mdash;Thomas King, author of &lt;i&gt;The...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6329215" rel="alternate"/>
+    <published>2021-09-23T10:52:50.562119+00:00</published>
+  </entry>
   <entry>
     <id>5997244</id>
     <title>Iron Widow by Xiran Jay Zhao is in the downloadLibrary</title>
