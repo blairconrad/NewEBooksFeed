@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-09-29T10:52:53.530967+00:00</updated>
+  <updated>2021-09-30T10:52:48.987671+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>2670789</id>
+    <title>Becoming Unbecoming by UNA is in the downloadLibrary</title>
+    <updated>2021-09-30T10:52:49.234593+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/2670789"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/C5F/3FE/70/{C5F3FE70-6412-48BE-ACA6-26B010DB68AC}Img150.jpg"&gt;
+&lt;h2&gt;Becoming Unbecoming&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Comic and Graphic Books, Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This extraordinary graphic novel is a powerful denunciation of sexual violence against women. As seen through the eyes of a twelve-year-old girl named Una, it takes place in northern England in 1977, as the Yorkshire Ripper, a serial killer of...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/2670789" rel="alternate"/>
+    <published>2021-09-30T10:52:49.234593+00:00</published>
+  </entry>
+  <entry>
+    <id>4942678</id>
+    <title>Marry in Scarlet by Anne Gracie is in the downloadLibrary</title>
+    <updated>2021-09-30T10:52:49.234593+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/4942678"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/C02/ED5/1C/{C02ED51C-0DDC-4F53-955D-5C7F5032F4DC}Img150.jpg"&gt;
+&lt;h2&gt;Marry in Scarlet&lt;/h2&gt;
+&lt;h3&gt;Marriage of Convenience Series, Book 4&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;A marriage born of passion and scandal turns into something more from the bestselling author of &lt;i&gt;Marry in Secret&lt;/i&gt;.&lt;/b&gt;&lt;br&gt;&lt;b&gt;When a duke denied . . .&lt;/b&gt; &lt;br&gt; The proud and arrogant Duke of Everingham is determined to secure a marriage of...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/4942678" rel="alternate"/>
+    <published>2021-09-30T10:52:49.234593+00:00</published>
+  </entry>
   <entry>
     <id>6008511</id>
     <title>The Christmas Wedding Guest by Susan Mallery is in the downloadLibrary</title>
