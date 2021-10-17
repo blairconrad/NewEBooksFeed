@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-10-15T10:52:45.680726+00:00</updated>
+  <updated>2021-10-17T10:52:50.391925+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5979296</id>
+    <title>The Great Glorious Goddamn of It All by Josh Ritter is in the downloadLibrary</title>
+    <updated>2021-10-17T10:52:50.584566+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5979296"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1071-1/4F5/06E/14/{4F506E14-A485-44DE-A5AF-F9A3E4B02381}Img150.jpg"&gt;
+&lt;h2&gt;The Great Glorious Goddamn of It All&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;strong&gt;From singer-songwriter Josh Ritter, a lyrical, sweeping novel about a young boy's coming-of-age during the last days of the lumberjacks.&lt;/strong&gt;&lt;br /&gt;In the tiny timber town of Cordelia, Idaho, ninety-nine year old Weldon Applegate...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5979296" rel="alternate"/>
+    <published>2021-10-17T10:52:50.584566+00:00</published>
+  </entry>
+  <entry>
+    <id>5907346</id>
+    <title>Hell of a Book by Jason Mott is in the downloadLibrary</title>
+    <updated>2021-10-17T10:52:50.584566+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5907346"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/43C/FF3/9A/{43CFF39A-76A5-46F7-9821-70806D1FF662}Img150.jpg"&gt;
+&lt;h2&gt;Hell of a Book&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: African American Fiction, Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;b&gt;A READ WITH JENNA &lt;i&gt;TODAY&lt;/i&gt; SHOW BOOK CLUB PICK!&lt;br&gt; &lt;/b&gt;&lt;br&gt;&lt;/b&gt; &lt;b&gt;One of &lt;i&gt;Entertainment Weekly&lt;/i&gt;'s 15 Books you Need to Read This June&amp;#160;| On &lt;i&gt;Entertainment Weekly's &lt;/i&gt;"Must List" | One of &lt;i&gt;The NY Post&lt;/i&gt;'s Best Summer...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5907346" rel="alternate"/>
+    <published>2021-10-17T10:52:50.584566+00:00</published>
+  </entry>
+  <entry>
+    <id>6046590</id>
+    <title>Sankofa by Chibundu Onuzo is in the downloadLibrary</title>
+    <updated>2021-10-17T10:52:50.584566+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6046590"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/23B/ABC/83/{23BABC83-0B3F-4CB9-A2AF-4BDD0523523A}Img150.jpg"&gt;
+&lt;h2&gt;Sankofa&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: African American Fiction, Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;b&gt;&lt;b&gt;A REESE'S BOOK CLUB PICK&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/b&gt;&amp;ldquo;A beautiful exploration of the often complex parameters of freedom, prejudice, and individual sense of self. Chibundu Onuzo has written a captivating story about a mixed-race British woman...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6046590" rel="alternate"/>
+    <published>2021-10-17T10:52:50.584566+00:00</published>
+  </entry>
   <entry>
     <id>6211988</id>
     <title>Tales from the Cafe by Toshikazu Kawaguchi is in the downloadLibrary</title>
