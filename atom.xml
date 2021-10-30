@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-10-29T10:52:52.670589+00:00</updated>
+  <updated>2021-10-30T10:52:46.291003+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6173801</id>
+    <title>How Baseball Happened by Thomas W. Gilbert is in the downloadLibrary</title>
+    <updated>2021-10-30T10:52:46.541185+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6173801"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/6D9/3DF/F0/{6D93DFF0-EF7C-4B72-8050-D786567DF299}Img150.jpg"&gt;
+&lt;h2&gt;How Baseball Happened&lt;/h2&gt;
+&lt;h3&gt;Outrageous Lies Exposed! The True Story Revealed&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: History, Nonfiction, Sports &amp; Recreations&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;The fascinating, true, story of baseball's amateur origins. "Explores the conditions and factors that begat the game in the 19th century and turned it into the national pastime....A delightful look at a young nation creating a pastime that...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6173801" rel="alternate"/>
+    <published>2021-10-30T10:52:46.541185+00:00</published>
+  </entry>
   <entry>
     <id>6055827</id>
     <title>The Inheritance of Orquídea Divina by Zoraida Córdova is in the downloadLibrary</title>
