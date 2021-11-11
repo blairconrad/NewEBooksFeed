@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-11-09T10:52:48.891865+00:00</updated>
+  <updated>2021-11-11T10:52:52.646367+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6286935</id>
+    <title>Woke Racism by John McWhorter is in the downloadLibrary</title>
+    <updated>2021-11-11T10:52:52.923486+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6286935"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/61F/B69/4B/{61FB694B-74D3-4CF2-946C-C961FE5032E0}Img150.jpg"&gt;
+&lt;h2&gt;Woke Racism&lt;/h2&gt;
+&lt;h3&gt;How a New Religion Has Betrayed Black America&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Nonfiction, Politics, Sociology&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;b&gt;Acclaimed linguist and award-winning writer John McWhorter argues that an illiberal neoracism, disguised as antiracism, is hurting Black communities and weakening the American social fabric.&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;Americans of good will on...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6286935" rel="alternate"/>
+    <published>2021-11-11T10:52:52.923486+00:00</published>
+  </entry>
+  <entry>
+    <id>7054019</id>
+    <title>This Is My Real Name by Cid V Brunet is in the downloadLibrary</title>
+    <updated>2021-11-11T10:52:52.923486+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7054019"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/6B8/C40/F8/{6B8C40F8-FD75-41DD-B460-A1FEF471986A}Img150.jpg"&gt;
+&lt;h2&gt;This Is My Real Name&lt;/h2&gt;
+&lt;h3&gt;A Stripper's Memoir&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Sociology, Women's Studies&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;i&gt;This Is My Real Name&lt;/i&gt; is the memoir of Cid V Brunet, who spent ten years (using the name Michelle) working as a dancer at strip clubs. From her very first lapdance in a small-town bar to working at high-end clubs, Michelle learns she must...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7054019" rel="alternate"/>
+    <published>2021-11-11T10:52:52.923486+00:00</published>
+  </entry>
   <entry>
     <id>5656584</id>
     <title>All That She Carried by Tiya Miles is in the downloadLibrary</title>
