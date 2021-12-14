@@ -170,7 +170,7 @@ class DownloadLibraryCataloguePage:
                 id=dict["id"],
                 title=dict["title"],
                 subtitle=dict.get("subtitle", None),
-                creator_name=dict["firstCreatorName"],
+                creator_name=dict.get("firstCreatorName", "Unknown Creator"),
                 cover_url=cover_url,
                 description=dict["description"],
                 subjects=", ".join(sorted([s["name"] for s in dict["subjects"]])),
