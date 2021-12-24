@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-12-22T10:53:09.137200+00:00</updated>
+  <updated>2021-12-24T10:52:52.807917+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5649719</id>
+    <title>Strangers on a Train by Patricia Highsmith is in the downloadLibrary</title>
+    <updated>2021-12-24T10:52:53.044055+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5649719"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0044-1/62D/B1E/CE/{62DB1ECE-59D4-4473-AAAC-EEC3F6E916CE}Img150.jpg"&gt;
+&lt;h2&gt;Strangers on a Train&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;"Strangers on a Train has lost none of its power to disturb...We will likely be reading Patricia Highsmith for the next one hundred years." &amp;#8212;Paula Hawkins&lt;/strong&gt;&lt;/p&gt;
+Just in time for the centennial celebration of groundbreaking...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5649719" rel="alternate"/>
+    <published>2021-12-24T10:52:53.044055+00:00</published>
+  </entry>
   <entry>
     <id>571115</id>
     <title>The Price of Salt by Patricia Highsmith is in the downloadLibrary</title>
