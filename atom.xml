@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2021-12-24T10:52:52.807917+00:00</updated>
+  <updated>2021-12-25T10:52:56.219186+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>1055199</id>
+    <title>The Twins by Saskia Sarginson is in the downloadLibrary</title>
+    <updated>2021-12-25T10:52:56.452053+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/1055199"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/647/047/85/{64704785-31D6-428E-A9E8-92A5ABADCC26}Img150.jpg"&gt;
+&lt;h2&gt;The Twins&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;They were inseparable until an innocent mistake tore them apart.&lt;p&gt;&lt;br&gt;&lt;p&gt;Growing up, Viola and Issy clung to each other in the wake of their mother's eccentricity, as she dragged them from a commune to a tiny Welsh village.  They thought the...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/1055199" rel="alternate"/>
+    <published>2021-12-25T10:52:56.452053+00:00</published>
+  </entry>
+  <entry>
+    <id>517639</id>
+    <title>How Evan Broke His Head and Other Secrets by Garth Stein is in the downloadLibrary</title>
+    <updated>2021-12-25T10:52:56.452053+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/517639"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/5E2/0A7/F1/{5E20A7F1-DA5A-4EF6-ACB0-A5E81DC7F294}Img150.jpg"&gt;
+&lt;h2&gt;How Evan Broke His Head and Other Secrets&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;B&gt;A struggling musician suddenly finds himself father to a teenage boy, in this "compelling" novel by the author of &lt;I&gt;The Art of Racing in the Rain&lt;/I&gt; (&lt;I&gt;Seattle Post-Intelligencer&lt;/I&gt;).&lt;/B&gt;&lt;BR /&gt; &lt;BR /&gt; Fathers never forget seeing their...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/517639" rel="alternate"/>
+    <published>2021-12-25T10:52:56.452053+00:00</published>
+  </entry>
   <entry>
     <id>5649719</id>
     <title>Strangers on a Train by Patricia Highsmith is in the downloadLibrary</title>
