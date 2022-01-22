@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-01-19T10:52:50.126987+00:00</updated>
+  <updated>2022-01-22T10:52:43.518032+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5728445</id>
+    <title>Joan Is Okay by Weike Wang is in the downloadLibrary</title>
+    <updated>2022-01-22T10:52:43.693652+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5728445"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/B79/EEB/8C/{B79EEB8C-C4A2-426C-B14B-B72E66DC01BA}Img150.jpg"&gt;
+&lt;h2&gt;Joan Is Okay&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;A&lt;/b&gt; &lt;b&gt;witty, moving, piercingly insightful new novel about a marvelously complicated woman who can&amp;rsquo;t be anyone but herself, from the award-winning author of &lt;i&gt;Chemistry&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;ldquo;A deeply felt portrait . . . With...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5728445" rel="alternate"/>
+    <published>2022-01-22T10:52:43.693652+00:00</published>
+  </entry>
+  <entry>
+    <id>6468536</id>
+    <title>Manifesto by Bernardine Evaristo is in the downloadLibrary</title>
+    <updated>2022-01-22T10:52:43.693652+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6468536"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/A32/273/6C/{A322736C-7DCE-42C7-A5F4-F9689C0F0F2B}Img150.jpg"&gt;
+&lt;h2&gt;Manifesto&lt;/h2&gt;
+&lt;h3&gt;On Never Giving Up&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Sociology&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;From the bestselling and Booker Prize&amp;#8211;winning author of Girl, Woman, Other, Bernardine Evaristo&amp;apos;s memoir of her own life and writing, and her manifesto on unstoppability, creativity, and activism&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bernardine...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6468536" rel="alternate"/>
+    <published>2022-01-22T10:52:43.693652+00:00</published>
+  </entry>
   <entry>
     <id>5704693</id>
     <title>Flash Fire by TJ Klune is in the downloadLibrary</title>
