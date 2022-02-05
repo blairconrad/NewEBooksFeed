@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-02-03T10:53:05.125068+00:00</updated>
+  <updated>2022-02-05T10:52:50.578890+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6120450</id>
+    <title>The Wisdom of Your Body by Hillary McBride is in the downloadLibrary</title>
+    <updated>2022-02-05T10:52:50.712886+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6120450"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/19C/E01/25/{19CE0125-850B-4C5D-AF02-FAFBE64E59C9}Img150.jpg"&gt;
+&lt;h2&gt;The Wisdom of Your Body&lt;/h2&gt;
+&lt;h3&gt;Finding Healing, Wholeness, and Connection Through Embodied Living&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Nonfiction, Self-Improvement&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;From the host of the hit CBC podcast Other People's Problems comes an invitation to unlearn the lies about your body that make you feel less-than, and to learn to love the home where your life happens&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In The Wisdom of...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6120450" rel="alternate"/>
+    <published>2022-02-05T10:52:50.712886+00:00</published>
+  </entry>
+  <entry>
+    <id>6140356</id>
+    <title>Hero on a Mission by Donald Miller is in the downloadLibrary</title>
+    <updated>2022-02-05T10:52:50.712886+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6140356"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0409-1/515/27B/AF/{51527BAF-3802-445B-8901-11A33E8AEA12}Img150.jpg"&gt;
+&lt;h2&gt;Hero on a Mission&lt;/h2&gt;
+&lt;h3&gt;A Path to a Meaningful Life&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Business, Economics, Nonfiction, Self-Improvement&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;New York Times &lt;/strong&gt;&lt;strong&gt;bestselling author Donald Miller shares the plan that led him to turn his life around.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There are four characters in every story: The victim, the villain, the hero, and the guide. These...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6140356" rel="alternate"/>
+    <published>2022-02-05T10:52:50.712886+00:00</published>
+  </entry>
   <entry>
     <id>6323085</id>
     <title>The Swells by Will Aitken is in the downloadLibrary</title>
