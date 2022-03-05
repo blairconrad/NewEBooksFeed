@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-03-04T10:52:49.775163+00:00</updated>
+  <updated>2022-03-05T10:52:54.076593+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>1134240</id>
+    <title>Writing Irresistible Kidlit by Mary Kole is in the downloadLibrary</title>
+    <updated>2022-03-05T10:52:54.540635+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/1134240"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1705-1/716/D3C/D1/{716D3CD1-7F41-40AB-A285-79ED91786243}Img150.jpg"&gt;
+&lt;h2&gt;Writing Irresistible Kidlit&lt;/h2&gt;
+&lt;h3&gt;The Ultimate Guide to Crafting Fiction for Young Adult and Middle Grade Readers&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Children, Language Arts, Nonfiction, Writing&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;Captivate the hearts and minds of young adult readers!&lt;/b&gt;&lt;br&gt;&lt;br&gt;Writing for young adult (YA) and middle grade (MG) audiences isn't just "kid's stuff" anymore—it's kidlit! The YA and MG book markets are healthier and more robust than ever,...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/1134240" rel="alternate"/>
+    <published>2022-03-05T10:52:54.540635+00:00</published>
+  </entry>
   <entry>
     <id>7767902</id>
     <title>Life Force by Tony Robbins is in the downloadLibrary</title>
