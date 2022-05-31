@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-05-26T10:52:50.638904+00:00</updated>
+  <updated>2022-05-31T10:54:08.971277+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6382977</id>
+    <title>Idiots by Laura Clery is in the downloadLibrary</title>
+    <updated>2022-05-31T10:54:09.149418+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6382977"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/642/208/31/{64220831-DE16-42D2-9ED8-FDCF616D4005}Img150.jpg"&gt;
+&lt;h2&gt;Idiots&lt;/h2&gt;
+&lt;h3&gt;Marriage, Motherhood, Milk &amp; Mistakes&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Essays, Family &amp; Relationships, Humor (Nonfiction), Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;INTERNATIONAL BESTSELLER&lt;/B&gt;&lt;BR&gt; &lt;BR&gt;&lt;b&gt;A fresh, hilarious, and relatable collection of essays about everything from motherhood and marriage to sobriety and work-life balance (or imbalance) from the nationally bestselling author of the...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6382977" rel="alternate"/>
+    <published>2022-05-31T10:54:09.149418+00:00</published>
+  </entry>
+  <entry>
+    <id>6508718</id>
+    <title>Son of Elsewhere by Elamin Abdelmahmoud is in the downloadLibrary</title>
+    <updated>2022-05-31T10:54:09.149418+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6508718"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/405/7B0/8F/{4057B08F-E80F-4B93-B1AC-2EE59ADC2505}Img150.jpg"&gt;
+&lt;h2&gt;Son of Elsewhere&lt;/h2&gt;
+&lt;h3&gt;A Memoir in Pieces&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: African American Nonfiction, Biography &amp; Autobiography, Nonfiction, Sociology&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;b&gt;From one of the most beloved media personalities of his generation comes a one-of-a-kind reflection on Blackness, faith, language, pop culture, and the challenges and rewards of finding your way in the world.&lt;/b&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Professional...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6508718" rel="alternate"/>
+    <published>2022-05-31T10:54:09.149418+00:00</published>
+  </entry>
+  <entry>
+    <id>6384650</id>
+    <title>Lessons in Chemistry by Bonnie Garmus is in the downloadLibrary</title>
+    <updated>2022-05-31T10:54:09.149418+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6384650"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/33B/F0C/85/{33BF0C85-386A-4938-B291-6EECC24D8F71}Img150.jpg"&gt;
+&lt;h2&gt;Lessons in Chemistry&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;b&gt;NATIONAL BESTSELLER&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTSELLER&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;b&gt;A delight for readers of &lt;i&gt;Where'd You Go, Bernadette&lt;/i&gt;, this blockbuster debut set in 1960s California features the singular voice of Elizabeth Zott, a...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6384650" rel="alternate"/>
+    <published>2022-05-31T10:54:09.149418+00:00</published>
+  </entry>
   <entry>
     <id>5546912</id>
     <title>The Four Agreements by don Miguel Ruiz is in the downloadLibrary</title>
@@ -14003,442 +14060,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/6274025" rel="alternate"/>
     <published>2022-03-04T10:52:50.254994+00:00</published>
-  </entry>
-  <entry>
-    <id>6120449</id>
-    <title>Super Gut by William Davis, M.D. is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6120449"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/01F/FE6/10/{01FFE610-A10A-478D-A74A-39CE59D943CF}Img150.jpg"&gt;
-&lt;h2&gt;Super Gut&lt;/h2&gt;
-&lt;h3&gt;Reprogram Your Microbiome to Restore Health, Lose Weight, and Turn Back the Clock&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Health &amp; Fitness, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The author of the bestselling Wheat Belly series of books brings his next big, game-changing idea&amp;#8212; the human microbiome and the silent epidemic of SIBO&amp;#8212;to the mainstream&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;Dr. William Davis has connected the...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6120449" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6346345</id>
-    <title>The Next Age of Uncertainty by Stephen Poloz is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6346345"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/7D6/6FF/2D/{7D66FF2D-46D1-4548-B2BC-40C7EA87DEED}Img150.jpg"&gt;
-&lt;h2&gt;The Next Age of Uncertainty&lt;/h2&gt;
-&lt;h3&gt;How the World Can Adapt to a Riskier Future&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Business, Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;From the former Governor of the Bank of Canada, a far-seeing guide to the powerful economic forces that will shape the decades ahead.&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;The economic ground is shifting beneath our feet. The world is becoming...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6346345" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6347403</id>
-    <title>Pure Colour by Sheila Heti is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6347403"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/3B2/3B1/0D/{3B23B10D-B4FD-4A89-99D5-A08A48DCCA12}Img150.jpg"&gt;
-&lt;h2&gt;Pure Colour&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;One of &lt;i&gt;The Globe and Mail&lt;/i&gt;&amp;rsquo;s &amp;ldquo;Canadian Books We&amp;rsquo;re Most Excited About in 2022&amp;rdquo;&lt;br&gt;One of CBC Books&amp;rsquo; &amp;ldquo;Works of Canadian Fiction to Watch for in Spring 2022&amp;rdquo;&lt;br&gt;One of &lt;i&gt;Esquire&lt;/i&gt;&amp;rsquo;s...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6347403" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6315313</id>
-    <title>The Justice of Kings by Richard Swan is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6315313"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/44F/CCB/33/{44FCCB33-036C-4E4B-825E-04BA6D67825F}Img150.jpg"&gt;
-&lt;h2&gt;The Justice of Kings&lt;/h2&gt;
-&lt;h3&gt;Empire of the Wolf Series, Book 1&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Fiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;P&gt;&lt;B&gt;From a major new debut author in epic fantasy comes the first book in a trilogy where action, intrigue, and magic collide. &lt;I&gt;The Justice of Kings&lt;/I&gt; introduces an unforgettable protagonist destined to become a fantasy icon: Sir Konrad...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6315313" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>5444411</id>
-    <title>Principles for Dealing with the Changing World Order by Ray Dalio is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5444411"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/549/E9A/72/{549E9A72-1F82-4214-9F1F-4B607A24B048}Img150.jpg"&gt;
-&lt;h2&gt;Principles for Dealing with the Changing World Order&lt;/h2&gt;
-&lt;h3&gt;Why Nations Succeed and Fail&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Business, History, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;i&gt;NEW YORK TIMES &lt;/i&gt;&lt;/b&gt;&lt;b&gt;BESTSELLER&lt;/b&gt;&lt;BR&gt; &lt;BR&gt;&lt;b&gt;"A provocative read...There are few tomes that coherently map such broad economic histories as well as Mr. Dalio's. Perhaps more unusually, Mr. Dalio has managed to identify metrics from...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5444411" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6329206</id>
-    <title>The Books of Jacob by Olga Tokarczuk is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6329206"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/022/AF7/06/{022AF706-6D5F-4ADD-ACDA-82AF98B4614D}Img150.jpg"&gt;
-&lt;h2&gt;The Books of Jacob&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&amp;ldquo;Just as awe-inspiring as the Nobel judges claimed.&amp;rdquo; &lt;i&gt;&amp;ndash; The Washington Post&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;&amp;ldquo;Olga Tokarczuk is one of our greatest living fiction writers. . . This could well be a decade-defining book akin to...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6329206" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6211614</id>
-    <title>The Christie Affair by Nina de Gramont is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6211614"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/020/C55/19/{020C5519-3F5E-4891-BB3D-21C77031B5C0}Img150.jpg"&gt;
-&lt;h2&gt;The Christie Affair&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;A Reese's Book Club Pick&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;Why would the world's most famous mystery writer disappear for eleven days? What makes a woman desperate enough to destroy another woman's marriage? How deeply can a person crave revenge? &lt;/b&gt;&lt;br&gt;In...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6211614" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6197105</id>
-    <title>Wahala by Nikki May is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6197105"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/6C7/97B/68/{6C797B68-D0F4-4173-BD6D-DC8316FDAD5D}Img150.jpg"&gt;
-&lt;h2&gt;Wahala&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;"Contemporary female friendship goes glam in this lively debut novel with remarkable depth." &amp;#8212; Washington Post&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;"Great fun and extremely smart." &amp;#8212; npr.org&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;NAMED A MOST...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6197105" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6508401</id>
-    <title>Moon Witch, Spider King by Marlon James is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6508401"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/16B/CF7/96/{16BCF796-BBC1-4B1B-A266-D4D525A5E212}Img150.jpg"&gt;
-&lt;h2&gt;Moon Witch, Spider King&lt;/h2&gt;
-&lt;h3&gt;Dark Star Trilogy, Book 2&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: African American Fiction, Fantasy, Fiction, Historical Fiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;b&gt;From Marlon James, author of the bestselling National Book Award finalist &lt;i&gt;Black Leopard, Red Wolf&lt;/i&gt;, comes the second book in the Dark Star trilogy.&lt;/b&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;In &lt;i&gt;Black Leopard, Red Wolf&lt;/i&gt;, Sogolon the Moon Witch proved a...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6508401" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6244746</id>
-    <title>The Paris Bookseller by Kerri Maher is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6244746"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/350/8C1/9A/{3508C19A-906D-46D9-AF78-A4962B11ABC1}Img150.jpg"&gt;
-&lt;h2&gt;The Paris Bookseller&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;b&gt;A BookBub Best Historical Fiction Book of 2022 &amp;#8729; A &lt;i&gt;BookTrib &lt;/i&gt;Top Ten Historical Fiction Book of Spring &amp;#8729; A &lt;i&gt;SheReads&lt;/i&gt;&amp;rsquo; Best Literary Historical Fiction Coming in 2022 &amp;#8729; A &lt;i&gt;Reader&amp;rsquo;s...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6244746" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6224445</id>
-    <title>The Roughest Draft by Emily Wibberley is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6224445"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/CA5/643/9A/{CA56439A-B6FD-48CB-93CC-A9D931A404C4}Img150.jpg"&gt;
-&lt;h2&gt;The Roughest Draft&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;One of...&lt;br&gt; Amazon's Best Romances of January&lt;br&gt; Popsugar's Best New Romances of 2022&lt;br&gt; Buzzfeed, GMA.com, Shondaland, and Bustle's Best of January&lt;/b&gt;&lt;br&gt; &lt;b&gt;Oprah Daily&amp;rsquo;s Most Anticipated Romances of 2022&lt;/b&gt;&lt;br&gt; &lt;b&gt;E! News' Books...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6224445" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6211545</id>
-    <title>Good Girl Complex by Elle Kennedy is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6211545"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/5D6/F82/E0/{5D6F82E0-A622-480B-9C0A-09B514D85FFF}Img150.jpg"&gt;
-&lt;h2&gt;Good Girl Complex&lt;/h2&gt;
-&lt;h3&gt;An Avalon Bay Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;Full of romance, hijinks, and longing, &lt;i&gt;Good Girl Complex&lt;/i&gt; is Elle Kennedy at her very best.&lt;/b&gt;&lt;br&gt;&lt;b&gt;She does everything right. So what could go wrong?&lt;/b&gt;&lt;br&gt;Mackenzie "Mac" Cabot is a people pleaser. Her demanding parents. Her prep...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6211545" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6383116</id>
-    <title>Secrets of the Sprakkar by Eliza Reid is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6383116"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/27A/548/B6/{27A548B6-B958-4B44-B436-67A87A8A770D}Img150.jpg"&gt;
-&lt;h2&gt;Secrets of the Sprakkar&lt;/h2&gt;
-&lt;h3&gt;Iceland's Extraordinary Women and How They Are Changing the World&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Sociology, Women's Studies&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;The Canadian first lady of Iceland pens a book about why this tiny nation is leading the charge in gender equality, in the vein of &lt;i&gt;The Moment of Lift&lt;/i&gt;.&lt;/b&gt;&lt;BR&gt;Iceland is the best place on earth to be a woman&amp;#8212;but why?&lt;BR&gt; &lt;BR&gt;For...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6383116" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6197080</id>
-    <title>Notes on an Execution by Danya Kukafka is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6197080"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/8AE/583/91/{8AE58391-47F5-4EEE-A3C5-5A90E87C7EE2}Img150.jpg"&gt;
-&lt;h2&gt;Notes on an Execution&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Mystery&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;NATIONAL BESTSELLER&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;"Defiantly populated with living women . . . beautifully drawn, dense with detail and specificity . . . Notes on an Execution is nuanced, ambitious and compelling."&lt;strong&gt; &amp;#8212;Katie Kitamura, NEW...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6197080" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6267505</id>
-    <title>The Nineties by Chuck Klosterman is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6267505"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/33D/D6A/53/{33DD6A53-C66B-4E8C-9791-6C454E4F90A3}Img150.jpg"&gt;
-&lt;h2&gt;The Nineties&lt;/h2&gt;
-&lt;h3&gt;A Book&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: History, Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;An instant &lt;i&gt;New York Times&lt;/i&gt; bestseller!&lt;br&gt;&lt;br&gt;From the&amp;#160;bestselling author of &lt;i&gt;But What if We&amp;rsquo;re Wrong&lt;/i&gt;, a wise and funny reckoning with the decade that gave us slacker/grunge irony about the sin of trying too hard, during...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6267505" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>6244669</id>
-    <title>Black Cake by Charmaine Wilkerson is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6244669"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/307/A70/E1/{307A70E1-9157-4BCD-9AE3-6BDEB6B3C655}Img150.jpg"&gt;
-&lt;h2&gt;Black Cake&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: African American Fiction, Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;i&gt;NEW YORK TIMES &lt;/i&gt;BESTSELLER &amp;bull; &lt;i&gt;NEW YORK TIMES&lt;/i&gt; EDITORS&amp;rsquo; CHOICE &amp;bull;&amp;#160;READ WITH JENNA BOOK CLUB PICK AS FEATURED ON &lt;i&gt;TODAY&lt;/i&gt; &amp;bull; In this moving debut novel, two estranged siblings deal with their mother&amp;rsquo;s...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6244669" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>8326931</id>
-    <title>The Pavilion in the Clouds by Alexander McCall Smith is in the downloadLibrary</title>
-    <updated>2022-03-02T10:52:51.733227+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/8326931"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/E18/A67/C1/{E18A67C1-C699-4B91-B729-7192176EE820}Img150.jpg"&gt;
-&lt;h2&gt;The Pavilion in the Clouds&lt;/h2&gt;
-&lt;h3&gt;A Knopf Canada E-Original&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;A beautiful and atmospheric stand-alone novel filled with intrigue, a child's misunderstandings and their resolution years later, from the&amp;nbsp;beloved and bestselling author Alexander McCall Smith. IN E-ORIGINAL ONLY!&lt;/b&gt;&lt;br&gt;&lt;br&gt;It is 1938 in...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/8326931" rel="alternate"/>
-    <published>2022-03-02T10:52:51.733227+00:00</published>
-  </entry>
-  <entry>
-    <id>3707748</id>
-    <title>All About Love by bell hooks is in the downloadLibrary</title>
-    <updated>2022-02-26T10:53:20.345213+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/3707748"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/BB1/0BE/65/{BB10BE65-66DD-42FD-9DFC-757C7F32CA82}Img150.jpg"&gt;
-&lt;h2&gt;All About Love&lt;/h2&gt;
-&lt;h3&gt;New Visions&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A New York Times bestseller and enduring classic, All About Love is the acclaimed first volume in feminist icon bell hooks' "Love Song to the Nation" trilogy. All About Love reveals what causes a polarized society, and how to heal the...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/3707748" rel="alternate"/>
-    <published>2022-02-26T10:53:20.345213+00:00</published>
-  </entry>
-  <entry>
-    <id>6247268</id>
-    <title>House of Sky and Breath by Sarah J. Maas is in the downloadLibrary</title>
-    <updated>2022-02-26T10:53:20.345213+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6247268"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2183-1/2BD/8B3/6C/{2BD8B36C-3BF3-4339-8E08-F895883822C5}Img150.jpg"&gt;
-&lt;h2&gt;House of Sky and Breath&lt;/h2&gt;
-&lt;h3&gt;Crescent City Series, Book 2&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Fiction, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;Sequel to the #1 &lt;i&gt;New York Times&lt;/i&gt; bestseller!&lt;/b&gt;&lt;br/&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;b&gt;Sarah J. Maas's sexy, groundbreaking CRESCENT CITY series continues with the&lt;/b&gt;&lt;br/&gt;&lt;b&gt;second installment.&lt;/b&gt;
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6247268" rel="alternate"/>
-    <published>2022-02-26T10:53:20.345213+00:00</published>
-  </entry>
-  <entry>
-    <id>6384353</id>
-    <title>The Paris Apartment by Lucy Foley is in the downloadLibrary</title>
-    <updated>2022-02-26T10:53:20.345213+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6384353"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/4A8/831/B2/{4A8831B2-603A-463D-9AC2-2D66C7B37BFB}Img150.jpg"&gt;
-&lt;h2&gt;The Paris Apartment&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;"As you patiently await season two of Only Murders in the Building, cozy up with Lucy Foley's latest whodunnit." &amp;#8212; Parade&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;"Exceedingly clever." &amp;#8212; Booklist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;From the New York...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6384353" rel="alternate"/>
-    <published>2022-02-26T10:53:20.345213+00:00</published>
-  </entry>
-  <entry>
-    <id>6055465</id>
-    <title>Greenwich Park by Katherine Faulkner is in the downloadLibrary</title>
-    <updated>2022-02-26T10:53:20.345213+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6055465"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/C4A/BB9/4A/{C4ABB94A-43AD-42B7-85A7-A4FB9CB5747E}Img150.jpg"&gt;
-&lt;h2&gt;Greenwich Park&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;"A twisty, fast-paced" (&lt;i&gt;The Sunday Times&lt;/i&gt;, London) debut thriller, as electrifying as the #1 &lt;i&gt;New York Times &lt;/i&gt;bestseller &lt;i&gt;The Girl on the Train&lt;/i&gt;, about impending motherhood, unreliable friendship, and the high price of keeping...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6055465" rel="alternate"/>
-    <published>2022-02-26T10:53:20.345213+00:00</published>
-  </entry>
-  <entry>
-    <id>6398448</id>
-    <title>One Night on the Island by Josie Silver is in the downloadLibrary</title>
-    <updated>2022-02-26T10:53:20.345213+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6398448"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/ABF/5C7/1F/{ABF5C71F-9949-479B-A946-2D0FF41E8511}Img150.jpg"&gt;
-&lt;h2&gt;One Night on the Island&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Humor (Fiction), Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;From the #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;One Day in December &lt;/i&gt;. . . When a double-booking at a remote one-room cabin accidentally throws two solace seekers together, it feels like a cruel twist of fate. But what if...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6398448" rel="alternate"/>
-    <published>2022-02-26T10:53:20.345213+00:00</published>
-  </entry>
-  <entry>
-    <id>6161257</id>
-    <title>The Overnight Guest by Heather Gudenkauf is in the downloadLibrary</title>
-    <updated>2022-02-26T10:53:20.345213+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6161257"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1071-1/33E/414/F8/{33E414F8-E124-4B1B-BC7C-017632384C35}Img150.jpg"&gt;
-&lt;h2&gt;The Overnight Guest&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;strong&gt;NEW YORK TIMES BESTSELLER&lt;br /&gt;"Fully realized, wholly absorbing and almost painfully suspenseful...The journey is mesmerizing."&lt;/strong&gt; &lt;strong&gt;&amp;#8212;New York Times&lt;/strong&gt; &lt;br /&gt;&lt;strong&gt;A woman receives an unexpected visitor during a...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6161257" rel="alternate"/>
-    <published>2022-02-26T10:53:20.345213+00:00</published>
   </entry>
 </feed>
