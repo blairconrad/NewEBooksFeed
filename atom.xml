@@ -2,12 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-06-07T10:52:51.484328+00:00</updated>
+  <updated>2022-06-09T10:52:49.662088+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>481062</id>
+    <title>The Axe by Sigrid Undset is in the downloadLibrary</title>
+    <updated>2022-06-09T10:52:49.842100+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/481062"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/94B/612/1A/{94B6121A-F4B3-4AC1-8E0A-386AE72790BF}Img150.jpg"&gt;
+&lt;h2&gt;The Axe&lt;/h2&gt;
+&lt;h3&gt;The Master of Hestviken Series, Book 1&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+Set in 13th-century Norway,&amp;#160;&lt;b&gt;The Axe&lt;/b&gt;&amp;#160;is the first volume in Undset's epic tetralogy,&amp;#160;&lt;i&gt;The Master of Hestviken&lt;/i&gt;. In it, we meet Olav Audunsson and Ingunn Steinfinnsdatter, who were betrothed as children and raised as...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/481062" rel="alternate"/>
+    <published>2022-06-09T10:52:49.842100+00:00</published>
+  </entry>
+  <entry>
+    <id>7889530</id>
+    <title>To Tame a Cowboy by Jody Hedlund is in the downloadLibrary</title>
+    <updated>2022-06-09T10:52:49.842100+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7889530"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2003-1/{FC4C8D61-BE5E-4BAA-A9A1-EA1C82110C37}IMG150.JPG"&gt;
+&lt;h2&gt;To Tame a Cowboy&lt;/h2&gt;
+&lt;h3&gt;Colorado Cowboys Series, Book 3&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Christian Fiction, Fiction, Historical Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+While Brody McQuaid's body survived the war, his soul did not. He finds his purpose saving wild horses from ranchers intent on killing them. Veterinarian Savannah Marshall joins Brody in rescuing the wild creatures, but when her family and the...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7889530" rel="alternate"/>
+    <published>2022-06-09T10:52:49.842100+00:00</published>
+  </entry>
+  <entry>
+    <id>6400366</id>
+    <title>The Heart of a Cowboy by Jody Hedlund is in the downloadLibrary</title>
+    <updated>2022-06-09T10:52:49.842100+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6400366"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2003-1/893/968/6E/{8939686E-1A0C-4E4A-B922-0D4B6A52B7F4}Img150.jpg"&gt;
+&lt;h2&gt;The Heart of a Cowboy&lt;/h2&gt;
+&lt;h3&gt;Colorado Cowboys Series, Book 2&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Christian Fiction, Fiction, Historical Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+Traveling the Santa Fe Trail on a botanical exploration, Linnea Newberry longs to be taken seriously by the other members of the expedition. When she is rescued from an accident by Flynn McQuaid, her grandfather hires him to act as Linnea's...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6400366" rel="alternate"/>
+    <published>2022-06-09T10:52:49.842100+00:00</published>
+  </entry>
+  <entry>
+    <id>5594780</id>
+    <title>A Cowboy for Keeps by Jody Hedlund is in the downloadLibrary</title>
+    <updated>2022-06-09T10:52:49.842100+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5594780"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2003-1/47E/E1D/02/{47EE1D02-283F-4D5E-BCCC-A909F7213A28}Img150.jpg"&gt;
+&lt;h2&gt;A Cowboy for Keeps&lt;/h2&gt;
+&lt;h3&gt;Colorado Cowboys Series, Book 1&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Christian Fiction, Fiction, Historical Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+After being robbed on her trip west to save her ailing sister, Greta Nilsson is left homeless, and penniless. Struggling to get his new ranch running, Wyatt McQuaid is offered a bargain—the mayor will invest in a herd of cattle if Wyatt agrees to...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5594780" rel="alternate"/>
+    <published>2022-06-09T10:52:49.842100+00:00</published>
+  </entry>
   <entry>
     <id>7117369</id>
     <title>The Palace Papers by Tina Brown is in the downloadLibrary</title>
@@ -13295,518 +13371,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/6211631" rel="alternate"/>
     <published>2022-03-12T10:53:46.357639+00:00</published>
-  </entry>
-  <entry>
-    <id>4412282</id>
-    <title>Autism Uncensored by Whitney Ellenby is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4412282"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/8370-1/A53/E0F/0A/{A53E0F0A-5CAE-4956-9E66-D8C891BF7215}Img150.jpg"&gt;
-&lt;h2&gt;Autism Uncensored&lt;/h2&gt;
-&lt;h3&gt;Pulling Back the Curtain&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Autism Uncensored goes where no other book dares-revealing the private disgrace and self-blame about having a "defective" child; the near disintegration of marriage; the failure of the traditional behavioral interventions; and the mercenary...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4412282" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>4535191</id>
-    <title>A Practical Guide to Happiness in Adults on the Autism Spectrum by Victoria Honeybourne is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4535191"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/437/6E2/99/{4376E299-12FD-4ECE-A78F-3BD143E02E42}Img150.jpg"&gt;
-&lt;h2&gt;A Practical Guide to Happiness in Adults on the Autism Spectrum&lt;/h2&gt;
-&lt;h3&gt;A Positive Psychology Approach&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Clear and engaging, this book offers a refreshing positive psychology approach to mental health and autism. Moving away from neurotypical views of happiness, it sets out simple techniques to help adults on the spectrum improve their mental...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4535191" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>5588963</id>
-    <title>I Have Been Buried Under Years of Dust by Valerie Gilpeer is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5588963"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/D14/D3D/36/{D14D3D36-EE95-4941-AB08-EC05E6F9E6E2}Img150.jpg"&gt;
-&lt;h2&gt;I Have Been Buried Under Years of Dust&lt;/h2&gt;
-&lt;h3&gt;A Memoir of Autism and Hope&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A remarkable memoir by a mother and her autistic daughter who'd long been unable to communicate&amp;#8212;until a miraculous breakthrough revealed a young woman with a rich and creative interior life, a poet, who'd been trapped inside for...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5588963" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>5274848</id>
-    <title>What to Say Next by Sarah Nannery is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5274848"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/13B/0FE/61/{13B0FE61-D57A-4E92-99D2-2E82040CC9B3}Img150.jpg"&gt;
-&lt;h2&gt;What to Say Next&lt;/h2&gt;
-&lt;h3&gt;Successful Communication in Work, Life, and Love—with Autism Spectrum Disorder&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Business, Family &amp; Relationships, Nonfiction, Self-Improvement&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;Using her personal experience living&lt;/b&gt;&lt;b&gt; as a professional woman with Autism Spectrum Disorder&lt;/b&gt;&lt;b&gt;, Sarah Nannery, together with her husband, Larry, offers this timely communication guide for anyone on the Autism spectrum looking to...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5274848" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>2677360</id>
-    <title>Women and Girls with Autism Spectrum Disorder by Sarah Hendrickx is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2677360"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/2E7/C2E/34/{2E7C2E34-28E8-4E0B-9CD7-16CFC54EE0F8}Img150.jpg"&gt;
-&lt;h2&gt;Women and Girls with Autism Spectrum Disorder&lt;/h2&gt;
-&lt;h3&gt;Understanding Life Experiences from Early Childhood to Old Age&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Health &amp; Fitness, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The difference that being female makes to the diagnosis, life and experiences of a person with an Autism Spectrum Disorder (ASD) has largely gone unresearched and unreported until recently. In this book Sarah Hendrickx has collected both...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2677360" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>1984218</id>
-    <title>An Early Start for Your Child with Autism by Sally J. Rogers is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/1984218"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/5921-1/478/FB5/0C/{478FB50C-FA91-4116-AF7E-48DA812E8E10}Img150.jpg"&gt;
-&lt;h2&gt;An Early Start for Your Child with Autism&lt;/h2&gt;
-&lt;h3&gt;Using Everyday Activities to Help Kids Connect, Communicate, and Learn&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Cutting-edge research reveals that parents can play a huge role in helping toddlers and preschoolers with autism spectrum disorders (ASD) connect with others and live up to their potential. This encouraging guide from the developers of a...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/1984218" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>2626006</id>
-    <title>Asperger's on the Job by Rudy Simone is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2626006"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/57F/299/C8/{57F299C8-0911-444D-A981-841EA8E031C3}Img150.jpg"&gt;
-&lt;h2&gt;Asperger's on the Job&lt;/h2&gt;
-&lt;h3&gt;Must-Have Advice for People with Asperger's or High Functioning Autism and their Employers, Educators, and Advocates&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-Up to 85% of the Asperger's population are without full-time employment, though many have above-average intelligence. Rudy Simone, an adult with Asperger's Syndrome and an accomplished author, consultant, and musician, created this insightful...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2626006" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>2877190</id>
-    <title>Life, Animated by Ron Suskind is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2877190"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2508-1/34E/8A2/B7/{34E8A2B7-A4D9-494D-A8AA-56D7F714FC10}Img150.jpg"&gt;
-&lt;h2&gt;Life, Animated&lt;/h2&gt;
-&lt;h3&gt;A Story of Sidekicks, Heroes, and Autism&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Family &amp; Relationships, Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-Now an award winning motion picture! Imagine being trapped inside a Disney movie and having to learn about life mostly from animated characters dancing across a screen of color. A fantasy? A nightmare? This is the real-life story of Owen Suskind,...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2877190" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>1860316</id>
-    <title>Disconnected Kids by Robert Melillo is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/1860316"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/4E1/7C5/43/{4E17C543-BA9A-4C2A-9867-63C002C66F3D}Img150.jpg"&gt;
-&lt;h2&gt;Disconnected Kids&lt;/h2&gt;
-&lt;h3&gt;The Groundbreaking Brain Balance Program for Children with Autism, ADHD, Dyslexia, and Other Neurological Disorders&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;The proven, drug-free program to treat the cause-not just the symptoms-of autism spectrum disorders and related conditions. &lt;/b&gt;&lt;br&gt;&lt;br&gt;Each year, an estimated 1.5 million children-one out of every six-are diagnosed with autism, Asperger's...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/1860316" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>4311081</id>
-    <title>Outsmarting Autism, Updated and Expanded by Patricia S. Lemer is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4311081"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/87B/C81/A2/{87BC81A2-6F4B-45AC-A5E3-E316950BA66F}Img150.jpg"&gt;
-&lt;h2&gt;Outsmarting Autism, Updated and Expanded&lt;/h2&gt;
-&lt;h3&gt;Build Healthy Foundations for Communication, Socialization, and Behavior at All Ages&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Health &amp; Fitness, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;Nautilus Award Winner, 2019—Silver in Parenting &amp;amp; Family&lt;br&gt;&lt;br&gt;A comprehensive resource for parents, therapists, caregivers, and educators, packed with lifelong strategies for Autism Spectrum Disorder (ASD) management and...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4311081" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>291765</id>
-    <title>The Kid-Friendly ADHD &amp; Autism Cookbook, Updated and Revised by Pamela Compart is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/291765"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1933-1/6DC/08D/D7/{6DC08DD7-D1BA-4827-A799-28CB0EA108A0}Img150.jpg"&gt;
-&lt;h2&gt;The Kid-Friendly ADHD &amp; Autism Cookbook, Updated and Revised&lt;/h2&gt;
-&lt;h3&gt;The Ultimate Guide to the Gluten-Free, Casein-Free Diet&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Cooking &amp; Food, Health &amp; Fitness, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;"Pam and Dana know what works for kids...This book is a fantastic resource for the diets that make a difference. Follow their advice!!" &amp;#8212;Jenny McCarthy, author of &lt;i&gt;Louder Than Words&lt;/i&gt; and &lt;i&gt;Mother Warriors&lt;/i&gt;&lt;br&gt; The best...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/291765" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>3597106</id>
-    <title>The Autism Job Club by Michael Bernick is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/3597106"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/ABE/1B3/9F/{ABE1B39F-F02A-4039-B07B-8A41708E37FF}Img150.jpg"&gt;
-&lt;h2&gt;The Autism Job Club&lt;/h2&gt;
-&lt;h3&gt;The Neurodiverse Workforce in the New Normal of Employment&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Health &amp; Fitness, Medical, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;B&gt;The Autism Job Club is a groundbreaking book for bringing adults with autism and other neuro-diverse conditions into the work world.&lt;/B&gt;&lt;BR&gt; This second edition of &lt;I&gt;The Autism Job Club&lt;/I&gt; includes a new Foreword by Steve Silberman, author...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/3597106" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>5589042</id>
-    <title>Turn Autism Around by Mary Lynch Barbera, Ph.D. is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5589042"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/9C9/476/CB/{9C9476CB-4E32-4857-9410-835A92C51C6A}Img150.jpg"&gt;
-&lt;h2&gt;Turn Autism Around&lt;/h2&gt;
-&lt;h3&gt;An Action Guide for Parents of Young Children with Early Signs of Autism&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;This is the first book of its kind that calls attention to an important fact: parents can make a tremendous impact on their child through behavioral practices taught at home. Dr. Barbera has created a tool kit that any parent can use to help...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5589042" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>5739427</id>
-    <title>Living with PTSD on the Autism Spectrum by Lisa Morgan is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5739427"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/7B9/D8C/3E/{7B9D8C3E-E78E-4D4D-A297-A98061378510}Img150.jpg"&gt;
-&lt;h2&gt;Living with PTSD on the Autism Spectrum&lt;/h2&gt;
-&lt;h3&gt;Insightful Analysis with Practical Applications&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The relationship between autism and PTSD has historically been neglected in research and understanding but impacts the lives of many. Autistic people are intrinsically vulnerable to traumatic social situations and relationships, which can...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5739427" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>6071697</id>
-    <title>The Autism Relationships Handbook by Joe Biel is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6071697"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/3082-1/FA3/132/1F/{FA31321F-0C7F-4BFC-BC1D-70F37B6D4EF1}Img150.jpg"&gt;
-&lt;h2&gt;The Autism Relationships Handbook&lt;/h2&gt;
-&lt;h3&gt;How to Thrive in Friendships, Dating, and Love&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-Ever since he came out as autistic, people have been contacting Joe to share their stories and ask questions. The most common question by far: how do I find a romantic partner?Dr. Faith G. Harper, author of&amp;nbsp;Unfuck Your...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6071697" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>8126559</id>
-    <title>Autism and Masking by Felicity Sedgewick is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/8126559"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/BA4/F7D/FB/{BA4F7DFB-0CDD-4026-81DC-F5C691F021F5}Img150.jpg"&gt;
-&lt;h2&gt;Autism and Masking&lt;/h2&gt;
-&lt;h3&gt;How and Why People Do It, and the Impact It Can Have&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Autistic people often feel they have to present as neurotypical or perform neurotypical social behaviours in order to fit in. So-called 'masking' is a social survival strategy used by autistic people in situations where neurodiversity is not...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/8126559" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>4460878</id>
-    <title>Gender Identity, Sexuality and Autism by Eva A. Mendes is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4460878"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/4DF/D53/59/{4DFD5359-21B6-4BEB-A9AE-DF4AEF3D42D8}Img150.jpg"&gt;
-&lt;h2&gt;Gender Identity, Sexuality and Autism&lt;/h2&gt;
-&lt;h3&gt;Voices from Across the Spectrum&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Bringing together a collection of narratives from those who are on the autism spectrum whilst also identifying as lesbian, gay, bisexual, transgender, queer, intersex and/or asexual (LGBTQIA), this book explores the intersection of the two...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4460878" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>5649704</id>
-    <title>We're Not Broken by Eric Garcia is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5649704"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0874-1/088/68E/DC/{08868EDC-D2B6-4795-95CD-5D78E7EDEF9E}Img150.jpg"&gt;
-&lt;h2&gt;We're Not Broken&lt;/h2&gt;
-&lt;h3&gt;Changing the Autism Conversation&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;strong&gt;"This book is a message from autistic people to their parents, friends, teachers, coworkers and doctors showing what life is like on the spectrum. It's also my love letter to autistic people. For too long, we have been forced to navigate...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5649704" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>2677036</id>
-    <title>The Autism Spectrum Guide to Sexuality and Relationships by Emma Goodall is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2677036"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/EA3/FB2/72/{EA3FB272-20DC-4332-8C03-56ABC6B8E1EC}Img150.jpg"&gt;
-&lt;h2&gt;The Autism Spectrum Guide to Sexuality and Relationships&lt;/h2&gt;
-&lt;h3&gt;Understand Yourself and Make Choices that are Right for You&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-Unravelling the complexities of relationships and sexuality, this straight-talking guide will help you to navigate the associated social, emotional and physical issues. Expert advice and real life examples give you the knowledge to reflect on...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2677036" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>647364</id>
-    <title>The Autism Revolution by Dr. Martha Herbert is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/647364"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/CD7/F13/63/{CD7F1363-1BC1-46C2-86E0-6EDACF08DC42}Img150.jpg"&gt;
-&lt;h2&gt;The Autism Revolution&lt;/h2&gt;
-&lt;h3&gt;Whole-Body Strategies for Making Life All It Can Be&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Health &amp; Fitness, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&amp;ldquo;An  in-depth, scientific&amp;mdash;yet hopeful and positive&amp;mdash;look at how the brain and  body work together . . . [Dr. Martha Herbert] has developed a new way  of seeing autism.&amp;rdquo;&amp;mdash;&lt;i&gt;Library Journal&lt;/i&gt;&lt;/b&gt;&lt;br&gt;...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/647364" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>2677143</id>
-    <title>The Other Half of Asperger Syndrome (Autism Spectrum Disorder) by Dr Anthony Attwood is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2677143"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/733/AE6/CC/{733AE6CC-2AB8-4227-94D0-1E008A74A626}Img150.jpg"&gt;
-&lt;h2&gt;The Other Half of Asperger Syndrome (Autism Spectrum Disorder)&lt;/h2&gt;
-&lt;h3&gt;A Guide to Living in an Intimate Relationship with a Partner who is on the Autism Spectrum&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-Does your other half have Asperger Syndrome or do you suspect that he or she is on the autism spectrum? This quick and helpful relationships guide provides all the information you need for relationship success with your ASD partner. In the second...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2677143" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>661282</id>
-    <title>Bright Not Broken by Diane M. Kennedy is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/661282"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0128-1/6B7/B01/47/{6B7B0147-0D34-4505-933B-62491CF23967}Img150.jpg"&gt;
-&lt;h2&gt;Bright Not Broken&lt;/h2&gt;
-&lt;h3&gt;Gifted Kids, ADHD, and Autism&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-The future of our society depends on our gifted children—the population in which we'll find our next Isaac Newton, Albert Einstein, or Virginia Woolf. Yet the gifts and talents of some of our most brilliant kids may never be recognized because...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/661282" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>5835436</id>
-    <title>On the Spectrum by Daniel Jr. Bowman is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5835436"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2003-1/085/71E/1B/{08571E1B-AE19-4CAA-8F30-4F957CE78199}Img150.jpg"&gt;
-&lt;h2&gt;On the Spectrum&lt;/h2&gt;
-&lt;h3&gt;Autism, Faith, and the Gifts of Neurodiversity&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Christian Nonfiction, Nonfiction, Religion &amp; Spirituality, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-This book debunks myths about autism and autistics with a realistic yet hope-filled deep dive into the heart, mind, and life of an autistic Christian.
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5835436" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>3321573</id>
-    <title>Champion by Craig Johnson is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/3321573"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2824-1/9A7/2D0/9F/{9A72D09F-A0C5-4552-BFCD-969865213BE7}Img150.jpg"&gt;
-&lt;h2&gt;Champion&lt;/h2&gt;
-&lt;h3&gt;How One Boy's Miraculous Journey Through Autism Is Changing the World&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Christian Nonfiction, Family &amp; Relationships, Nonfiction, Religion &amp; Spirituality&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A Celebration of Everyone Who Fulfills Their Purpose Through Unexpected Challenges&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Until two years of age, Craig and Samantha's son Connor was just like other kids&amp;#8212;playful, verbal, and affectionate. Then everything...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/3321573" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>6364731</id>
-    <title>Late Bloomer by Clem Bastow is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6364731"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/3357-1/BC4/8A9/18/{BC48A918-03C6-4762-A1AB-AEC66A2D6D59}Img150.jpg"&gt;
-&lt;h2&gt;Late Bloomer&lt;/h2&gt;
-&lt;h3&gt;How an Autism Diagnosis Changed My Life&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Introducing a bold new voice in Australian nonfiction, &lt;B&gt;Late Bloomer&lt;/B&gt; is a heartfelt coming-of-age memoir that will change the way you think about autism. &lt;BR /&gt; Clem Bastow grew up feeling like she'd missed a key memo on human behaviour....
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6364731" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>4386571</id>
-    <title>Spectrum Women by Barb Cook is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4386571"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/212/DED/F4/{212DEDF4-EE20-4737-A064-1C66CB38D961}Img150.jpg"&gt;
-&lt;h2&gt;Spectrum Women&lt;/h2&gt;
-&lt;h3&gt;Walking to the Beat of Autism&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction, Psychology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Barb Cook and 14 other autistic women describe life from a female autistic perspective, and present empowering, helpful and supportive insights from their personal experience for fellow autistic women. Michelle Garnett's comments validate and...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4386571" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
-  </entry>
-  <entry>
-    <id>2675328</id>
-    <title>Asperger Syndrome (Autism Spectrum Disorder) and Long-Term Relationships by Ashley Stanford is in the downloadLibrary</title>
-    <updated>2022-03-09T10:53:00.407597+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/2675328"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6905-1/7AC/807/FA/{7AC807FA-97C2-459B-8CF9-1E33A7289FAB}Img150.jpg"&gt;
-&lt;h2&gt;Asperger Syndrome (Autism Spectrum Disorder) and Long-Term Relationships&lt;/h2&gt;
-&lt;h3&gt;Fully Revised and Updated with DSM-5® Criteria&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-Happily married to her husband with Asperger Syndrome for 25 years, Ashley Stanford is an expert on how Autism Spectrum Disorder (ASD) can affect a relationship and her bestselling book has helped thousands of couples. Brought fully up to date,...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/2675328" rel="alternate"/>
-    <published>2022-03-09T10:53:00.407597+00:00</published>
   </entry>
 </feed>
