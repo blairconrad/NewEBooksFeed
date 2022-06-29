@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-06-28T10:52:53.853267+00:00</updated>
+  <updated>2022-06-29T10:52:42.546459+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>7365661</id>
+    <title>Long Way Home by Lynn Austin is in the downloadLibrary</title>
+    <updated>2022-06-29T10:52:42.678010+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7365661"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0457-1/{FD8859B9-E6DB-4074-8D79-310BC7183601}IMG150.JPG"&gt;
+&lt;h2&gt;Long Way Home&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;In this gripping portrait of war and its aftermath from bestselling author Lynn Austin, a young woman searches for the truth her childhood friend won't discuss after returning from World War II, revealing a story of courage, friendship, and...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7365661" rel="alternate"/>
+    <published>2022-06-29T10:52:42.678010+00:00</published>
+  </entry>
+  <entry>
+    <id>5678225</id>
+    <title>Move, Connect, Play by Jason Nemer is in the downloadLibrary</title>
+    <updated>2022-06-29T10:52:42.678010+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5678225"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/2C2/3C4/49/{2C23C449-4F5C-404B-BD82-9BB1821EA5B6}Img150.jpg"&gt;
+&lt;h2&gt;Move, Connect, Play&lt;/h2&gt;
+&lt;h3&gt;The Art and Science of AcroYoga&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Health &amp; Fitness, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;i&gt;Move, Connect, Play&lt;/i&gt; is a book detailing the core principles of Acroyoga, a practice that melds the spectacle of circus arts with the healing power of massage and the breathwork of yoga ...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5678225" rel="alternate"/>
+    <published>2022-06-29T10:52:42.678010+00:00</published>
+  </entry>
+  <entry>
+    <id>631147</id>
+    <title>Over-Dressed by Elizabeth L. Cline is in the downloadLibrary</title>
+    <updated>2022-06-29T10:52:42.678010+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/631147"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/E65/780/CC/{E65780CC-41B5-4265-99A2-1083CCA556BC}Img150.jpg"&gt;
+&lt;h2&gt;Over-Dressed&lt;/h2&gt;
+&lt;h3&gt;The Shockingly High Cost of Cheap Fashion&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Business, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+Until recently, Elizabeth Cline was a typical American consumer. She&amp;rsquo;d grown accustomed to shopping at outlet malls, discount stores like T.J. Maxx, and cheap but trendy retailers like Forever 21, Target, and H&amp;amp;M. She was buying a new...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/631147" rel="alternate"/>
+    <published>2022-06-29T10:52:42.678010+00:00</published>
+  </entry>
   <entry>
     <id>6883974</id>
     <title>The Friendship Pact by Jill Shalvis is in the downloadLibrary</title>
