@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-07-10T10:52:45.339616+00:00</updated>
+  <updated>2022-07-12T10:52:54.325773+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>3707242</id>
+    <title>Monument by Natasha Trethewey is in the downloadLibrary</title>
+    <updated>2022-07-12T10:52:54.480002+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/3707242"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0874-1/0B6/9EC/A8/{0B69ECA8-192F-4D0C-AD74-2CA3DA7C98A5}Img150.jpg"&gt;
+&lt;h2&gt;Monument&lt;/h2&gt;
+&lt;h3&gt;Poems New and Selected&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Poetry&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;strong&gt;Urgent new poems on race and gender inequality, and select poems drawing upon Domestic Work, Bellocq's Ophelia, Native Guard, Congregation, and Thrall, from two-time U.S. Poet Laureate and Pulitzer Prize winner Natasha...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/3707242" rel="alternate"/>
+    <published>2022-07-12T10:52:54.480002+00:00</published>
+  </entry>
+  <entry>
+    <id>1045018</id>
+    <title>Thrall by Natasha Trethewey is in the downloadLibrary</title>
+    <updated>2022-07-12T10:52:54.480002+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/1045018"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0874-1/1BB/312/60/{1BB31260-4F86-4824-B031-8E7F2254BD11}Img150.jpg"&gt;
+&lt;h2&gt;Thrall&lt;/h2&gt;
+&lt;h3&gt;Poems&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Poetry&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;strong&gt;The stunning follow-up volume to Natasha Trethewey's Pulitzer Prize&amp;#8211;winning Native Guard, by the 19th Poet Laureate of the United States. &lt;br/&gt;&lt;/strong&gt;Natasha Trethewey's poems are at once deeply personal and...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/1045018" rel="alternate"/>
+    <published>2022-07-12T10:52:54.480002+00:00</published>
+  </entry>
+  <entry>
+    <id>573938</id>
+    <title>Native Guard by Natasha Trethewey is in the downloadLibrary</title>
+    <updated>2022-07-12T10:52:54.480002+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/573938"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0874-1/EDA/AA0/4F/{EDAAA04F-A23A-4861-8AC6-E354104232FD}Img150.jpg"&gt;
+&lt;h2&gt;Native Guard&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Poetry&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;strong&gt;Winner of the 2007 Pulitzer Prize for poetry and former U.S. Poet Laureate, Natasha Trethewey's elegiac Native Guard is a deeply personal volume that brings together two legacies of the Deep South.&lt;/strong&gt;&lt;br/&gt;The title of the collection...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/573938" rel="alternate"/>
+    <published>2022-07-12T10:52:54.480002+00:00</published>
+  </entry>
   <entry>
     <id>6944490</id>
     <title>The Tuesday Night Survivors' Club by Lynn Cahoon is in the downloadLibrary</title>
@@ -10741,119 +10798,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/4704785" rel="alternate"/>
     <published>2022-04-13T10:52:58.460653+00:00</published>
-  </entry>
-  <entry>
-    <id>6382643</id>
-    <title>This Is Assisted Dying by Stefanie Green is in the downloadLibrary</title>
-    <updated>2022-04-12T10:52:51.020319+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6382643"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/52E/513/9E/{52E5139E-902F-46DC-9167-1D162C561DBC}Img150.jpg"&gt;
-&lt;h2&gt;This Is Assisted Dying&lt;/h2&gt;
-&lt;h3&gt;A Doctor's Story of Empowering Patients at the End of Life&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Family &amp; Relationships, Medical, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;A transformative and compassionate memoir by a leading pioneer in medically assisted dying&lt;/b&gt; &lt;b&gt;who began her career in the maternity ward and now helps patients who are suffering explore and then fulfill their end of life...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6382643" rel="alternate"/>
-    <published>2022-04-12T10:52:51.020319+00:00</published>
-  </entry>
-  <entry>
-    <id>6347408</id>
-    <title>Stories I Might Regret Telling You by Martha Wainwright is in the downloadLibrary</title>
-    <updated>2022-04-12T10:52:51.020319+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6347408"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/98D/1DF/66/{98D1DF66-892B-408A-A2B0-65C0888195E9}Img150.jpg"&gt;
-&lt;h2&gt;Stories I Might Regret Telling You&lt;/h2&gt;
-&lt;h3&gt;A Memoir&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, History, Music, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;b&gt;The singer-songwriter&amp;rsquo;s heartfelt memoir about growing up in a bohemian musical family and her experiences with love, loss, motherhood, divorce, the music industry, and more.&lt;/b&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Born into music royalty, the daughter of...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6347408" rel="alternate"/>
-    <published>2022-04-12T10:52:51.020319+00:00</published>
-  </entry>
-  <entry>
-    <id>4669484</id>
-    <title>Keto for Life by Mark Sisson is in the downloadLibrary</title>
-    <updated>2022-04-12T10:52:51.020319+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4669484"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/8A5/EAE/99/{8A5EAE99-C859-4F78-988D-51259C7780C8}Img150.jpg"&gt;
-&lt;h2&gt;Keto for Life&lt;/h2&gt;
-&lt;h3&gt;Reset Your Biological Clock in 21 Days and Optimize Your Diet for Longevity&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Cooking &amp; Food, Health &amp; Fitness, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;From the health expert and &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;The Keto Reset Diet&lt;/i&gt; comes a groundbreaking ketogenic eating and lifestyle plan tailored for longevity, health, and happiness.&lt;/b&gt; &lt;br&gt;&lt;br&gt;At age sixty-six, ancestral...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4669484" rel="alternate"/>
-    <published>2022-04-12T10:52:51.020319+00:00</published>
-  </entry>
-  <entry>
-    <id>6142932</id>
-    <title>I'll Start Again Monday by Lysa TerKeurst is in the downloadLibrary</title>
-    <updated>2022-04-12T10:52:51.020319+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6142932"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0354-1/295/422/37/{29542237-8E16-4CC4-AA34-D8B830403CFD}Img150.jpg"&gt;
-&lt;h2&gt;I'll Start Again Monday&lt;/h2&gt;
-&lt;h3&gt;Break the Cycle of Unhealthy Eating Habits With Lasting Spiritual Satisfaction&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Christian Nonfiction, Nonfiction, Religion &amp; Spirituality, Self-Improvement&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;*I'll Start Again Monday is a newly revised and condensed version of Lysa's bestseller Made to Crave.*&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Have healthy eating plans left you feeling defeated?&lt;/strong&gt; &lt;strong&gt;Based on her...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6142932" rel="alternate"/>
-    <published>2022-04-12T10:52:51.020319+00:00</published>
-  </entry>
-  <entry>
-    <id>6382697</id>
-    <title>Bluebird by Genevieve Graham is in the downloadLibrary</title>
-    <updated>2022-04-12T10:52:51.020319+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6382697"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/F56/FEC/94/{F56FEC94-DE04-43C4-A032-3E7D4971DCF2}Img150.jpg"&gt;
-&lt;h2&gt;Bluebird&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;A dazzling novel set during the Great War and postwar Prohibition about a young nurse, a soldier, and a family secret that binds them together for generations to come&amp;#8212;from &lt;i&gt;USA TODAY&lt;/i&gt; and repeat #1 bestselling author Genevieve...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6382697" rel="alternate"/>
-    <published>2022-04-12T10:52:51.020319+00:00</published>
-  </entry>
-  <entry>
-    <id>6209949</id>
-    <title>The Circus Train by Amita Parikh is in the downloadLibrary</title>
-    <updated>2022-04-12T10:52:51.020319+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6209949"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/641/D04/7D/{641D047D-A4D4-4159-987B-ACB91767427C}Img150.jpg"&gt;
-&lt;h2&gt;The Circus Train&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;At the World of Wonders, Europe's most magnificent travelling circus, every moment is full of magic, and nothing is as it seems&amp;#8212;especially for the people who put on the show &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lena Papadopoulos has never quite found...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6209949" rel="alternate"/>
-    <published>2022-04-12T10:52:51.020319+00:00</published>
   </entry>
 </feed>
