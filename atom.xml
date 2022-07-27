@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-07-26T10:54:11.772369+00:00</updated>
+  <updated>2022-07-27T10:53:27.109051+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6702613</id>
+    <title>The Edge of Summer by Viola Shipman is in the downloadLibrary</title>
+    <updated>2022-07-27T10:53:27.285239+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6702613"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1071-1/{54292074-3A13-48C3-8396-3914F542D10C}IMG150.JPG"&gt;
+&lt;h2&gt;The Edge of Summer&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;strong&gt;Bestselling author Viola Shipman delights with this captivating summertime escape set&lt;/strong&gt;&lt;strong&gt; along the sparkling shores of Lake Michigan, where &lt;/strong&gt;&lt;strong&gt;a woman searches for clues to her secretive mother's...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6702613" rel="alternate"/>
+    <published>2022-07-27T10:53:27.285239+00:00</published>
+  </entry>
+  <entry>
+    <id>7348732</id>
+    <title>The Mermaid of Black Conch by Monique Roffey is in the downloadLibrary</title>
+    <updated>2022-07-27T10:53:27.285239+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7348732"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/217/D93/2E/{217D932E-0E40-4A1F-89CC-CDDD16954706}Img150.jpg"&gt;
+&lt;h2&gt;The Mermaid of Black Conch&lt;/h2&gt;
+&lt;h3&gt;A novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Historical Fiction, Mythology&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;WINNER OF THE COSTA BOOK OF THE YEAR AWARD &amp;bull; This enchanting tale of a cursed mythical creature and the lonely fisherman who falls in love with her is "a daring, mesmerizing novel &amp;hellip;&amp;nbsp; single-handedly bringing magic realism...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7348732" rel="alternate"/>
+    <published>2022-07-27T10:53:27.285239+00:00</published>
+  </entry>
+  <entry>
+    <id>6656728</id>
+    <title>Agent Josephine by Damien Lewis is in the downloadLibrary</title>
+    <updated>2022-07-27T10:53:27.285239+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6656728"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/1CA/4CB/AE/{1CA4CBAE-6D2F-4F9A-A8A7-F122769BE917}Img150.jpg"&gt;
+&lt;h2&gt;Agent Josephine&lt;/h2&gt;
+&lt;h3&gt;American Beauty, French Hero, British Spy&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, History, Nonfiction, Politics&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;Singer. Actress. Beauty. Spy. During WWII, Josephine Baker, the world&amp;#39;s richest and most glamorous entertainer, was an Allied spy in Occupied France.&amp;#160; &lt;/B&gt;&lt;BR /&gt; Prior to World War II, Josephine Baker was a music-hall diva renowned...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6656728" rel="alternate"/>
+    <published>2022-07-27T10:53:27.285239+00:00</published>
+  </entry>
   <entry>
     <id>3866378</id>
     <title>Love's Not Color Blind by Kevin A. Patterson is in the downloadLibrary</title>
