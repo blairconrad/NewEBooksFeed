@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-08-21T10:52:45.544077+00:00</updated>
+  <updated>2022-08-22T10:53:41.506893+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6080619</id>
+    <title>Guild Boss by Jayne Castle is in the downloadLibrary</title>
+    <updated>2022-08-22T10:53:41.555444+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6080619"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/F18/350/A7/{F18350A7-2BB7-46DE-BFC7-DB6B4E021FF2}Img150.jpg"&gt;
+&lt;h2&gt;Guild Boss&lt;/h2&gt;
+&lt;h3&gt;Harmony Series, Book 14&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Romance, Science Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;Welcome to Illusion Town on the colony world of Harmony&amp;mdash;like Las Vegas on Earth, but way more weird.&lt;/b&gt;&lt;br&gt; &lt;br&gt; Living in this new, alien world doesn&amp;rsquo;t stop the settlers from trying to re-create what they&amp;rsquo;ve left behind....
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6080619" rel="alternate"/>
+    <published>2022-08-22T10:53:41.555444+00:00</published>
+  </entry>
   <entry>
     <id>6495140</id>
     <title>How the World Really Works by Vaclav Smil is in the downloadLibrary</title>
