@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-09-15T10:56:05.335477+00:00</updated>
+  <updated>2022-09-16T10:57:29.786086+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6383139</id>
+    <title>Second Self by Una McCormack is in the downloadLibrary</title>
+    <updated>2022-09-16T10:57:29.872060+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6383139"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/{C5308313-1E1B-4E5D-AFCD-480E23007183}IMG150.JPG"&gt;
+&lt;h2&gt;Second Self&lt;/h2&gt;
+&lt;h3&gt;Star Trek: Picard Series, Book 4&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Science Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;A thrilling untold adventure based on the acclaimed &lt;i&gt;Star Trek: Picard&lt;/i&gt; TV series!&lt;/b&gt;&lt;BR&gt;Following the explosive events seen in season one of &lt;i&gt;Star Trek: Picard&lt;/i&gt;, Raffi Musiker finds herself torn between returning to her old life as...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6383139" rel="alternate"/>
+    <published>2022-09-16T10:57:29.872060+00:00</published>
+  </entry>
+  <entry>
+    <id>1584231</id>
+    <title>Personal Memoirs of Ulysses S. Grant by Ulysses S. Grant is in the downloadLibrary</title>
+    <updated>2022-09-16T10:57:29.872060+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/1584231"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/CDA/C8C/77/{CDAC8C77-1A00-4C8E-9F27-AEDBB95D8E56}Img150.jpg"&gt;
+&lt;h2&gt;Personal Memoirs of Ulysses S. Grant&lt;/h2&gt;
+&lt;h3&gt;Volumes One and Two&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;The celebrated remembrances of the man who led the Union to victory during the Civil War&lt;/B&gt;&lt;BR /&gt;Completed just days before his death, Grant's &lt;I&gt;Personal Memoirs&lt;/I&gt; is a clear and compelling account of his military career, focusing on two...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/1584231" rel="alternate"/>
+    <published>2022-09-16T10:57:29.872060+00:00</published>
+  </entry>
   <entry>
     <id>3680428</id>
     <title>Clockwork Boys by T. Kingfisher is in the downloadLibrary</title>
