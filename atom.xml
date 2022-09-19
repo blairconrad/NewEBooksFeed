@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-09-17T10:54:35.032880+00:00</updated>
+  <updated>2022-09-19T10:58:30.029666+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6295134</id>
+    <title>Hesha Vira's Challenge by Lyn McGinnis is in the downloadLibrary</title>
+    <updated>2022-09-19T10:58:30.144083+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6295134"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2281-1/EE3/BB5/BA/{EE3BB5BA-1756-4392-B3D2-6445A710DEAD}Img150.jpg"&gt;
+&lt;h2&gt;Hesha Vira's Challenge&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On a distant planet named Anu, three narratives emerge of a world in transition. One is Sinkin, a member of a defeated quadruped species known as the Suvuka. They had mounted a war of aggression and were defeated by the Tolku. The Suvuka are...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6295134" rel="alternate"/>
+    <published>2022-09-19T10:58:30.144083+00:00</published>
+  </entry>
   <entry>
     <id>6767367</id>
     <title>A Good Name by Yejide Kilanko is in the downloadLibrary</title>
