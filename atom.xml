@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-10-01T10:57:11.113588+00:00</updated>
+  <updated>2022-10-04T10:59:26.007475+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>7170056</id>
+    <title>Queen of Our Times by Robert Hardman is in the downloadLibrary</title>
+    <updated>2022-10-04T10:59:26.107019+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7170056"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1567-1/{F8303247-A533-4064-BCBA-E4D70D1859BE}IMG150.JPG"&gt;
+&lt;h2&gt;Queen of Our Times&lt;/h2&gt;
+&lt;h3&gt;The Life of Elizabeth II&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, History, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;The Amazon No. 1 Bestseller and &lt;i&gt;Sunday Times&lt;/i&gt; Bestseller&lt;br&gt;The definitive biography of Queen Elizabeth II by one of Britain's leading royal authorities.&lt;br&gt;'Sensational' - Kirsty Young, BBC1's &lt;i&gt;The Platinum...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7170056" rel="alternate"/>
+    <published>2022-10-04T10:59:26.107019+00:00</published>
+  </entry>
+  <entry>
+    <id>6434846</id>
+    <title>Live Wire by Kelly Ripa is in the downloadLibrary</title>
+    <updated>2022-10-04T10:59:26.107019+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6434846"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/D73/580/F4/{D73580F4-750C-4BBE-B45B-083E2A1E6645}Img150.jpg"&gt;
+&lt;h2&gt;Live Wire&lt;/h2&gt;
+&lt;h3&gt;Long-Winded Short Stories&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Humor (Nonfiction), Nonfiction, Performing Arts&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A sharp, funny, and honest collection of real-life stories from Kelly Ripa, showing the many dimensions and crackling wit of the beloved daytime talk show host.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In Live Wire, her first book, Kelly shows what really makes...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6434846" rel="alternate"/>
+    <published>2022-10-04T10:59:26.107019+00:00</published>
+  </entry>
   <entry>
     <id>5428214</id>
     <title>One Wish by Robyn Carr is in the downloadLibrary</title>
