@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-10-04T10:59:26.007475+00:00</updated>
+  <updated>2022-10-05T11:00:02.778981+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>8113943</id>
+    <title>The Golden Enclaves by Naomi Novik is in the downloadLibrary</title>
+    <updated>2022-10-05T11:00:02.845521+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8113943"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/0F5/9C2/89/{0F59C289-12CB-45A2-8788-B1386FE1474D}Img150.jpg"&gt;
+&lt;h2&gt;The Golden Enclaves&lt;/h2&gt;
+&lt;h3&gt;Scholomance Series, Book 3&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;Saving the world is a test no school of magic can prepare you for in the triumphant conclusion to the &lt;i&gt;New York Times&lt;/i&gt; bestselling trilogy that began with &lt;i&gt;A Deadly Education&lt;/i&gt; and &lt;i&gt;The Last Graduate.&lt;/i&gt;&lt;/b&gt;&lt;br&gt;The one thing you...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8113943" rel="alternate"/>
+    <published>2022-10-05T11:00:02.845521+00:00</published>
+  </entry>
+  <entry>
+    <id>7565320</id>
+    <title>A Dreadful Splendour by B.R. Myers is in the downloadLibrary</title>
+    <updated>2022-10-05T11:00:02.845521+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7565320"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/9D7/C63/BD/{9D7C63BD-E32F-4209-A44F-19154DFD135A}Img150.jpg"&gt;
+&lt;h2&gt;A Dreadful Splendour&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt; &lt;strong&gt;wickedly whimsical and delectable brew of mystery, spine-tingling chills and intoxicating romance that makes for an irresistibly fun and page-turning read&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The bride: The dearly departed. Who could have...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7565320" rel="alternate"/>
+    <published>2022-10-05T11:00:02.845521+00:00</published>
+  </entry>
   <entry>
     <id>7170056</id>
     <title>Queen of Our Times by Robert Hardman is in the downloadLibrary</title>
