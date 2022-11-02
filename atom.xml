@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-10-27T10:54:57.638709+00:00</updated>
+  <updated>2022-11-02T10:55:00.643923+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>3825401</id>
+    <title>The Wonder Engine by T. Kingfisher is in the downloadLibrary</title>
+    <updated>2022-11-02T10:55:00.749623+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/3825401"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/7635-1/347/C6E/2E/{347C6E2E-690A-4FAB-BA68-C6E97E8A973A}Img150.jpg"&gt;
+&lt;h2&gt;The Wonder Engine&lt;/h2&gt;
+&lt;h3&gt;Clocktaur War, #2&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pull three people out of prison—a disgraced paladin, a convicted forger, and a heartless assassin. Give them weapons, carnivorous tattoos, and each other. Point them at the enemy.&lt;br /&gt;What could possibly go wrong?&lt;br /&gt;In the sequel to...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/3825401" rel="alternate"/>
+    <published>2022-11-02T10:55:00.749623+00:00</published>
+  </entry>
+  <entry>
+    <id>9269632</id>
+    <title>Murder at the Dressmaker's Salon by C.J. Archer is in the downloadLibrary</title>
+    <updated>2022-11-02T10:55:00.749623+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9269632"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/7168-1/{B0CA9031-7DD6-4318-80AB-508F0CB6C398}IMG150.JPG"&gt;
+&lt;h2&gt;Murder at the Dressmaker's Salon&lt;/h2&gt;
+&lt;h3&gt;Cleopatra Fox Mysteries, Book 4&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;As fashion designer to London's elite, she had an eye for detail and a flare for the dramatic. But there's nothing stylish about her cold-blooded murder.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;With the social season just around the corner, the women in...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9269632" rel="alternate"/>
+    <published>2022-11-02T10:55:00.749623+00:00</published>
+  </entry>
   <entry>
     <id>6492933</id>
     <title>Heat Wave: the Extraordinaries Series, Book 3 by TJ Klune is in the downloadLibrary</title>
