@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-11-02T10:55:00.643923+00:00</updated>
+  <updated>2022-11-03T10:55:49.335703+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>8758585</id>
+    <title>The Luminaries by Susan Dennard is in the downloadLibrary</title>
+    <updated>2022-11-03T10:55:49.433663+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8758585"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/{65E4D273-EA17-44B3-AC8B-293DD4535389}IMG150.JPG"&gt;
+&lt;h2&gt;The Luminaries&lt;/h2&gt;
+&lt;h3&gt;Luminaries Series, Book 1&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Romance, Young Adult Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;From Susan Dennard, the &lt;i&gt;New York Times&lt;/i&gt; bestselling author of the Witchlands series, comes a haunting and high-octane contemporary fantasy, about the magic it takes to face your fears in a nightmare-filled forest, and the mettle...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8758585" rel="alternate"/>
+    <published>2022-11-03T10:55:49.433663+00:00</published>
+  </entry>
   <entry>
     <id>3825401</id>
     <title>The Wonder Engine by T. Kingfisher is in the downloadLibrary</title>
