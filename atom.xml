@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-11-03T10:55:49.335703+00:00</updated>
+  <updated>2022-11-05T10:52:49.171231+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5810358</id>
+    <title>Campfire Cooking in Another World with my Absurd Skill, Volume 2 by Ren Eguchi is in the downloadLibrary</title>
+    <updated>2022-11-05T10:52:49.267300+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5810358"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/8208-1/3D9/F57/E0/{3D9F57E0-6145-4E97-90DC-8120DB556263}Img150.jpg"&gt;
+&lt;h2&gt;Campfire Cooking in Another World with my Absurd Skill, Volume 2&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Comic and Graphic Books, Fantasy, Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mukouda Tsuyoshi &amp;#8211; alias, 'Mukohda' &amp;#8211; was an ordinary Japanese salaryman until he was summoned to a fantasy world of swords and magic. Mukohda's unique skill made him the only person in this world with access to modern Japanese...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5810358" rel="alternate"/>
+    <published>2022-11-05T10:52:49.267300+00:00</published>
+  </entry>
   <entry>
     <id>8758585</id>
     <title>The Luminaries by Susan Dennard is in the downloadLibrary</title>
