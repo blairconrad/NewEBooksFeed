@@ -2,12 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-11-25T10:53:02.062018+00:00</updated>
+  <updated>2022-11-26T10:52:46.443053+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9136105</id>
+    <title>Art Magick by Molly Roberts is in the downloadLibrary</title>
+    <updated>2022-11-26T10:52:46.542565+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9136105"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/{5BC977F2-19F3-4299-827B-4A0E8F799EEF}IMG150.JPG"&gt;
+&lt;h2&gt;Art Magick&lt;/h2&gt;
+&lt;h3&gt;How to become an art witch and unlock your creative power&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Art, New Age, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Would you believe me if I told you that you're a witch? A crafty enchanter born with the abilities to create beauty, read secret languages, heal the heart and attract the attention of the strange and wonderful? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9136105" rel="alternate"/>
+    <published>2022-11-26T10:52:46.542565+00:00</published>
+  </entry>
+  <entry>
+    <id>7454374</id>
+    <title>Fen, Bog and Swamp by Annie Proulx is in the downloadLibrary</title>
+    <updated>2022-11-26T10:52:46.542565+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7454374"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/{D4715640-9F35-4918-A13E-4E141DECBDA1}IMG150.JPG"&gt;
+&lt;h2&gt;Fen, Bog and Swamp&lt;/h2&gt;
+&lt;h3&gt;A Short History of Peatland Destruction and Its Role in the Climate Crisis&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: History, Nature, Nonfiction, Science&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;*One of &lt;i&gt;Time&lt;/i&gt; Magazine's Most Anticipated Books* Named a Best Book of the Year So Far by &lt;i&gt;The New Yorker *&lt;/i&gt;&lt;/b&gt;&lt;BR&gt; &lt;BR&gt; &lt;b&gt;From Pulitzer Prize winner Annie Proulx, this riveting deep dive into the history of our wetlands and what...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7454374" rel="alternate"/>
+    <published>2022-11-26T10:52:46.542565+00:00</published>
+  </entry>
   <entry>
     <id>9256856</id>
     <title>The Future Is Disabled by Leah Lakshmi Piepzna-Samarasinha is in the downloadLibrary</title>
