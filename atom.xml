@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-12-02T10:52:41.266825+00:00</updated>
+  <updated>2022-12-06T00:39:02.678731+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>6721921</id>
+    <title>All the Seas of the World by Guy Gavriel Kay is in the downloadLibrary</title>
+    <updated>2022-12-06T00:39:02.794386+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6721921"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/E9E/52E/05/{E9E52E05-EE32-40F5-8300-22A69126FB08}Img150.jpg"&gt;
+&lt;h2&gt;All the Seas of the World&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Historical Fiction, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&amp;ldquo;This is an immersive reading experience; readers will taste the dust in their mouths, see the high seas from the deck of a merchant ship, feel the bustle of the city market. What results is necessary sustenance for the starving reader....
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6721921" rel="alternate"/>
+    <published>2022-12-06T00:39:02.794386+00:00</published>
+  </entry>
   <entry>
     <id>9250344</id>
     <title>Revenge of the Librarians by Tom Gauld is in the downloadLibrary</title>
