@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2022-12-21T10:52:55.201167+00:00</updated>
+  <updated>2022-12-22T10:52:40.996667+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>4884321</id>
+    <title>The Book of Eels by Patrik Svensson is in the downloadLibrary</title>
+    <updated>2022-12-22T10:52:41.093427+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/4884321"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/848/B35/B1/{848B35B1-D97C-4663-A0DC-59F3089DF9BA}Img150.jpg"&gt;
+&lt;h2&gt;The Book of Eels&lt;/h2&gt;
+&lt;h3&gt;Our Enduring Fascination with the Most Mysterious Creature in the Natural World&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Philosophy, Science&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Part H Is for Hawk, part The Soul of an Octopus, The Book of Eels is both a meditation on the world's most elusive fish&amp;#8212;the eel&amp;#8212;and a reflection on the human condition&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Remarkably little is known about the...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/4884321" rel="alternate"/>
+    <published>2022-12-22T10:52:41.093427+00:00</published>
+  </entry>
+  <entry>
+    <id>8796425</id>
+    <title>Dickens and Prince by Nick Hornby is in the downloadLibrary</title>
+    <updated>2022-12-22T10:52:41.093427+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8796425"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/066/F57/A3/{066F57A3-E4C6-476E-83D5-DAD2AA1BEFA0}Img150.jpg"&gt;
+&lt;h2&gt;Dickens and Prince&lt;/h2&gt;
+&lt;h3&gt;A Particular Kind of Genius&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Art, Biography &amp; Autobiography, History, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&amp;ldquo;An ardent fan letter from Hornby that makes you want to re-read &lt;i&gt;Great Expectations&lt;/i&gt; while listening to &lt;i&gt;Sign o&amp;rsquo; the Times&lt;/i&gt;.&amp;rdquo; &amp;mdash;&lt;i&gt;Vogue&lt;br&gt;&lt;/i&gt;"This pairing — two magnificent creatives, centuries and genres...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8796425" rel="alternate"/>
+    <published>2022-12-22T10:52:41.093427+00:00</published>
+  </entry>
+  <entry>
+    <id>4815630</id>
+    <title>Why Fish Don't Exist by Lulu Miller is in the downloadLibrary</title>
+    <updated>2022-12-22T10:52:41.093427+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/4815630"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/418/89F/D5/{41889FD5-744D-4565-B850-BA2A07BB3613}Img150.jpg"&gt;
+&lt;h2&gt;Why Fish Don't Exist&lt;/h2&gt;
+&lt;h3&gt;A Story of Loss, Love, and the Hidden Order of Life&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Nature, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;A Best Book of 2020: &lt;/b&gt;&lt;b&gt;&lt;i&gt;The Washington Post &lt;/i&gt;&lt;/b&gt;&lt;b&gt;* NPR * &lt;/b&gt;&lt;b&gt;&lt;b&gt;&lt;b&gt;&lt;i&gt;Chicago Tribune * &lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;b&gt;&lt;i&gt;Smithsonian&lt;/i&gt;&lt;/b&gt;&lt;/i&gt;&lt;/b&gt;&lt;/b&gt;&lt;/b&gt;&lt;BR&gt; &lt;BR&gt;&lt;b&gt;A "remarkable" (&lt;i&gt;Los Angeles Times&lt;/i&gt;), "seductive" (&lt;i&gt;The...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/4815630" rel="alternate"/>
+    <published>2022-12-22T10:52:41.093427+00:00</published>
+  </entry>
   <entry>
     <id>9428428</id>
     <title>Illuminations by T. Kingfisher is in the downloadLibrary</title>
