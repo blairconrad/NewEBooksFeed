@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-01-14T10:52:50.337707+00:00</updated>
+  <updated>2023-01-18T10:52:56.981212+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9040739</id>
+    <title>Rough Sleepers by Tracy Kidder is in the downloadLibrary</title>
+    <updated>2023-01-18T10:52:57.095961+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9040739"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{850EBC14-C9DA-4C5D-9D76-91AF3181292D}IMG150.JPG"&gt;
+&lt;h2&gt;Rough Sleepers&lt;/h2&gt;
+&lt;h3&gt;Dr. Jim O'Connell's urgent mission to bring healing to homeless people&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Medical, Nonfiction, Sociology&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;The powerful story of an inspiring doctor who made a difference, by helping to create a program to care for Boston&amp;rsquo;s homeless community&amp;mdash;by the Pulitzer Prize&amp;ndash;winning, &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;Mountains...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9040739" rel="alternate"/>
+    <published>2023-01-18T10:52:57.095961+00:00</published>
+  </entry>
+  <entry>
+    <id>8969854</id>
+    <title>The Creative Act by Rick Rubin is in the downloadLibrary</title>
+    <updated>2023-01-18T10:52:57.095961+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8969854"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{B364E43F-906F-4749-B51A-66D5CCA84358}IMG150.JPG"&gt;
+&lt;h2&gt;The Creative Act&lt;/h2&gt;
+&lt;h3&gt;A Way of Being&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Music, New Age, Nonfiction, Self-Improvement&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;From the legendary music producer, a master at helping people connect with the wellsprings of their creativity, comes a beautifully crafted book many years in the making that offers that same deep wisdom to all of us.&lt;br&gt;"A gorgeous and...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8969854" rel="alternate"/>
+    <published>2023-01-18T10:52:57.095961+00:00</published>
+  </entry>
+  <entry>
+    <id>8958888</id>
+    <title>Everyone in My Family Has Killed Someone by Benjamin Stevenson is in the downloadLibrary</title>
+    <updated>2023-01-18T10:52:57.095961+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8958888"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/{DFD944E1-E513-4DE2-81C0-8908F4389538}IMG150.JPG"&gt;
+&lt;h2&gt;Everyone in My Family Has Killed Someone&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Humor (Fiction), Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Knives Out and Clue meet Agatha Christie and The Thursday Murder Club in this "utterly original" (Jane Harper), "not to be missed" (Karin Slaughter), fiendishly clever blend of classic and modern murder mystery.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Everyone...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8958888" rel="alternate"/>
+    <published>2023-01-18T10:52:57.095961+00:00</published>
+  </entry>
   <entry>
     <id>9064837</id>
     <title>The Good Life by Robert Waldinger is in the downloadLibrary</title>
