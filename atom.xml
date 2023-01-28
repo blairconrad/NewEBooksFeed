@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-01-27T10:52:49.651128+00:00</updated>
+  <updated>2023-01-28T10:52:55.047453+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9004618</id>
+    <title>Georgie, All Along by Kate Clayborn is in the downloadLibrary</title>
+    <updated>2023-01-28T10:52:55.151712+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9004618"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/{5E0CB75B-B118-4B8F-911B-23B5F3C5EB3B}IMG150.JPG"&gt;
+&lt;h2&gt;Georgie, All Along&lt;/h2&gt;
+&lt;h3&gt;An Uplifting and Unforgettable Love Story&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Humor (Fiction), Literature, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;"Magnetic, witty, and expansive. The world is going to fall hard for this deliciously whimsical and captivating story, and I cannot wait to see it!" &amp;#8212;Ali Hazelwood, &lt;I&gt;New York Times&lt;/I&gt; bestselling author of &lt;I&gt;The Love...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9004618" rel="alternate"/>
+    <published>2023-01-28T10:52:55.151712+00:00</published>
+  </entry>
+  <entry>
+    <id>8918396</id>
+    <title>Make a Wish by Helena Hunting is in the downloadLibrary</title>
+    <updated>2023-01-28T10:52:55.151712+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8918396"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/{A7B2C7A0-4208-4E50-B3FF-5CEC8073714C}IMG150.JPG"&gt;
+&lt;h2&gt;Make a Wish&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Humor (Fiction), Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;With her signature charm and sense of humor, bestselling author Helena Hunting creates a novel about love, family, and second chances in &lt;/b&gt;&lt;i&gt;&lt;b&gt;Make a Wish.&lt;/b&gt;&lt;br&gt;&lt;/i&gt;Ever have a defining life moment you wish you could do over? Harley...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8918396" rel="alternate"/>
+    <published>2023-01-28T10:52:55.151712+00:00</published>
+  </entry>
+  <entry>
+    <id>8916536</id>
+    <title>Exes and O's by Amy Lea is in the downloadLibrary</title>
+    <updated>2023-01-28T10:52:55.151712+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8916536"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{A329AD90-0AAC-4203-AB84-7DA25495A6CE}IMG150.JPG"&gt;
+&lt;h2&gt;Exes and O's&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Humor (Fiction), Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;An International Bestseller!&lt;br&gt;One of Amazon's Best Romances of January &lt;b&gt;&amp;middot; &lt;/b&gt;A January LibraryReads Pick &amp;middot; One of Buzzfeed's&amp;#160;Romance Books To Look Out For In 2023&lt;br&gt;A romance novel-obsessed social media influencer...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8916536" rel="alternate"/>
+    <published>2023-01-28T10:52:55.151712+00:00</published>
+  </entry>
   <entry>
     <id>2694196</id>
     <title>Mythologizing Norval Morrisseau by Carmen L. Robertson is in the downloadLibrary</title>
