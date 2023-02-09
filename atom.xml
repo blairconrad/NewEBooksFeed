@@ -2,12 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-02-08T10:52:49.679807+00:00</updated>
+  <updated>2023-02-09T10:52:57.382447+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>8988564</id>
+    <title>The Davenports by Krystal Marquis is in the downloadLibrary</title>
+    <updated>2023-02-09T10:52:57.492965+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8988564"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{6472C2E2-8A16-434B-BF4F-BF55E237F73C}IMG150.JPG"&gt;
+&lt;h2&gt;The Davenports&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Historical Fiction, Romance, Young Adult Fiction, Young Adult Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;i&gt;The Davenports&lt;/i&gt; delivers a totally escapist, swoon-worthy romance while offering a glimpse into a period of African American history often overlooked.&lt;br&gt;"A fresh, utterly enchanting read.&amp;rdquo;&amp;nbsp;&amp;mdash;Ayana Gray, &lt;i&gt;New York...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8988564" rel="alternate"/>
+    <published>2023-02-09T10:52:57.492965+00:00</published>
+  </entry>
+  <entry>
+    <id>8918343</id>
+    <title>Encore in Death by J. D. Robb is in the downloadLibrary</title>
+    <updated>2023-02-09T10:52:57.492965+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8918343"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/{1326EA0A-3485-408D-B476-701144D9EB16}IMG150.JPG"&gt;
+&lt;h2&gt;Encore in Death&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery, Romance, Suspense&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;The homicide cop with a passion for justice returns in the captivating crime thriller series by the #1&lt;i&gt; New York Times&lt;/i&gt; bestselling author.&lt;/b&gt;&lt;br&gt;It was a glittering event full of A-listers, hosted by Eliza Lane and Brant Fitzhugh, a...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8918343" rel="alternate"/>
+    <published>2023-02-09T10:52:57.492965+00:00</published>
+  </entry>
+  <entry>
+    <id>6663636</id>
+    <title>A Killing of Innocents by Deborah Crombie is in the downloadLibrary</title>
+    <updated>2023-02-09T10:52:57.492965+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6663636"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/C13/4DA/A0/{C134DAA0-4DBF-4EC5-BF3D-0595F2714A58}Img150.jpg"&gt;
+&lt;h2&gt;A Killing of Innocents&lt;/h2&gt;
+&lt;h3&gt;Duncan Kincaid / Gemma James Series, Book 19&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;New York Times bestseller Deborah Crombie returns with a new novel featuring Scotland Yard detectives Duncan Kincaid and Gemma James as they race to solve the shocking murder of a young woman before panic spreads across...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6663636" rel="alternate"/>
+    <published>2023-02-09T10:52:57.492965+00:00</published>
+  </entry>
+  <entry>
+    <id>1914137</id>
+    <title>Trinity by Conn Iggulden is in the downloadLibrary</title>
+    <updated>2023-02-09T10:52:57.492965+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/1914137"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0290-1/1E1/D41/FF/{1E1D41FF-8873-4D80-89F5-B4F4FE7310AA}Img150.jpg"&gt;
+&lt;h2&gt;Trinity&lt;/h2&gt;
+&lt;h3&gt;The Wars of the Roses (Book 2)&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;The brilliant retelling of the Wars of the Roses continues with &lt;i&gt;Trinity, &lt;/i&gt;the second gripping novel in the new series from historical fiction master, Conn Iggulden.&lt;/b&gt;&lt;br&gt;1454: King Henry VI has remained all but exiled in Windsor...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/1914137" rel="alternate"/>
+    <published>2023-02-09T10:52:57.492965+00:00</published>
+  </entry>
   <entry>
     <id>8043589</id>
     <title>Twice a Quinceañera by Yamile Saied Méndez is in the downloadLibrary</title>
