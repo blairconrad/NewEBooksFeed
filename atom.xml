@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-02-09T10:52:57.382447+00:00</updated>
+  <updated>2023-02-10T10:52:55.230706+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>7993883</id>
+    <title>Firebird by Glen Huser is in the downloadLibrary</title>
+    <updated>2023-02-10T10:52:55.343963+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7993883"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2968-1/8E7/A23/54/{8E7A2354-D1DC-4559-9088-9117D35A37D0}Img150.jpg"&gt;
+&lt;h2&gt;Firebird&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Historical Fiction, Young Adult Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+Firebird explores a period in our history - one year in particular (1915&amp;#8211;1916) - when a massive number of newcomers were deemed "enemy aliens," arrested and put into internment camps set up all across Canada. Alex Kaminsky, a...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7993883" rel="alternate"/>
+    <published>2023-02-10T10:52:55.343963+00:00</published>
+  </entry>
   <entry>
     <id>8988564</id>
     <title>The Davenports by Krystal Marquis is in the downloadLibrary</title>
@@ -9393,43 +9412,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/8783660" rel="alternate"/>
     <published>2022-11-17T10:52:44.251581+00:00</published>
-  </entry>
-  <entry>
-    <id>7872550</id>
-    <title>Friends, Lovers, and the Big Terrible Thing by Matthew Perry is in the downloadLibrary</title>
-    <updated>2022-11-11T10:54:46.203741+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/7872550"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/{D512F158-4C97-44C2-95F1-FA0A6CFD0714}IMG150.JPG"&gt;
-&lt;h2&gt;Friends, Lovers, and the Big Terrible Thing&lt;/h2&gt;
-&lt;h3&gt;A Memoir&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Performing Arts&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;The BELOVED STAR OF FRIENDS takes us behind the scenes of the hit sitcom and his struggles with addiction in this "CANDID, DARKLY FUNNY...POIGNANT" memoir (&lt;i&gt;The New York Times&lt;/i&gt;) &lt;/b&gt;&lt;br&gt;&lt;b&gt;A MOST ANTICIPATED BOOK by &lt;i&gt;Time&lt;/i&gt;,...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/7872550" rel="alternate"/>
-    <published>2022-11-11T10:54:46.203741+00:00</published>
-  </entry>
-  <entry>
-    <id>8783558</id>
-    <title>Going Rogue by Janet Evanovich is in the downloadLibrary</title>
-    <updated>2022-11-11T10:54:46.203741+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/8783558"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/{B0FD1ECB-DDE2-4A80-8D0D-4090E40875EF}IMG150.JPG"&gt;
-&lt;h2&gt;Going Rogue&lt;/h2&gt;
-&lt;h3&gt;Rise and Shine Twenty-Nine&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Humor (Fiction), Mystery, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;B&gt;Stephanie Plum breaks the rules, flirts with disaster, and shows who's boss in this "fast and fun" (&lt;I&gt;Publishers Weekly&lt;/I&gt;) thriller from #1 &lt;I&gt;New York Times&lt;/I&gt; bestselling author Janet Evanovich.&lt;/B&gt;&lt;BR&gt;Monday mornings aren't supposed to...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/8783558" rel="alternate"/>
-    <published>2022-11-11T10:54:46.203741+00:00</published>
   </entry>
 </feed>
