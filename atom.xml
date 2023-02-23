@@ -2,12 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-02-22T10:52:43.371713+00:00</updated>
+  <updated>2023-02-23T10:52:40.670738+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5555931</id>
+    <title>Love at First by Kate Clayborn is in the downloadLibrary</title>
+    <updated>2023-02-23T10:52:40.775097+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5555931"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/{4E10BA39-42B2-40F0-A08A-81B8506A64DB}IMG150.JPG"&gt;
+&lt;h2&gt;Love at First&lt;/h2&gt;
+&lt;h3&gt;An Uplifting and Unforgettable Story of Love and Second Chances&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;"The most delightful cast of characters I've met in ages...a modern romance masterpiece." &amp;#8212;&lt;I&gt;New York Times&lt;/I&gt; bestseller Christina Lauren&lt;/B&gt;&lt;BR /&gt;&lt;B&gt; &lt;/B&gt;&lt;BR /&gt;&lt;B&gt;"Constantly revealing new layers of lyricism...&lt;I&gt;Love at First&lt;/I&gt; is...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5555931" rel="alternate"/>
+    <published>2023-02-23T10:52:40.775097+00:00</published>
+  </entry>
+  <entry>
+    <id>9383782</id>
+    <title>Icebreaker by Hannah Grace is in the downloadLibrary</title>
+    <updated>2023-02-23T10:52:40.775097+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9383782"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/{FDB16BCE-B338-472C-9194-46BDF19B7310}IMG150.JPG"&gt;
+&lt;h2&gt;Icebreaker&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;i&gt;NEW YORK TIMES &lt;/i&gt;BESTSELLER&lt;/b&gt;&lt;BR&gt; &lt;BR&gt;&lt;b&gt;A TikTok sensation! Sparks fly when a competitive figure skater and hockey team captain are forced to share a rink.&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;BR&gt;Anastasia Allen has worked her entire life for a shot at Team...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9383782" rel="alternate"/>
+    <published>2023-02-23T10:52:40.775097+00:00</published>
+  </entry>
+  <entry>
+    <id>9071138</id>
+    <title>Shades of Rust and Ruin by A. G. Howard is in the downloadLibrary</title>
+    <updated>2023-02-23T10:52:40.775097+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9071138"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2183-1/{1D4A67C6-412C-4575-8846-2FB83E7D3208}IMG150.JPG"&gt;
+&lt;h2&gt;Shades of Rust and Ruin&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Science Fiction, Young Adult Fiction, Young Adult Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;i&gt;New York Times &lt;/i&gt;&lt;/b&gt;&lt;b&gt;bestselling author A.G. Howard launches a dark and compelling new YA fantasy series about a girl whose family is cursed by Halloween.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;&lt;br/&gt;&lt;/b&gt;&lt;i&gt;"Packed with action scenes, detailed world-building, and...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9071138" rel="alternate"/>
+    <published>2023-02-23T10:52:40.775097+00:00</published>
+  </entry>
   <entry>
     <id>8874621</id>
     <title>Mrs. Dalloway by Virginia Woolf is in the downloadLibrary</title>
