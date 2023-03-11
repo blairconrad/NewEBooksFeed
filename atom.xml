@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-03-10T10:52:48.703569+00:00</updated>
+  <updated>2023-03-11T10:53:06.341844+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>4744195</id>
+    <title>Parenting the New Teen in the Age of Anxiety by John Duffy is in the downloadLibrary</title>
+    <updated>2023-03-11T10:53:06.477220+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/4744195"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2363-1/DEE/1BF/F1/{DEE1BFF1-0087-49FB-99B8-D9A024818FF0}Img150.jpg"&gt;
+&lt;h2&gt;Parenting the New Teen in the Age of Anxiety&lt;/h2&gt;
+&lt;h3&gt;A Complete Guide to Your Child's Stressed, Depressed, Expanded, Amazing Adolescence&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction, Psychology&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;P&gt;&lt;B&gt;A clinical psychologist offers an accessible guide to the "New Teen" and how parents can adjust to raising them in this emotionally challenging world.&lt;/B&gt;&lt;BR /&gt; Kids are growing up with nearly unlimited access to social media and the...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/4744195" rel="alternate"/>
+    <published>2023-03-11T10:53:06.477220+00:00</published>
+  </entry>
   <entry>
     <id>8918477</id>
     <title>Weyward by Emilia Hart is in the downloadLibrary</title>
@@ -8322,24 +8341,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/8823875" rel="alternate"/>
     <published>2022-12-14T10:52:54.062227+00:00</published>
-  </entry>
-  <entry>
-    <id>3550684</id>
-    <title>Differently Wired by Deborah Reber is in the downloadLibrary</title>
-    <updated>2022-12-11T10:52:51.421978+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/3550684"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0017-1/{DADAE972-779A-4F46-B6FF-D42F57229365}IMG150.JPG"&gt;
-&lt;h2&gt;Differently Wired&lt;/h2&gt;
-&lt;h3&gt;Raising an Exceptional Child in a Conventional World&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Family &amp; Relationships, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;B&gt;It&amp;rsquo;s time to say NO to trying to fit square-peg kids into rounds holes, and YES to raising them from a place of acceptance and joy.&lt;/B&gt;&lt;BR /&gt; Today millions of kids are stuck in a world that doesn&amp;rsquo;t embrace who they really are....
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/3550684" rel="alternate"/>
-    <published>2022-12-11T10:52:51.421978+00:00</published>
   </entry>
 </feed>
