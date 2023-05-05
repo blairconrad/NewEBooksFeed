@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-05-03T10:52:46.172912+00:00</updated>
+  <updated>2023-05-05T10:52:42.326949+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5633189</id>
+    <title>Virtual Reality Church: Pitfalls and Possibilities (Or How to Think Biblically about Church in Your Pajamas, VR Baptisms, Jesus Avatars,  and Whatever Else is Coming Next) by Darrell Bock is in the downloadLibrary</title>
+    <updated>2023-05-05T10:52:42.446134+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5633189"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/3493-1/E85/C35/E4/{E85C35E4-D3AD-45D3-BBBE-BE2D8E71A455}Img150.jpg"&gt;
+&lt;h2&gt;Virtual Reality Church: Pitfalls and Possibilities (Or How to Think Biblically about Church in Your Pajamas, VR Baptisms, Jesus Avatars,  and Whatever Else is Coming Next)&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Christian Nonfiction, Nonfiction, Religion &amp; Spirituality&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;P&gt;&lt;B&gt;Is Virtual Reality a Biblical Reality?&lt;/B&gt;&lt;/P&gt;&lt;P&gt;The invention of the printing press catalyzed Martin Luther's reformation; radios and televisions delivered Billy Graham's gospel proclamations to millions of households. Technological...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5633189" rel="alternate"/>
+    <published>2023-05-05T10:52:42.446134+00:00</published>
+  </entry>
   <entry>
     <id>9191516</id>
     <title>Yellowface by R. F. Kuang is in the downloadLibrary</title>
@@ -10117,43 +10136,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/6328613" rel="alternate"/>
     <published>2023-02-08T10:52:49.761576+00:00</published>
-  </entry>
-  <entry>
-    <id>592083</id>
-    <title>Firestorm by Taylor Anderson is in the downloadLibrary</title>
-    <updated>2023-02-02T10:52:51.104733+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/592083"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/E61/881/55/{E6188155-6E22-4C04-A1EC-483783699BE4}Img150.jpg"&gt;
-&lt;h2&gt;Firestorm&lt;/h2&gt;
-&lt;h3&gt;Destroyermen Series, Book 6&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature, Science Fiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;BURNING WATERS&lt;br&gt;&lt;/b&gt;&amp;#160;&lt;br&gt;Designated Supreme Commander of the Allied Forces, Matt Reddy must now contend with a new threat; the Dominion&amp;mdash;humans whose lust for power matches the Grik. But even though the Grand Alliance recognizes...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/592083" rel="alternate"/>
-    <published>2023-02-02T10:52:51.104733+00:00</published>
-  </entry>
-  <entry>
-    <id>8150465</id>
-    <title>A Certain Darkness by Anna Lee Huber is in the downloadLibrary</title>
-    <updated>2023-02-02T10:52:51.104733+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/8150465"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/{F2E40172-943A-4A2A-B6FA-77934AF2A30C}IMG150.JPG"&gt;
-&lt;h2&gt;A Certain Darkness&lt;/h2&gt;
-&lt;h3&gt;A Riveting WW1 Historical Mystery&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Mystery&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;B&gt;Set in Downton Abbey-era post-World War I England, this action-packed series from the &lt;I&gt;USA Today&lt;/I&gt; bestselling author of the &lt;I&gt;Lady Darby Mysteries&lt;/I&gt; is a treat for fans of Jacqueline Winspear and Susan Ella MacNeal. &lt;/B&gt;&lt;BR /&gt; &lt;BR...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/8150465" rel="alternate"/>
-    <published>2023-02-02T10:52:51.104733+00:00</published>
   </entry>
 </feed>
