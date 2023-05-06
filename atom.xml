@@ -2,12 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-05-05T10:52:42.326949+00:00</updated>
+  <updated>2023-05-06T10:52:44.897023+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>5256149</id>
+    <title>Fortune Favors the Dead by Stephen Spotswood is in the downloadLibrary</title>
+    <updated>2023-05-06T10:52:45.018536+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5256149"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{1F62366C-09A1-41AF-9A48-21FF8BCB3C53}IMG150.JPG"&gt;
+&lt;h2&gt;Fortune Favors the Dead&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;&lt;b&gt;&lt;b&gt;A wildly charming and fast-paced mystery written with all the panache of the hardboiled classics, &lt;i&gt;Fortune Favors the Dead&lt;/i&gt; introduces Pentecost and Parker, an audacious new detective duo for the ages&lt;/b&gt;.&lt;/b&gt;&lt;br&gt;&amp;ldquo;Razor-sharp...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5256149" rel="alternate"/>
+    <published>2023-05-06T10:52:45.018536+00:00</published>
+  </entry>
+  <entry>
+    <id>5640270</id>
+    <title>No-Regret Decisions by Shannon Lee Simmons is in the downloadLibrary</title>
+    <updated>2023-05-06T10:52:45.018536+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5640270"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/{5E430816-CCA5-43C2-B1A8-5705CFAD9E35}IMG150.JPG"&gt;
+&lt;h2&gt;No-Regret Decisions&lt;/h2&gt;
+&lt;h3&gt;Making Good Choices During Difficult Times&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Nonfiction, Self-Improvement&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Every one of us will face an unexpected decision crisis in our lives. Whether it's a life-changing situation&amp;#8212;job loss, illness, divorce, death&amp;#8212;or a happier event&amp;#8212;a new job opportunity, buying a first home, or other important...
+&lt;/blockquote&gt;
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5640270" rel="alternate"/>
+    <published>2023-05-06T10:52:45.018536+00:00</published>
+  </entry>
   <entry>
     <id>5633189</id>
     <title>Virtual Reality Church: Pitfalls and Possibilities (Or How to Think Biblically about Church in Your Pajamas, VR Baptisms, Jesus Avatars,  and Whatever Else is Coming Next) by Darrell Bock is in the downloadLibrary</title>
