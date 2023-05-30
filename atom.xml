@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-05-28T10:52:48.677302+00:00</updated>
+  <updated>2023-05-30T10:52:48.214090+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>8840646</id>
+    <title>The Atlas Paradox by Olivie Blake is in the downloadLibrary</title>
+    <updated>2023-05-30T10:52:48.279822+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8840646"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/{E7374729-742E-415E-A904-38610244D538}IMG150.JPG"&gt;
+&lt;h2&gt;The Atlas Paradox&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;The Atlas Paradox&lt;/i&gt; is the long-awaited sequel to Olivie Blake's &lt;i&gt;New York Times&lt;/i&gt; bestselling dark academic sensation &lt;i&gt;The Atlas Six&lt;/i&gt;&amp;#8212;guaranteed to have even more yearning, backstabbing, betrayal, and chaos.&lt;/b&gt;&lt;br&gt;Six...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The Atlas Paradox"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8840646" rel="alternate"/>
+    <published>2023-05-30T10:52:48.279822+00:00</published>
+  </entry>
   <entry>
     <id>4543753</id>
     <title>Thrawn: Treason by Timothy Zahn is in the downloadLibrary</title>
@@ -7085,24 +7105,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/9063112" rel="alternate"/>
     <published>2023-03-07T10:52:38.761655+00:00</published>
-  </entry>
-  <entry>
-    <id>8757389</id>
-    <title>Black &amp; White by Stephen Dorsey is in the downloadLibrary</title>
-    <updated>2023-02-28T10:53:04.205756+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/8757389"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2968-1/{CD2C4147-D8AF-4B26-AF25-886AA65CA8DF}IMG150.JPG"&gt;
-&lt;h2&gt;Black &amp; White&lt;/h2&gt;
-&lt;h3&gt;An Intimate, Multicultural Perspective on "White Advantage" and the Paths to Change&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-The anticipated debut by a biracial community leader and citizen activist, exploring his lived experience of systemic racism in North America and the paths forward. My race duality has given me a unique perspective on both the Black and white...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/8757389" rel="alternate"/>
-    <published>2023-02-28T10:53:04.205756+00:00</published>
   </entry>
 </feed>
