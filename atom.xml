@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-05-30T10:52:48.214090+00:00</updated>
+  <updated>2023-06-01T10:52:43.848764+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>2576848</id>
+    <title>Mistborn: Secret History by Brandon Sanderson is in the downloadLibrary</title>
+    <updated>2023-06-01T10:52:43.916743+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/2576848"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/4051-1/851/446/1E/{8514461E-7515-4237-A056-6C5016D761B4}Img150.jpg"&gt;
+&lt;h2&gt;Mistborn: Secret History&lt;/h2&gt;
+&lt;h3&gt;Secret History&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+Mistborn: Secret History is a companion story to the original Mistborn Trilogy.As such, it contains HUGE SPOILERS for the books Mistborn (the Final Empire), The Well of Ascension, and The Hero of Ages. It also contains very minor spoilers for the...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Mistborn: Secret History"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/2576848" rel="alternate"/>
+    <published>2023-06-01T10:52:43.916743+00:00</published>
+  </entry>
   <entry>
     <id>8840646</id>
     <title>The Atlas Paradox by Olivie Blake is in the downloadLibrary</title>
