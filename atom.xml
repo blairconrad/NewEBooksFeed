@@ -2,12 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-06-27T10:52:48.524560+00:00</updated>
+  <updated>2023-06-28T10:52:44.726105+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9267134</id>
+    <title>The Art Thief by Michael Finkel is in the downloadLibrary</title>
+    <updated>2023-06-28T10:52:44.803301+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9267134"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{1FAD8AD8-14F3-4AEC-AAA9-A40D967F0FAC}IMG150.JPG"&gt;
+&lt;h2&gt;The Art Thief&lt;/h2&gt;
+&lt;h3&gt;A True Story of Love, Crime, and a Dangerous Obsession&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Travel, True Crime&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;One of the most remarkable true-crime narratives of the twenty-first century: the story of the world&amp;rsquo;s most prolific art thief, St&amp;eacute;phane Breitwieser. &amp;bull; &amp;ldquo;&lt;i&gt;The Art Thief&lt;/i&gt;, like its title character, has confidence,...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The Art Thief"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9267134" rel="alternate"/>
+    <published>2023-06-28T10:52:44.803301+00:00</published>
+  </entry>
+  <entry>
+    <id>9331942</id>
+    <title>Searching for Happy Valley by Jane Marshall is in the downloadLibrary</title>
+    <updated>2023-06-28T10:52:44.803301+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9331942"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2968-1/{C3C7112D-587E-4B27-947C-9D86369ECF74}IMG150.JPG"&gt;
+&lt;h2&gt;Searching for Happy Valley&lt;/h2&gt;
+&lt;h3&gt;A Modern Quest for Shangri-La&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Nonfiction, Travel&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;A global quest to comprehend the meaning of "Happy Valley" on three continents and how these mountain communities continue to survive in a world that constantly challenges the very notion of "happiness."&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Over her 17-year career as...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Searching for Happy Valley"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9331942" rel="alternate"/>
+    <published>2023-06-28T10:52:44.803301+00:00</published>
+  </entry>
+  <entry>
+    <id>9267068</id>
+    <title>The Seven Year Slip by Ashley Poston is in the downloadLibrary</title>
+    <updated>2023-06-28T10:52:44.803301+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9267068"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{42612843-FD1F-4B50-AE02-B7F2012FB1CC}IMG150.JPG"&gt;
+&lt;h2&gt;The Seven Year Slip&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Humor (Fiction), Literature, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;"A gorgeous love story from one of the finest romance writers out there." &amp;mdash;Carley Fortune, New York Times bestselling author of &lt;i&gt;Every Summer After&lt;br&gt;&lt;/i&gt;&lt;br&gt;A Most Anticipated Book by Entertainment Weekly &lt;b&gt;&amp;#8729; &lt;/b&gt;Harper's...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The Seven Year Slip"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9267068" rel="alternate"/>
+    <published>2023-06-28T10:52:44.803301+00:00</published>
+  </entry>
   <entry>
     <id>9795644</id>
     <title>Breaking In by Tyler Schwanke is in the downloadLibrary</title>
