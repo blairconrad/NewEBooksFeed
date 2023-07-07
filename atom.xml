@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-07-01T10:52:50.069268+00:00</updated>
+  <updated>2023-07-07T10:52:45.792908+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>3469939</id>
+    <title>Death by Dumpling by Vivien Chien is in the downloadLibrary</title>
+    <updated>2023-07-07T10:52:45.882973+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/3469939"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/DAF/964/A9/{DAF964A9-F22F-4061-94FF-562C9D840D02}Img150.jpg"&gt;
+&lt;h2&gt;Death by Dumpling&lt;/h2&gt;
+&lt;h3&gt;A Noodle Shop Mystery Series, Book 1&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;i&gt;&lt;b&gt;Welcome to the Ho-Lee Noodle House, where the Chinese food is to die for. . .&lt;/b&gt;&lt;/i&gt;&lt;br&gt;The last place Lana Lee thought she would ever end up is back at her family's restaurant. But after a brutal break-up and a dramatic workplace...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Death by Dumpling"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/3469939" rel="alternate"/>
+    <published>2023-07-07T10:52:45.882973+00:00</published>
+  </entry>
   <entry>
     <id>6598327</id>
     <title>Burn Down, Rise Up by Vincent Tirado is in the downloadLibrary</title>
@@ -9446,271 +9466,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/5162686" rel="alternate"/>
     <published>2023-04-13T10:52:51.990089+00:00</published>
-  </entry>
-  <entry>
-    <id>9125358</id>
-    <title>Pandexicon by Wayne Grady is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9125358"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/{663A0675-118C-4261-A2B4-EE80C343915D}IMG150.JPG"&gt;
-&lt;h2&gt;Pandexicon&lt;/h2&gt;
-&lt;h3&gt;How the Language of the Pandemic Defined Our New Cultural Reality&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: History, Language Arts, Nonfiction, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;Did you keep a list of the words coined by Covid? Wayne Grady did! They're deftly woven into a journal/timeline, taking us through two years of surrealism and limbo.&amp;#8212;Margaret Atwood&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;This exploration of the many new terms...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9125358" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>9399538</id>
-    <title>Ring of Fire by Virginia Heffernan is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9399538"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/5177-1/{917E9491-9D94-45DC-8DF7-6D5975F5D8C0}IMG150.JPG"&gt;
-&lt;h2&gt;Ring of Fire&lt;/h2&gt;
-&lt;h3&gt;High-Stakes Mining in a Lowlands Wilderness&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nature, Nonfiction, Politics&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;A valuable discovery under the world's second-largest temperate wetland and in the traditional lands of the Cree and Ojibway casts light on the growing conflict among resource development, environmental stewardship, and Indigenous...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9399538" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>9077777</id>
-    <title>Halal Sex by Sheima Benembarek is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9077777"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{079E863C-E1E0-45D2-B724-EE7CBB73F7CF}IMG150.JPG"&gt;
-&lt;h2&gt;Halal Sex&lt;/h2&gt;
-&lt;h3&gt;The Intimate Lives of Muslim Women in North America&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Biography &amp; Autobiography, Nonfiction, Religion &amp; Spirituality, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;An unprecedented glimpse into the sex lives of female and gender-expansive Muslims living across Canada and the United States.&lt;/b&gt;&lt;br&gt;In the Muslim world, sex is permissible (or halal) only within the confines of marriage. Outside of wedlock,...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9077777" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>9532203</id>
-    <title>This Other Eden by Paul Harding is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9532203"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2968-1/{32D1470D-ECB7-4550-B1DC-349C6939455D}IMG150.JPG"&gt;
-&lt;h2&gt;This Other Eden&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: African American Fiction, Fiction, Historical Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;From the Pulitzer Prize-winning author of &lt;i&gt;Tinkers&lt;/i&gt;, a novel inspired by the true story of Malaga Island, an isolated island off the coast of Maine that became one of the first racially integrated communities. &lt;/b&gt;&lt;/p&gt;&lt;p&gt;In 1792,...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9532203" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>8974022</id>
-    <title>Coronation Year by Jennifer Robson is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/8974022"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/{862959BD-793B-4A97-AEA1-D8C77F5AC775}IMG150.JPG"&gt;
-&lt;h2&gt;Coronation Year&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The USA Today bestselling author of The Gown returns with another enthralling and royal-adjacent historical novel&amp;#8212;as the lives of three very different residents of London's historic Blue Lion hotel converge in a potentially...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/8974022" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>9191325</id>
-    <title>Clytemnestra by Costanza Casati is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9191325"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/{B6E824D0-C763-4586-861A-BA2F13456E91}IMG150.JPG"&gt;
-&lt;h2&gt;Clytemnestra&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Classic Literature, Fiction, Historical Fiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Warrior. Mother. Murderer. Queen.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You are born to a king, but marry a tyrant. You stand helplessly as he sacrifices your child to placate the gods. You watch him wage war on a foreign shore and comfort yourself with...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9191325" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>9267169</id>
-    <title>Two for the Road by Chantel Guertin is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9267169"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{06A0D16E-1B1B-42AB-B983-AE4E042448F6}IMG150.JPG"&gt;
-&lt;h2&gt;Two for the Road&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Humor (Fiction), Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;For readers of Emily Henry, Gail Honeyman and Josie Silver, a tender, funny and wise new novel about a romance bookshop owner who embarks on the adventure—or misadventure—of a lifetime in search of her own happily ever...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9267169" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>9093248</id>
-    <title>The Berry Pickers by Amanda Peters is in the downloadLibrary</title>
-    <updated>2023-04-06T10:52:46.254173+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9093248"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/{76F3F282-FEBF-4645-B093-119822E07A40}IMG150.JPG"&gt;
-&lt;h2&gt;The Berry Pickers&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A four-year-old girl goes missing from the blueberry fields of Maine, sparking a tragic mystery that remains unsolved for nearly fifty years &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;July 1962. A Mi'kmaq family from Nova Scotia arrives in Maine to pick...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9093248" rel="alternate"/>
-    <published>2023-04-06T10:52:46.254173+00:00</published>
-  </entry>
-  <entry>
-    <id>9094865</id>
-    <title>The Mostly True Story of Tanner &amp; Louise by Colleen Oakley is in the downloadLibrary</title>
-    <updated>2023-04-05T10:52:48.765516+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9094865"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{90D193AC-03C0-46C2-A135-DC09C44B6775}IMG150.JPG"&gt;
-&lt;h2&gt;The Mostly True Story of Tanner &amp; Louise&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;A Good Morning America Buzz Pick * A&lt;i&gt; Marie Claire&lt;/i&gt; Book Club Pick for April * A &lt;i&gt;Reader's Digest&lt;/i&gt; Book Club Pick for April * A &lt;b&gt;LibraryReads Pick * &lt;/b&gt;One of&lt;i&gt; Southern Living&lt;/i&gt;'s Most Anticipated 2023 Releases * One of...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9094865" rel="alternate"/>
-    <published>2023-04-05T10:52:48.765516+00:00</published>
-  </entry>
-  <entry>
-    <id>8800952</id>
-    <title>Brave New World by Aldous Huxley is in the downloadLibrary</title>
-    <updated>2023-04-05T10:52:48.765516+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/8800952"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/13658-1499/49E/0F/{49949E0F-31A3-4373-BD6C-431CCFD3F8C1}Img150.jpg"&gt;
-&lt;h2&gt;Brave New World&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Horror&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy, the...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/8800952" rel="alternate"/>
-    <published>2023-04-05T10:52:48.765516+00:00</published>
-  </entry>
-  <entry>
-    <id>9095040</id>
-    <title>Get Rich or Lie Trying by Symeon Brown is in the downloadLibrary</title>
-    <updated>2023-04-02T10:52:55.907396+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9095040"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0427-1/{EB5E5D7D-D25D-42C2-BEE7-EA922D0EB395}IMG150.JPG"&gt;
-&lt;h2&gt;Get Rich or Lie Trying&lt;/h2&gt;
-&lt;h3&gt;Ambition and Deceit in the New Influencer Economy&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Computer Technology, Nonfiction, True Crime&lt;/p&gt;
-&lt;blockquote&gt;
-'Compelling.' Reni Eddo-LodgeA 'must-read book for 2022', as picked by StylistMore than one fifth of children want to become influencers and it's easy to understand why. What if you could escape economic uncertainty by winning the internet's...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9095040" rel="alternate"/>
-    <published>2023-04-02T10:52:55.907396+00:00</published>
-  </entry>
-  <entry>
-    <id>5801618</id>
-    <title>Courageous Creativity by Sara Zarr is in the downloadLibrary</title>
-    <updated>2023-04-02T10:52:55.907396+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/5801618"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1872-1/6E4/EE1/82/{6E4EE182-EA61-4022-913D-BB75F0966BDE}Img150.jpg"&gt;
-&lt;h2&gt;Courageous Creativity&lt;/h2&gt;
-&lt;h3&gt;Advice and Encouragement for the Creative Life&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Art, Language Arts, Sociology, Young Adult Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Being creative takes courage.&lt;/p&gt;&lt;p&gt;It can be scary to create something. Before you can even work on your craft, you have to face down the fear of messing up or looking silly, the perfectionism that keeps you from even starting, and the...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/5801618" rel="alternate"/>
-    <published>2023-04-02T10:52:55.907396+00:00</published>
-  </entry>
-  <entry>
-    <id>6015783</id>
-    <title>Loved Clothes Last by Orsola de Castro is in the downloadLibrary</title>
-    <updated>2023-04-02T10:52:55.907396+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6015783"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0290-1/F77/3AE/70/{F773AE70-3545-4272-9A4A-1DA2F7BC99BE}Img150.jpg"&gt;
-&lt;h2&gt;Loved Clothes Last&lt;/h2&gt;
-&lt;h3&gt;How the Joy of Rewearing and Repairing Your Clothes Can Be a Revolutionary Act&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Current Events, Nonfiction, Reference, Science&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;'It's important that everyone with an interest in fashion reads this book so we can live on a healthier planet' &lt;b&gt;Arizona Muse &lt;/b&gt;&lt;br&gt;'The most timely book you'll read this year' &lt;b&gt;India Knight&lt;/b&gt;&lt;br&gt;* * * * * &lt;br&gt;Running out of space for...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6015783" rel="alternate"/>
-    <published>2023-04-02T10:52:55.907396+00:00</published>
-  </entry>
-  <entry>
-    <id>6825393</id>
-    <title>Radically Content by Jamie Varon is in the downloadLibrary</title>
-    <updated>2023-04-02T10:52:55.907396+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6825393"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1933-1/730/9A3/B0/{7309A3B0-2D54-4114-A3FF-5AF31E6D68BC}Img150.jpg"&gt;
-&lt;h2&gt;Radically Content&lt;/h2&gt;
-&lt;h3&gt;Being Satisfied in an Endlessly Dissatisfied World&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Self-Improvement&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;P&gt;&lt;B&gt;*Named Book of the Week by Maria Shriver's &lt;I&gt;The Sunday Paper&lt;/I&gt;*&lt;/B&gt;&lt;/P&gt;&lt;P&gt;&lt;B&gt;"If you've spent the last couple years untangling yourself from Hustle Culture, and trying to find who you are outside of your achievements and productivity,...
-&lt;/blockquote&gt;
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6825393" rel="alternate"/>
-    <published>2023-04-02T10:52:55.907396+00:00</published>
   </entry>
 </feed>
