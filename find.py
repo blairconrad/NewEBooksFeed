@@ -95,7 +95,7 @@ is an ebook and is available at the downloadLibrary.
 <blockquote>
 {ebook.description}
 </blockquote>
-<p>Look it up <a href="https://www.goodreads.com/search?q={ebook.title}">on Goodreads</a>.
+<p>Look it up <a href="https://www.goodreads.com/search?q={urllib.parse.quote(ebook.title)}">on Goodreads</a>.
 """
         entry.link(href=ebook.get_url())
         entry.content(type="html", content=content)
