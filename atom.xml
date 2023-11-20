@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-11-16T10:52:36.717651+00:00</updated>
+  <updated>2023-11-20T10:52:52.114704+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9704144</id>
+    <title>Not That Fancy by Reba McEntire is in the downloadLibrary</title>
+    <updated>2023-11-20T10:52:52.175109+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9704144"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0354-1/{478CBB56-DECC-4C07-B681-7553B5E9A70F}IMG150.JPG"&gt;
+&lt;h2&gt;Not That Fancy&lt;/h2&gt;
+&lt;h3&gt;Simple Lessons on Living, Loving, Eating, and Dusting Off Your Boots&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Cooking &amp; Food, Nonfiction, Performing Arts&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;NEW YORK TIMES BESTSELLER | WALL STREET JOURNAL BESTSELLER | USA TODAY BESTSELLER&lt;/strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The perfect Christmas gift for anyone who loves down-home recipes, the western lifestyle,...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Not%20That%20Fancy"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9704144" rel="alternate"/>
+    <published>2023-11-20T10:52:52.175109+00:00</published>
+  </entry>
   <entry>
     <id>9563929</id>
     <title>The Dictionary People by Sarah Ogilvie is in the downloadLibrary</title>
@@ -8111,25 +8131,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/9474852" rel="alternate"/>
     <published>2023-08-25T10:52:51.929427+00:00</published>
-  </entry>
-  <entry>
-    <id>6089412</id>
-    <title>The World Before Us by Tom Higham is in the downloadLibrary</title>
-    <updated>2023-08-18T10:52:46.387560+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/6089412"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0211-1/E90/B87/91/{E90B8791-E6BF-4EE9-9649-9CC9B91EBD98}Img150.jpg"&gt;
-&lt;h2&gt;The World Before Us&lt;/h2&gt;
-&lt;h3&gt;How Science is Revealing a New Story of Our Human Origins&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nonfiction, Philosophy, Science, Sociology&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;'The who, what, where, when and how of human evolution, from one of the world's experts on the dating of prehistoric fossils' &lt;/b&gt;Steve Brusatte, author of &lt;i&gt;The Rise and Fall of the Dinosaurs&lt;/i&gt; &lt;br&gt;&lt;b&gt;'Fascinating and entertaining. If...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20World%20Before%20Us"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/6089412" rel="alternate"/>
-    <published>2023-08-18T10:52:46.387560+00:00</published>
   </entry>
 </feed>
