@@ -2,12 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2023-11-20T10:52:52.114704+00:00</updated>
+  <updated>2023-11-23T10:52:44.945988+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9496697</id>
+    <title>Dead on Target by M. C. Beaton is in the downloadLibrary</title>
+    <updated>2023-11-23T10:52:45.006746+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9496697"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/2390-1/{E562B2C0-CC07-4E3B-977B-BA61616B51C6}IMG150.JPG"&gt;
+&lt;h2&gt;Dead on Target&lt;/h2&gt;
+&lt;h3&gt;An Agatha Raisin Mystery&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;Beloved &lt;i&gt;New York Times&lt;/i&gt; bestseller M. C. Beaton's cranky, crafty Agatha Raisin&amp;#8212;the star of her own hit T.V. series&amp;#8212;is back on the case again in &lt;i&gt;Dead on Target.&lt;/i&gt;&lt;/b&gt;&lt;br&gt;A visit to the local village fete for a spot of...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dead%20on%20Target"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9496697" rel="alternate"/>
+    <published>2023-11-23T10:52:45.006746+00:00</published>
+  </entry>
+  <entry>
+    <id>9476527</id>
+    <title>The Unfortunate Side Effects of Heartbreak and Magic by Breanne Randall is in the downloadLibrary</title>
+    <updated>2023-11-23T10:52:45.006746+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9476527"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{6B7988A4-D311-48A1-920E-8B999CF08F41}IMG150.JPG"&gt;
+&lt;h2&gt;The Unfortunate Side Effects of Heartbreak and Magic&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Literature, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;Instant &lt;i&gt;New York Times &lt;/i&gt;Bestseller&lt;br&gt;&lt;i&gt;USA Today&lt;/i&gt; Bestseller&lt;br&gt;For fans of &lt;i&gt;Practical Magic&lt;/i&gt; and &lt;i&gt;Gilmore Girls, The Unfortunate Side Effects of Heartbreak and Magic&lt;/i&gt; is a debut novel that explores the shields we build...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Unfortunate%20Side%20Effects%20of%20Heartbreak%20and%20Magic"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9476527" rel="alternate"/>
+    <published>2023-11-23T10:52:45.006746+00:00</published>
+  </entry>
   <entry>
     <id>9704144</id>
     <title>Not That Fancy by Reba McEntire is in the downloadLibrary</title>
