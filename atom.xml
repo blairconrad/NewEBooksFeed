@@ -2,12 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-01-04T10:52:52.839274+00:00</updated>
+  <updated>2024-01-05T10:52:37.250673+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9599059</id>
+    <title>The Mayors of New York by S. J. Rozan is in the downloadLibrary</title>
+    <updated>2024-01-05T10:52:37.331818+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9599059"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/0439-1/{14D331DB-1316-4E4E-AEE6-DF263C5C3F1A}IMG150.JPG"&gt;
+&lt;h2&gt;The Mayors of New York&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;The new crime novel from the award-winning S. J. Rozan, where private investigators Lydia Chin and Bill Smith find themselves thrust into the mystery behind the disappearance of the teenage son of the mayor of New York.&lt;/b&gt;&lt;BR&gt;In January, New...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Mayors%20of%20New%20York"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9599059" rel="alternate"/>
+    <published>2024-01-05T10:52:37.331818+00:00</published>
+  </entry>
+  <entry>
+    <id>9042629</id>
+    <title>The Kind Worth Saving by Peter Swanson is in the downloadLibrary</title>
+    <updated>2024-01-05T10:52:37.331818+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9042629"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/0293-1/{B1F258DB-1D16-4385-ABC1-13AFA8ADDE84}IMG150.JPG"&gt;
+&lt;h2&gt;The Kind Worth Saving&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;"The inventive Mr. Swanson never lets the willing reader down. With The Kind Worth Saving, he surpasses his own high standard." &amp;#8212; Tom Nolan, Wall Street Journal&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In this spectacularly devious novel by New...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Kind%20Worth%20Saving"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9042629" rel="alternate"/>
+    <published>2024-01-05T10:52:37.331818+00:00</published>
+  </entry>
+  <entry>
+    <id>8037160</id>
+    <title>Light in Gaza by Jehad Abusalim is in the downloadLibrary</title>
+    <updated>2024-01-05T10:52:37.331818+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8037160"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/6852-1/{ACE48E80-B163-4F27-BC17-C30FEA88008F}IMG150.JPG"&gt;
+&lt;h2&gt;Light in Gaza&lt;/h2&gt;
+&lt;h3&gt;Writings Born of Fire&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Nonfiction, Politics&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Imagining the future of Gaza beyond the cruelties of occupation and Apartheid, &lt;i&gt;Light in Gaza&lt;/i&gt; is a powerful contribution to understanding Palestinian experience.&lt;br&gt;Gaza, home to two million people, continues to face suffocating...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Light%20in%20Gaza"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8037160" rel="alternate"/>
+    <published>2024-01-05T10:52:37.331818+00:00</published>
+  </entry>
   <entry>
     <id>7453913</id>
     <title>A Man of Iron by Troy Senik is in the downloadLibrary</title>
