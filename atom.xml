@@ -2,12 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-01-27T10:52:36.836199+00:00</updated>
+  <updated>2024-02-01T10:52:37.727216+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9914714</id>
+    <title>The Year I Met My Brain by Matilda Boseley is in the downloadLibrary</title>
+    <updated>2024-02-01T10:52:37.789724+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9914714"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/4039-1/{D92F1A27-B905-429C-9376-F839081EEDBE}IMG150.JPG"&gt;
+&lt;h2&gt;The Year I Met My Brain&lt;/h2&gt;
+&lt;h3&gt;A travel companion for adults who have just found out they have ADHD&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Biography &amp; Autobiography, Medical, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+Matilda Boseley's adult ADHD diagnosis was a massive, earth-shattering event. She was given a prescription but had no idea what ADHD meant for her identity, her relationships or her future.&lt;br&gt;Twelve months of confusion later, journalist Matilda...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Year%20I%20Met%20My%20Brain"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9914714" rel="alternate"/>
+    <published>2024-02-01T10:52:37.789724+00:00</published>
+  </entry>
+  <entry>
+    <id>480560</id>
+    <title>Madrigals Magic Key to Spanish by Margarita Madrigal is in the downloadLibrary</title>
+    <updated>2024-02-01T10:52:37.789724+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/480560"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0111-1/49D/0A5/5C/{49D0A55C-38C9-4B76-A89F-4FA31796B4CD}Img150.jpg"&gt;
+&lt;h2&gt;Madrigals Magic Key to Spanish&lt;/h2&gt;
+&lt;h3&gt;A Creative and Proven Approach&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Foreign Language Study, Language Arts, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;Learn the basics of the Spanish language with this easy-to-use guide featuring original illustrations by Andy Warhol&amp;mdash;from one of America's most prominent language teachers. &lt;/b&gt;&lt;br&gt;Read, write, and speak Spanish in only a few short...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Madrigals%20Magic%20Key%20to%20Spanish"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/480560" rel="alternate"/>
+    <published>2024-02-01T10:52:37.789724+00:00</published>
+  </entry>
+  <entry>
+    <id>5645847</id>
+    <title>Wars Without End by Danny Keenan is in the downloadLibrary</title>
+    <updated>2024-02-01T10:52:37.789724+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/5645847"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2248-1/B07/090/82/{B0709082-A374-4FB5-8BAE-C083E44234FD}Img150.jpg"&gt;
+&lt;h2&gt;Wars Without End&lt;/h2&gt;
+&lt;h3&gt;New Zealand's Land Wars – A Maori Perspective&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Foreign Language Study, History, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+From the earliest days of European settlement in New Zealand, Maori have struggled to hold on to their land. Tensions began early, arising from disputed land sales. When open conflict between Maori and Imperial forces broke out in the 1840s and...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Wars%20Without%20End"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/5645847" rel="alternate"/>
+    <published>2024-02-01T10:52:37.789724+00:00</published>
+  </entry>
   <entry>
     <id>567429</id>
     <title>She's Come Undone by Wally Lamb is in the downloadLibrary</title>
