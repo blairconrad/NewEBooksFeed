@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-03-07T10:52:54.893004+00:00</updated>
+  <updated>2024-03-08T10:52:44.967064+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9819526</id>
+    <title>The Future by Catherine Leroux is in the downloadLibrary</title>
+    <updated>2024-03-08T10:52:45.025993+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9819526"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/6852-1/{18D2BFE0-7CB2-4E46-A247-B81D81F31114}IMG150.JPG"&gt;
+&lt;h2&gt;The Future&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Historical Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Shortlisted for Canada Reads 2024 &amp;#8226; &lt;/strong&gt;&lt;b&gt;One of Tor.com's Can't Miss Speculative Fiction for Fall 2023 &amp;#8226; Listed in CBC Books Fiction to Read in Fall 2023 &amp;#8226; &lt;/b&gt;&lt;strong&gt;One of 20 Books You Heard about on CBC...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Future"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9819526" rel="alternate"/>
+    <published>2024-03-08T10:52:45.025993+00:00</published>
+  </entry>
   <entry>
     <id>9830556</id>
     <title>Among the Living by Tim Lebbon is in the downloadLibrary</title>
