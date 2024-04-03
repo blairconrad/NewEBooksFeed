@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-03-29T10:52:43.736836+00:00</updated>
+  <updated>2024-04-03T10:52:43.829406+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9222779</id>
+    <title>The Third Girl by Nell Goddin is in the downloadLibrary</title>
+    <updated>2024-04-03T10:52:43.864642+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9222779"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/7635-1/{69B11E7F-4BDF-4985-A3F7-9363522035F4}IMG150.JPG"&gt;
+&lt;h2&gt;The Third Girl&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Boston girl Molly Sutton moves to a small village in France to lick her wounds after a divorce. Castillac is charming, the croissants amazing, the wine delectable. Molly's new life is full of contentment, if a bit short on excitement.&lt;/p&gt;&lt;p&gt;...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Third%20Girl"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9222779" rel="alternate"/>
+    <published>2024-04-03T10:52:43.864642+00:00</published>
+  </entry>
   <entry>
     <id>9768916</id>
     <title>The Butcher of the Forest by Premee Mohamed is in the downloadLibrary</title>
