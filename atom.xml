@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-05-12T10:52:49.996561+00:00</updated>
+  <updated>2024-05-15T10:52:39.450235+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>10198561</id>
+    <title>Think Twice by Harlan Coben is in the downloadLibrary</title>
+    <updated>2024-05-15T10:52:39.497525+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10198561"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0017-1/{E74E2DC8-023F-4515-B6FF-AAAF7EBB41DC}IMG150.JPG"&gt;
+&lt;h2&gt;Think Twice&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;A man presumed dead is suddenly wanted for murder in this thriller of secrets, lies, and dangerous conspiracies that threaten to cover up the truth.&lt;/B&gt;&lt;BR /&gt; &amp;#160;&lt;BR /&gt; Three years ago, sports agent Myron Bolitar gave a eulogy at the...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Think%20Twice"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10198561" rel="alternate"/>
+    <published>2024-05-15T10:52:39.497525+00:00</published>
+  </entry>
   <entry>
     <id>8328598</id>
     <title>Never Rescue a Rogue by Virginia Heath is in the downloadLibrary</title>
@@ -6521,45 +6541,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/9945133" rel="alternate"/>
     <published>2024-02-16T10:53:14.942286+00:00</published>
-  </entry>
-  <entry>
-    <id>4729931</id>
-    <title>Maggie O'Dell Collection, Volume 2 by Alex Kava is in the downloadLibrary</title>
-    <updated>2024-02-13T10:52:48.791488+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4729931"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1071-1/4CA/448/AB/{4CA448AB-B711-436E-928B-AC630FB3BE48}Img150.jpg"&gt;
-&lt;h2&gt;Maggie O'Dell Collection, Volume 2&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;strong&gt;Together for the first time in one box set, four thrilling stories featuring profiler Maggie O'Dell, only from &lt;/strong&gt;&lt;strong&gt;New York Times&lt;/strong&gt;&lt;strong&gt; bestselling author Alex Kava. &lt;/strong&gt;&lt;br&gt;&lt;strong&gt;AT THE STROKE OF...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Maggie%20O%27Dell%20Collection%2C%20Volume%202"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4729931" rel="alternate"/>
-    <published>2024-02-13T10:52:48.791488+00:00</published>
-  </entry>
-  <entry>
-    <id>4692619</id>
-    <title>Maggie O'Dell Collection, Volume 1: A Perfect Evil ; Split Second ; The Soul Catcher by Alex Kava is in the downloadLibrary</title>
-    <updated>2024-02-13T10:52:48.791488+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/4692619"&gt;
-&lt;img src="https://img3.od-cdn.com/ImageType-150/1071-1/2BC/426/52/{2BC42652-A7FA-41BE-808F-DD390B9E784D}Img150.jpg"&gt;
-&lt;h2&gt;Maggie O'Dell Collection, Volume 1: A Perfect Evil ; Split Second ; The Soul Catcher&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;strong&gt;Available together for the first time in a value box set, the first three stories in the thrilling, critically acclaimed Maggie O'Dell series from &lt;/strong&gt;&lt;strong&gt;New York Times&lt;/strong&gt;&lt;strong&gt; bestselling author Alex...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Maggie%20O%27Dell%20Collection%2C%20Volume%201%3A%20A%20Perfect%20Evil%20%3B%20Split%20Second%20%3B%20The%20Soul%20Catcher"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/4692619" rel="alternate"/>
-    <published>2024-02-13T10:52:48.791488+00:00</published>
   </entry>
 </feed>
