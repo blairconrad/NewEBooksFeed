@@ -2,12 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-05-29T10:52:38.234924+00:00</updated>
+  <updated>2024-06-05T10:52:38.920682+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>9306055</id>
+    <title>In the Twinkling of an Eye by James Lawler is in the downloadLibrary</title>
+    <updated>2024-06-05T10:52:38.961955+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9306055"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/2281-1/{87F1C777-CF0B-4AC1-8202-E3783A5C8F87}IMG150.JPG"&gt;
+&lt;h2&gt;In the Twinkling of an Eye&lt;/h2&gt;
+&lt;h3&gt;A Novel of Biological Terror and Espionage&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"In the Twinkling of an Eye" is a story about espionage, family love, and loyalty, focused on a Russian-North Korean conspiracy to develop a devastating biological weapon for assassination, terror and genocide, as written by a senior CIA...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=In%20the%20Twinkling%20of%20an%20Eye"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9306055" rel="alternate"/>
+    <published>2024-06-05T10:52:38.961955+00:00</published>
+  </entry>
+  <entry>
+    <id>6516850</id>
+    <title>Living Lies: a Novel of the Iranian Nuclear Weapons Program by James Lawler is in the downloadLibrary</title>
+    <updated>2024-06-05T10:52:38.961955+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/6516850"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/2281-1/CDB/AF7/E9/{CDBAF7E9-D748-4F22-B79D-71F476A04110}Img150.jpg"&gt;
+&lt;h2&gt;Living Lies: a Novel of the Iranian Nuclear Weapons Program&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"Living Lies" is an enthralling story about espionage, human frailty, and loyalty. The plot focuses on a covert Iranian nuclear weapons program, as written by a senior CIA operations officer whose career was devoted to battling the spread of...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Living%20Lies%3A%20a%20Novel%20of%20the%20Iranian%20Nuclear%20Weapons%20Program"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/6516850" rel="alternate"/>
+    <published>2024-06-05T10:52:38.961955+00:00</published>
+  </entry>
   <entry>
     <id>8223936</id>
     <title>Little Eve by Catriona Ward is in the downloadLibrary</title>
@@ -5841,25 +5881,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/9937142" rel="alternate"/>
     <published>2024-03-07T10:52:54.950209+00:00</published>
-  </entry>
-  <entry>
-    <id>9768977</id>
-    <title>The Women by Kristin Hannah is in the downloadLibrary</title>
-    <updated>2024-03-01T10:52:49.699395+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9768977"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/{45631CD0-5B29-4C4E-9857-6B14A7259351}IMG150.JPG"&gt;
-&lt;h2&gt;The Women&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;From the celebrated author of &lt;i&gt;The Nightingale&lt;/i&gt; and&lt;i&gt; The Four Winds&lt;/i&gt; comes Kristin Hannah's &lt;i&gt;T&lt;/i&gt;&lt;i&gt;he Women&lt;/i&gt;&amp;#8212;at once an intimate portrait of coming of age in a dangerous time and an epic tale of a nation...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Women"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9768977" rel="alternate"/>
-    <published>2024-03-01T10:52:49.699395+00:00</published>
   </entry>
 </feed>
