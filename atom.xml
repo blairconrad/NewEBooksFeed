@@ -2,12 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-06-07T10:52:43.692989+00:00</updated>
+  <updated>2024-06-08T10:52:35.884206+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>10679825</id>
+    <title>Spice by Roger Crowley is in the downloadLibrary</title>
+    <updated>2024-06-08T10:52:35.926003+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10679825"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/1494-1/{439CA8D7-C846-493C-A2F2-FA702A8A87F2}IMG150.JPG"&gt;
+&lt;h2&gt;Spice&lt;/h2&gt;
+&lt;h3&gt;The 16th-Century Contest that Shaped the Modern World&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: History, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;The story of the sixteenth-century's epic contest for the spice trade, which propelled European maritime exploration and conquest across Asia and the Pacific&lt;/B&gt;&lt;BR /&gt; &lt;BR /&gt; Spices drove the early modern world economy, and for Europeans they...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Spice"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10679825" rel="alternate"/>
+    <published>2024-06-08T10:52:35.926003+00:00</published>
+  </entry>
+  <entry>
+    <id>3423171</id>
+    <title>Playing with Fire by R.J. Blain is in the downloadLibrary</title>
+    <updated>2024-06-08T10:52:35.926003+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/3423171"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/7635-1/451/BF6/73/{451BF673-83C5-4FAA-A6DF-1CB91B59F179}Img150.jpg"&gt;
+&lt;h2&gt;Playing with Fire&lt;/h2&gt;
+&lt;h3&gt;A Magical Romantic Comedy (with a body count), #1&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Humor (Fiction), Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Warning: This novel contains excessive humor, a fire-breathing unicorn on a mission of destruction, magic, romance, and bodies. Proceed with caution.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Catering to the magical is a tough gig on a good day, but Bailey has few other...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Playing%20with%20Fire"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/3423171" rel="alternate"/>
+    <published>2024-06-08T10:52:35.926003+00:00</published>
+  </entry>
   <entry>
     <id>10034480</id>
     <title>Priya's Kitchen Adventures by Priya Krishna is in the downloadLibrary</title>
