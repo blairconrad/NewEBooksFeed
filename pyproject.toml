@@ -1,0 +1,10 @@
+[project]
+name = "NewEBooksFeed"
+version = "0.1.0"
+description = "Generates an Atom feed of new books at the downloadlibrary"
+requires-python = ">=3.13"
+dependencies = [
+    'feedgen',
+    'lxml',
+    'requests',
+    ]

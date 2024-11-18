@@ -1,3 +1,0 @@
-feedgen
-lxml >= 4.9.2 # feedgen depends on an older version that doesn't install with python 3.11
-requests
