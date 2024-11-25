@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-11-17T10:52:36.928708+00:00</updated>
+  <updated>2024-11-25T10:52:33.314676+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>9034630</id>
+    <title>Going to Beautiful by Anthony Bidulka is in the downloadLibrary</title>
+    <updated>2024-11-25T10:52:33.351405+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9034630"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/2968-1/{C5F314F9-9470-415D-9B7E-B1BA9B748D18}IMG150.JPG"&gt;
+&lt;h2&gt;Going to Beautiful&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, LGBTQIA+ (Fiction), Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+International chef Jake Hardy has it all. Celebrity, thriving career, plenty of friends, a happy family and faithful dog. Until one day when a tragic accident tears it all apart. Struggling to recover, Hardy finds himself in a strange new...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Going%20to%20Beautiful%20Anthony%20Bidulka"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9034630"/>
+    <published>2024-11-25T10:52:33.351405+00:00</published>
+  </entry>
   <entry>
     <id>217988</id>
     <title>Patriot Games by Tom Clancy is in the downloadLibrary</title>
@@ -25,7 +45,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Patriot%20Games"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/217988" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/217988"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -45,7 +65,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Message"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10649445" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10649445"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -65,7 +85,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Kingmaker"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10344643" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10344643"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -85,7 +105,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Great%20and%20Precious%20Things"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4592201" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4592201"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -105,7 +125,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Last%20Letter"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4176453" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4176453"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -125,7 +145,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Montana%20Sky"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/612529" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/612529"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -145,7 +165,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Melania"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10999063" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10999063"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -165,7 +185,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Revenge%20of%20the%20Tipping%20Point"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10792276" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10792276"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -185,7 +205,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Grey%20Wolf"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346319" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346319"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -205,7 +225,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=From%20Here%20to%20the%20Great%20Unknown"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382619" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382619"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -225,7 +245,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=What%20in%20the%20World%3F%21"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10357415" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10357415"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -245,7 +265,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Society%20of%20Lies"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10290496" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10290496"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -265,7 +285,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Third%20Gilmore%20Girl"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480753" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480753"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -285,7 +305,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Book%20of%20Elsewhere"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10318877" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10318877"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -305,7 +325,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Livesuit"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10972832" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10972832"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -325,7 +345,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Where%20the%20Library%20Hides"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346327" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346327"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -345,7 +365,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Assistant%20to%20the%20Villain"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9703529" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9703529"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -365,7 +385,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Wedding%20Witch"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9530452" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9530452"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -385,7 +405,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Connie"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10457537" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10457537"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -405,7 +425,7 @@ What are the secrets to a healthy, happy, and wealthy retirement? To answer that
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=How%20to%20Retire"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11164780" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11164780"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -425,7 +445,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Let%20It%20Go"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9791554" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9791554"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -445,7 +465,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Everyone%20This%20Christmas%20Has%20a%20Secret"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10457711" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10457711"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -465,7 +485,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Everyone%20on%20This%20Train%20Is%20a%20Suspect"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10336489" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10336489"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -485,7 +505,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Author%27s%20Guide%20to%20Murder"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10497765" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10497765"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -505,7 +525,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Sonny%20Boy"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10572278" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10572278"/>
     <published>2024-11-17T10:52:36.972245+00:00</published>
   </entry>
   <entry>
@@ -525,7 +545,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Loving%20Corrections"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10128368" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10128368"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -545,7 +565,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=As%20You%20Like%20It"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11029424" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11029424"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -565,7 +585,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Winter%27s%20Tale"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/8720948" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/8720948"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -585,7 +605,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Macbeth%20by%20William%20Shakespeare%20%28Illustrated%29"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/3399055" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/3399055"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -605,7 +625,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=My%20Three%20Dogs"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346237" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346237"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -625,7 +645,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Queen%20Macbeth"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10715691" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10715691"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -645,7 +665,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dreaming%20of%20Autumn%20Skies"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480437" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480437"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -665,7 +685,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Black%20Saturday"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10605786" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10605786"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -685,7 +705,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Treasure%20Hunters%20Club"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480755" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480755"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -705,7 +725,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Bandit%20Heaven"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346184" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346184"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -725,7 +745,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Good%20Allies"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10514298" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10514298"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -745,7 +765,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Battle%20of%20Britain"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11060463" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11060463"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -765,7 +785,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Mediterranean%20Dish"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10357403" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10357403"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -785,7 +805,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=One%20Big%20Happy%20Family"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10383686" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10383686"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -805,7 +825,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Crescent%20Moon%20Tearoom"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480660" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480660"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -825,7 +845,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=What%20Does%20It%20Feel%20Like%3F"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10872182" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10872182"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -845,7 +865,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Colony%20Club"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382472" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382472"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -865,7 +885,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Waking%20Up"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/1940468" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/1940468"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -885,7 +905,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Naked%20Prince"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/1484988" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/1484988"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -905,7 +925,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Naked%20Laird"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/1423271" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/1423271"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -925,7 +945,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Naked%20Earl"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/1423269" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/1423269"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -945,7 +965,7 @@ He Took Her By Surprise When a naked earl climbs through the window into her bed
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Sally%20MacKenzie%20Bundle"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/592628" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/592628"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -965,7 +985,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Anxiety%20Rx"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10357485" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10357485"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -985,7 +1005,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Country%20and%20the%20Game"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11123208" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11123208"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1005,7 +1025,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20December%20Market"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382594" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382594"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1025,7 +1045,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Woodsmoke%20Women%27s%20Book%20of%20Spells"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10457888" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10457888"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1045,7 +1065,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Myths%20of%20Geography"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10685052" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10685052"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1065,7 +1085,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Identity%20Unknown"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382366" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382366"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1085,7 +1105,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Meditations%20for%20Mortals"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10477970" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10477970"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1105,7 +1125,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Mistletoe%20Mystery"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10590433" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10590433"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1125,7 +1145,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dreamer"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10682126" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10682126"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1145,7 +1165,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Children%20of%20Jocasta"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10457784" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10457784"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1165,7 +1185,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Ambitious%20Kitchen%20Cookbook"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10334153" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10334153"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1185,7 +1205,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Waiting"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10457574" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10457574"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1205,7 +1225,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Blind%20Spots"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10613919" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10613919"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1225,7 +1245,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=A%20Grave%20in%20the%20Woods"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10303097" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10303097"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1245,7 +1265,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=To%20Kill%20a%20Troubadour"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/7773584" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/7773584"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1265,7 +1285,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dogs%20and%20Monsters"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10393978" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10393978"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1285,7 +1305,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=A%20Most%20Extraordinary%20Ride"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10606021" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10606021"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1305,7 +1325,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=In%20Too%20Deep"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10369118" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10369118"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1325,7 +1345,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=How%20to%20Build%20a%20Fashion%20Icon"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10572317" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10572317"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1345,7 +1365,7 @@ From the author of the viral TikTok sensation, The Pumpkin Spice Cafe and The Ci
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Christmas%20Tree%20Farm"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480752" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480752"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1365,7 +1385,7 @@ From the author of the viral TikTok phenomenon, The Pumpkin Spice Cafe, comes a 
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Cinnamon%20Bun%20Book%20Store"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10058600" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10058600"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1385,7 +1405,7 @@ Winner of the TikTok Shop Book of the Year 2024, Sunday Times and USA Today best
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Pumpkin%20Spice%20Caf%C3%A9"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9599318" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9599318"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1405,7 +1425,7 @@ Full of exercises, suggestions, questionnaires, assignments, and meditations for
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Sacred%20Path%20Companion"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/613478" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/613478"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1425,7 +1445,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Heartbeat%20Library"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10572352" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10572352"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1445,7 +1465,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Throne%20of%20Secrets"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10371340" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10371340"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1465,7 +1485,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Book%20of%20George"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346266" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346266"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1485,7 +1505,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Third%20Realm"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10369150" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10369150"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1505,7 +1525,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Wolves%20of%20Eternity"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9511637" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9511637"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1525,7 +1545,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Don%27t%20Believe%20Everything%20You%20Think"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9054634" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9054634"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1545,7 +1565,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Framed"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10590490" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10590490"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1565,7 +1585,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Reconciling%20History"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10871341" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10871341"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1585,7 +1605,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Heart%20on%20My%20Sleeve"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480485" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480485"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1605,7 +1625,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Examiner"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480670" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480670"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1625,7 +1645,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Sense%20and%20Sensibility"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11288958" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11288958"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1645,7 +1665,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Murder%20Island"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480086" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480086"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1665,7 +1685,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Meet%20Ella"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10613528" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10613528"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1685,7 +1705,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Facing%20Suicide"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10317283" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10317283"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1705,7 +1725,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Wonderstruck"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10185997" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10185997"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1725,7 +1745,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Eagle%20and%20the%20Hart"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480662" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480662"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1745,7 +1765,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Scarlet"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9322887" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9322887"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1765,7 +1785,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Elusive"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10123148" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10123148"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1785,7 +1805,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Queen%20Goneril"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10115091" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10115091"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1805,7 +1825,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Hate%20Follow"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10395741" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10395741"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1825,7 +1845,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Go%20to%20Hell"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11147936" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11147936"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1845,7 +1865,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=No%20Two%20Persons"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9174837" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9174837"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1865,7 +1885,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Joy%20of%20Connections"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10590475" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10590475"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1885,7 +1905,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Rockin%27%20Around%20the%20Chickadee"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346252" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346252"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1905,7 +1925,7 @@ JAILED FOR A JOKE&lt;br&gt;It isn't easy going to jail for a practical joke. Of 
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Help%20I%20Am%20Being%20Held%20Prisoner"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/3402353" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/3402353"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1925,7 +1945,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Thieves%27%20Dozen"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/196495" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/196495"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1945,7 +1965,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Crafting%20a%20Better%20World"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10348846" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10348846"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1965,7 +1985,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Laugh%20More"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10601800" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10601800"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -1985,7 +2005,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=A%20Christmas%20Duet"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10393940" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10393940"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2005,7 +2025,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dirty%20Rotten%20Scoundrels%20%28Songbook%29"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/3060960" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/3060960"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2025,7 +2045,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=I%20Heard%20There%20Was%20a%20Secret%20Chord"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10477939" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10477939"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2045,7 +2065,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Interpretation%20of%20Cats"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480829" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480829"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2065,7 +2085,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Every%20Valley"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10492142" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10492142"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2085,7 +2105,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Life%20on%20Svalbard"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11007116" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11007116"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2105,7 +2125,7 @@ A storm lies ahead of her. Freedom lies beyond it ... 'Such a brilliant writer a
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Into%20the%20Storm"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10146276" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10146276"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2125,7 +2145,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=At%20a%20Loss%20for%20Words"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10590228" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10590228"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2147,7 +2167,7 @@ Improve your...
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Better%20Balance%20for%20Life"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/3221131" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/3221131"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2167,7 +2187,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Atlas%20Obscura"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10371269" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10371269"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2187,7 +2207,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Just%20Say%20Yes"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11012080" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11012080"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2207,7 +2227,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Sunshine%20and%20Spice"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10334073" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10334073"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2227,7 +2247,7 @@ Anthony Pompliano writes 65 letters to his children with inspiring lessons on ho
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=How%20to%20Live%20an%20Extraordinary%20Life"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11199619" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11199619"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2247,7 +2267,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Stone%20Witch%20of%20Florence"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10348851" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10348851"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2267,7 +2287,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=How%20Does%20That%20Make%20You%20Feel%2C%20Magda%20Eklund%3F"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10457721" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10457721"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2287,7 +2307,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Borrowed%20Life%20of%20Frederick%20Fife"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10348879" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10348879"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2307,7 +2327,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Great%20Hippopotamus%20Hotel"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10454101" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10454101"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2327,7 +2347,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Audacity%20of%20Relevance"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10818860" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10818860"/>
     <published>2024-11-01T10:52:37.330556+00:00</published>
   </entry>
   <entry>
@@ -2347,7 +2367,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Immortal%20Dark"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10371288" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10371288"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2367,7 +2387,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Spectacular"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10334108" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10334108"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2387,7 +2407,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Everything%20We%20Never%20Said"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10109607" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10109607"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2407,7 +2427,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Heir"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10478145" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10478145"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2427,7 +2447,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Past%20Present%20Future"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10180947" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10180947"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2447,7 +2467,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Dare"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9921193" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9921193"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2467,7 +2487,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Deep%20Dark"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10042848" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10042848"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2487,7 +2507,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Nothing%20Like%20the%20Movies"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480569" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480569"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2507,7 +2527,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Beneath%20These%20Cursed%20Stars"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10234621" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10234621"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2527,7 +2547,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Pumpkin%20Spice%20%26%20Everything%20Nice"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10315610" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10315610"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2547,7 +2567,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Looking%20for%20Smoke"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10470522" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10470522"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2567,7 +2587,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Maid%20and%20the%20Crocodile"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10572357" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10572357"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2587,7 +2607,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=House%20of%20Ash%20and%20Bone"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9476192" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9476192"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2607,7 +2627,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Catch%20the%20Sun"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10357278" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10357278"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2627,7 +2647,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=When%20the%20World%20Tips%20Over"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10345075" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10345075"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2647,7 +2667,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Thirteenth%20Child"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10394109" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10394109"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2667,7 +2687,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Under%20the%20Surface"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10254382" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10254382"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2687,7 +2707,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Summer%20She%20Went%20Missing"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9863321" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9863321"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2707,7 +2727,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Dagger%20and%20the%20Flame"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10109368" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10109368"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2727,7 +2747,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Twelfth%20Knight"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10111253" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10111253"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2747,7 +2767,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Mirror%20of%20Beasts"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10129522" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10129522"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2767,7 +2787,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Celestial%20Monsters"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10252205" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10252205"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2787,7 +2807,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Wisteria"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10079046" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10079046"/>
     <published>2024-10-31T10:52:40.601659+00:00</published>
   </entry>
   <entry>
@@ -2807,7 +2827,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Bullying"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11035420" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11035420"/>
     <published>2024-10-15T10:52:49.982090+00:00</published>
   </entry>
   <entry>
@@ -2827,7 +2847,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Who%20We%20Are"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10627813" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10627813"/>
     <published>2024-10-12T10:52:40.446059+00:00</published>
   </entry>
   <entry>
@@ -2847,7 +2867,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Mighty%20Red"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382449" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382449"/>
     <published>2024-10-12T10:52:40.446059+00:00</published>
   </entry>
   <entry>
@@ -2867,7 +2887,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Last%20One%20at%20the%20Wedding"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10334098" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10334098"/>
     <published>2024-10-12T10:52:40.446059+00:00</published>
   </entry>
   <entry>
@@ -2887,7 +2907,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Be%20Ready%20When%20the%20Luck%20Happens"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10554410" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10554410"/>
     <published>2024-10-12T10:52:40.446059+00:00</published>
   </entry>
   <entry>
@@ -2907,7 +2927,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Chasing%20Endless%20Summer"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9919510" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9919510"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -2927,7 +2947,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Losing%20Spring"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9598870" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9598870"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -2947,7 +2967,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Beneath%20the%20Attic"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4500897" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4500897"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -2967,7 +2987,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Only%20the%20Beautiful"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9140778" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9140778"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -2987,7 +3007,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=A%20Day%20of%20Fallen%20Night"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/8959956" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/8959956"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3007,7 +3027,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Tainted%20Cup"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9832065" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9832065"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3027,7 +3047,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Locklands"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/6524294" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/6524294"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3047,7 +3067,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Shorefall"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4857512" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4857512"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3067,7 +3087,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20City%20in%20Glass"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10552883" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10552883"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3087,7 +3107,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dark%20Lady%27s%20Chosen"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9275272" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9275272"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3107,7 +3127,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dark%20Haven"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9275270" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9275270"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3127,7 +3147,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Summoner"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/6369906" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/6369906"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3147,7 +3167,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Blood%20King"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/6369790" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/6369790"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3167,7 +3187,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Saints%20of%20Swallow%20Hill"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/6250871" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/6250871"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3187,7 +3207,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Triangle"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10369155" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10369155"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3207,7 +3227,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=A%20Song%20to%20Drown%20Rivers"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346176" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346176"/>
     <published>2024-10-08T10:52:36.226338+00:00</published>
   </entry>
   <entry>
@@ -3227,7 +3247,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Passion%20on%20Park%20Avenue"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4501090" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4501090"/>
     <published>2024-10-05T10:52:40.052562+00:00</published>
   </entry>
   <entry>
@@ -3247,7 +3267,7 @@ Ken Miles is one of the most famous sports car racers in history, and his time a
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Ken%20Miles"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/6382219" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/6382219"/>
     <published>2024-10-05T10:52:40.052562+00:00</published>
   </entry>
   <entry>
@@ -3267,7 +3287,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Lies%20He%20Told%20Me"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10371292" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10371292"/>
     <published>2024-10-01T10:52:36.837538+00:00</published>
   </entry>
   <entry>
@@ -3287,7 +3307,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Raising%20Resilience"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9836862" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9836862"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3307,7 +3327,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Queen%20City%20Detective%20Agency"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10114918" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10114918"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3327,7 +3347,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Leap%20Year%20Gene"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10295278" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10295278"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3347,7 +3367,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Everything%20We%20Never%20Had"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10317270" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10317270"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3367,7 +3387,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Adam%20%26%20Evie%27s%20Matchmaking%20Tour"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382390" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382390"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3387,7 +3407,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=William"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10318278" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10318278"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3407,7 +3427,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Full%20Moon%20Coffee%20Shop"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10303469" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10303469"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3427,7 +3447,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Inner%20Clock"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10393656" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10393656"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3447,7 +3467,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Women%20in%20the%20Valley%20of%20the%20Kings"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10111270" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10111270"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3467,7 +3487,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=And%20the%20Roots%20of%20Rhythm%20Remain"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10556613" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10556613"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3487,7 +3507,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Book%20and%20Dagger"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382397" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382397"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3507,7 +3527,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=There%20Are%20Rivers%20in%20the%20Sky"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10303489" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10303489"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3527,7 +3547,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Above%20the%20Noise"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10470479" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10470479"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3547,7 +3567,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Bite"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10320114" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10320114"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3567,7 +3587,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=What%20If%20We%20Get%20It%20Right%3F"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9493812" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9493812"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3587,7 +3607,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=AI%20Snake%20Oil"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10727101" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10727101"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3607,7 +3627,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Freedom%20Is%20a%20Feast"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10320156" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10320156"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3627,7 +3647,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Hunted"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10130601" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10130601"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3647,7 +3667,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=And%20So%20I%20Roar"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10279035" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10279035"/>
     <published>2024-09-27T10:52:39.592447+00:00</published>
   </entry>
   <entry>
@@ -3667,7 +3687,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Black%20Ice"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10395539" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10395539"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3687,7 +3707,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Bad%20Liar"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10453942" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10453942"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3707,7 +3727,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Intermezzo"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10553469" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10553469"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3727,7 +3747,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Playground"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10590460" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10590460"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3747,7 +3767,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Counting%20Miracles"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10393970" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10393970"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3767,7 +3787,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Lightning%20Bottles"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480695" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480695"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3787,7 +3807,7 @@ The unputdownable new novel from international bestseller Jeffrey Archer – Pre
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=An%20Eye%20for%20an%20Eye"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480797" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480797"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3807,7 +3827,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=A%20Reason%20to%20See%20You%20Again"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382389" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382389"/>
     <published>2024-09-25T10:52:36.701779+00:00</published>
   </entry>
   <entry>
@@ -3827,7 +3847,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Countess"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10818854" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10818854"/>
     <published>2024-09-21T10:52:43.394116+00:00</published>
   </entry>
   <entry>
@@ -3847,7 +3867,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Buried%20Deep%20and%20Other%20Stories"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10344579" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10344579"/>
     <published>2024-09-21T10:52:43.394116+00:00</published>
   </entry>
   <entry>
@@ -3867,7 +3887,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Quicksilver"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11090851" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11090851"/>
     <published>2024-09-21T10:52:43.394116+00:00</published>
   </entry>
   <entry>
@@ -3887,7 +3907,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Gods%20Below"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10513423" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10513423"/>
     <published>2024-09-21T10:52:43.394116+00:00</published>
   </entry>
   <entry>
@@ -3907,7 +3927,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Scarlet%20Throne"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10113783" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10113783"/>
     <published>2024-09-21T10:52:43.394116+00:00</published>
   </entry>
   <entry>
@@ -3927,7 +3947,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Night%20Owls"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382419" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382419"/>
     <published>2024-09-21T10:52:43.394116+00:00</published>
   </entry>
   <entry>
@@ -3947,7 +3967,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Rest%20Is%20Resistance"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/8839094" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/8839094"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -3967,7 +3987,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Does%20This%20Taste%20Funny%3F"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10649465" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10649465"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -3987,7 +4007,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=House%20of%20Glass"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10110969" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10110969"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4007,7 +4027,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Hombrecito"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10161546" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10161546"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4027,7 +4047,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Entitlement"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10552824" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10552824"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4047,7 +4067,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Middle%20of%20the%20Night"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10158881" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10158881"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4067,7 +4087,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=We%20Solve%20Murders"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10344949" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10344949"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4087,7 +4107,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Stokes%20Guide%20to%20Finches%20of%20the%20United%20States%20and%20Canada"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10371335" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10371335"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4107,7 +4127,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Night%20We%20Lost%20Him"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480826" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480826"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4127,7 +4147,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Good%20Lookin%27%20Cookin%27"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10553339" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10553339"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4147,7 +4167,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Banned%20Books%20Club"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10348837" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10348837"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4167,7 +4187,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Keanu%20Reeves%20Is%20Not%20In%20Love%20With%20You"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9990974" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9990974"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4187,7 +4207,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Born%20to%20Walk"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11105128" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11105128"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
   </entry>
   <entry>
@@ -4207,7 +4227,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=To%20the%20Sun"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10997349" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10997349"/>
     <published>2024-09-15T10:52:42.519426+00:00</published>
   </entry>
   <entry>
@@ -4227,7 +4247,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Prime%20Time%20Romance"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10454081" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10454081"/>
     <published>2024-09-15T10:52:42.519426+00:00</published>
   </entry>
   <entry>
@@ -4247,7 +4267,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Twelve%20Trees"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9919915" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9919915"/>
     <published>2024-09-15T10:52:42.519426+00:00</published>
   </entry>
   <entry>
@@ -4267,7 +4287,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Nexus"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10382621" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10382621"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4287,7 +4307,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Book%20Swap"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10348838" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10348838"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4307,7 +4327,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Creation%20Lake"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480407" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480407"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4327,7 +4347,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Ghost%20Soldier"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10317149" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10317149"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4347,7 +4367,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=You%20Belong%20with%20Me"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10497780" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10497780"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4367,7 +4387,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Who%20Could%20Ever%20Love%20You"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10528259" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10528259"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4387,7 +4407,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Here%20One%20Moment"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10514703" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10514703"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4407,7 +4427,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Belly%20Full"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10333938" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10333938"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4427,7 +4447,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Death%20at%20the%20Sign%20of%20the%20Rook"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10393974" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10393974"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4447,7 +4467,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Den%20of%20Iniquity"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10395627" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10395627"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4467,7 +4487,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Capital%20of%20Dreams"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10470547" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10470547"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4487,7 +4507,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Tell%20Me%20Everything"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10394152" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10394152"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4507,7 +4527,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Lives%20of%20Lake%20Ontario"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11036037" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11036037"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4527,7 +4547,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=English%20for%20Everyone%20Everyday%20English"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10171372" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10171372"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4547,7 +4567,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=One%20Week%20in%20January"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10668197" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10668197"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4567,7 +4587,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Hope%20is%20a%20Woman%27s%20Name"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10911033" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10911033"/>
     <published>2024-09-11T10:52:37.260226+00:00</published>
   </entry>
   <entry>
@@ -4587,7 +4607,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=real%20ones"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10701793" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10701793"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4607,7 +4627,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Capture%20or%20Kill"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10480819" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10480819"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4627,7 +4647,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Thyme%20Travellers"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11073710" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11073710"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4647,7 +4667,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Big%20Vegan%20Flavor"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10317089" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10317089"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4667,7 +4687,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Life%20Impossible"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10147243" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10147243"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4689,7 +4709,7 @@ Twenty crime stories by the creator of Jack Reacher, never before...
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Safe%20Enough"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10535426" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10535426"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4709,7 +4729,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Passions%20in%20Death"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10346246" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10346246"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4729,7 +4749,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=On%20the%20Hunt"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9565521" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9565521"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4749,7 +4769,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Spend%20with%20Pennies%20Everyday%20Comfort"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10603490" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10603490"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4770,7 +4790,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Wedding"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11012403" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11012403"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4790,7 +4810,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Our%20Green%20Heart"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10590450" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10590450"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4810,7 +4830,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Colours%20in%20Her%20Hands"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/11017628" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/11017628"/>
     <published>2024-09-10T10:52:49.524448+00:00</published>
   </entry>
   <entry>
@@ -4830,7 +4850,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Lost%20Crow%20Conspiracy%20%28Blood%20Rose%20Rebellion%2C%20Book%202%29"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/3580971" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/3580971"/>
     <published>2024-09-06T10:52:47.041081+00:00</published>
   </entry>
   <entry>
@@ -4850,7 +4870,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Dollmakers"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10295272" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10295272"/>
     <published>2024-09-06T10:52:47.041081+00:00</published>
   </entry>
   <entry>
@@ -4870,7 +4890,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Asunder"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10110927" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10110927"/>
     <published>2024-09-06T10:52:47.041081+00:00</published>
   </entry>
   <entry>
@@ -4890,7 +4910,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Star%20Eater"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/5716404" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/5716404"/>
     <published>2024-09-06T10:52:47.041081+00:00</published>
   </entry>
   <entry>
@@ -4910,7 +4930,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Border%20Keeper"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4297394" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4297394"/>
     <published>2024-09-06T10:52:47.041081+00:00</published>
   </entry>
   <entry>
@@ -4930,7 +4950,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Such%20a%20Lovely%20Family"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9768908" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9768908"/>
     <published>2024-09-06T10:52:47.041081+00:00</published>
   </entry>
   <entry>
@@ -4950,7 +4970,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Return%20of%20the%20God%20Hypothesis"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4414593" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4414593"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -4970,7 +4990,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Darwin%27s%20Doubt"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/1085185" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/1085185"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -4990,7 +5010,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Signature%20in%20the%20Cell"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/250229" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/250229"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -5010,7 +5030,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Lula%20Dean%27s%20Little%20Library%20of%20Banned%20Books"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10147180" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10147180"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -5030,7 +5050,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Before%20I%20Let%20You%20Go"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/3301562" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/3301562"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -5050,7 +5070,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Holly%20and%20Ivy"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/4311113" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/4311113"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -5070,7 +5090,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Tuesday%27s%20Child"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/2217468" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/2217468"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -5090,7 +5110,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Mr.%20and%20Miss%20Anonymous"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/2116548" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/2116548"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -5110,7 +5130,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Too%20Good%20to%20Be%20True"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/2398572" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/2398572"/>
     <published>2024-09-05T10:54:21.958529+00:00</published>
   </entry>
   <entry>
@@ -5130,7 +5150,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Mentoring%20Partnerships"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10513937" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10513937"/>
     <published>2024-09-04T10:52:45.566122+00:00</published>
   </entry>
   <entry>
@@ -5150,7 +5170,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Unmasking%20Workbook%20for%20Autistic%20Adults"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10485976" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10485976"/>
     <published>2024-09-04T10:52:45.566122+00:00</published>
   </entry>
   <entry>
@@ -5170,7 +5190,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20%23ActuallyAutistic%20Guide%20to%20Advocacy"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/8815833" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/8815833"/>
     <published>2024-09-04T10:52:45.566122+00:00</published>
   </entry>
   <entry>
@@ -5191,7 +5211,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Autist%27s%20Guide%20to%20the%20Galaxy"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10473363" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10473363"/>
     <published>2024-09-04T10:52:45.566122+00:00</published>
   </entry>
   <entry>
@@ -5211,7 +5231,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Autism%20and%20Inclusive%20Education"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10799541" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10799541"/>
     <published>2024-09-04T10:52:45.566122+00:00</published>
   </entry>
   <entry>
@@ -5231,7 +5251,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Spellshop"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10194329" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10194329"/>
     <published>2024-08-31T10:52:42.828997+00:00</published>
   </entry>
   <entry>
@@ -5251,7 +5271,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Dead%20Cat%20Tail%20Assassins"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/9768920" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/9768920"/>
     <published>2024-08-30T10:52:57.518472+00:00</published>
   </entry>
   <entry>
@@ -5272,7 +5292,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Impossible%20Monsters"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10159066" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10159066"/>
     <published>2024-08-30T10:52:57.518472+00:00</published>
   </entry>
   <entry>
@@ -5292,7 +5312,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Girl%20with%20No%20Reflection"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10279991" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10279991"/>
     <published>2024-08-30T10:52:57.518472+00:00</published>
   </entry>
   <entry>
@@ -5312,267 +5332,7 @@ is an ebook and is available at the downloadLibrary.
 &lt;/blockquote&gt;
 &lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Sheine%20Lende"&gt;on Goodreads&lt;/a&gt;.
 </content>
-    <link href="https://downloadlibrary.overdrive.com/media/10098637" rel="alternate"/>
+    <link href="https://downloadlibrary.overdrive.com/media/10098637"/>
     <published>2024-08-30T10:52:57.518472+00:00</published>
-  </entry>
-  <entry>
-    <id>9970980</id>
-    <title>A Pirate's Life for Tea by Rebecca Thorne is in the downloadLibrary</title>
-    <updated>2024-08-24T10:52:40.274496+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9970980"&gt;
-&lt;img src="https://img3.od-cdn.com/ImageType-150/2390-1/{2DA320FD-7A14-4AF4-9554-CB6FFF556576}IMG150.JPG"&gt;
-&lt;h2&gt;A Pirate's Life for Tea&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Fiction, LGBTQIA+ (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;&lt;i&gt;Bookshops &amp; Bonedust &lt;/i&gt;meets&lt;i&gt; Our Flag Means Death&lt;/i&gt; in this cozy fantasy on the low seas, where lesbian pirates find out if enemies actually can become lovers!&lt;/b&gt;&lt;br&gt;&lt;b&gt;This trade paperback release features vivid orange sprayed...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=A%20Pirate%27s%20Life%20for%20Tea"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9970980" rel="alternate"/>
-    <published>2024-08-24T10:52:40.274496+00:00</published>
-  </entry>
-  <entry>
-    <id>10252345</id>
-    <title>The Ornithologist's Field Guide to Love by India Holton is in the downloadLibrary</title>
-    <updated>2024-08-24T10:52:40.274496+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10252345"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{CB8CADBB-226A-4A1A-A201-0F0B081DB58B}IMG150.JPG"&gt;
-&lt;h2&gt;The Ornithologist's Field Guide to Love&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;INSTANT &lt;i&gt;USA TODAY &lt;/i&gt;BESTSELLER!&lt;br&gt;"S&lt;b&gt;o riotously clever it almost defies description...an alchemy of romantic elements held in perfect harmony.&lt;/b&gt;"&amp;mdash;NPR&lt;br&gt;Rival ornithologists hunt through England for a rare magical bird in this...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Ornithologist%27s%20Field%20Guide%20to%20Love"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10252345" rel="alternate"/>
-    <published>2024-08-24T10:52:40.274496+00:00</published>
-  </entry>
-  <entry>
-    <id>9958544</id>
-    <title>The Last Murder at the End of the World by Stuart Turton is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9958544"&gt;
-&lt;img src="https://img2.od-cdn.com/ImageType-150/0293-1/{FDEEF8A6-1EAB-40C8-AA2D-4FCA3212CC45}IMG150.JPG"&gt;
-&lt;h2&gt;The Last Murder at the End of the World&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;From the bestselling author of The Seven Deaths of Evelyn Hardcastle and The Devil and the Dark Water comes an inventive, high-concept murder mystery: an ingenious puzzle, an extraordinary backdrop and an audacious...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Last%20Murder%20at%20the%20End%20of%20the%20World"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9958544" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10266220</id>
-    <title>What Have You Done? by Shari Lapena is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10266220"&gt;
-&lt;img src="https://img3.od-cdn.com/ImageType-150/0111-1/{716A9EA2-5D9A-48F1-BD19-D4A0BBD5F5F7}IMG150.JPG"&gt;
-&lt;h2&gt;What Have You Done?&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;"Lapena is a master of manipulation." &amp;mdash;&lt;i&gt;USA Today&lt;/i&gt;&lt;br&gt;Another knockout domestic suspense novel from the &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;The Couple Next Door&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Nothing ever happens in sleepy little...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=What%20Have%20You%20Done%3F"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10266220" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10234687</id>
-    <title>The Spice Gate by Prashanth Srivatsa is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10234687"&gt;
-&lt;img src="https://img3.od-cdn.com/ImageType-150/0293-1/{42E4D8A3-C42C-42A7-922B-B67601AA4995}IMG150.JPG"&gt;
-&lt;h2&gt;The Spice Gate&lt;/h2&gt;
-&lt;h3&gt;A Fantasy&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Delve into this debut fantasy and journey through the Spice Gates as Amir, a young man born with the ability to travel between the eight kingdoms, unravels the power that keeps the world in balance, perfect for readers of Ken Liu's...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Spice%20Gate"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10234687" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10334622</id>
-    <title>This is Why We Lied by Karin Slaughter is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10334622"&gt;
-&lt;img src="https://img2.od-cdn.com/ImageType-150/0293-1/{9561B02A-E631-4A1F-97B7-29F182098855}IMG150.JPG"&gt;
-&lt;h2&gt;This is Why We Lied&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;WATCH WILL TRENT ON ABC!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;"Expect from a Karin Slaughter crime thriller . . . just the right amount of twists, turns, shocks, surprises and domestic thrill and shrill."&lt;/strong&gt; &amp;#8212;...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=This%20is%20Why%20We%20Lied"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10334622" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10043768</id>
-    <title>Toxic Prey by John Sandford is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10043768"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{5BA667B8-9488-4FC7-BB5D-FB5335C3A991}IMG150.JPG"&gt;
-&lt;h2&gt;Toxic Prey&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;Lucas Davenport and his daughter, Letty, team up to track down a dangerous scientist whose latest project could endanger the entire world, in this latest thriller from #1 &lt;i&gt;New York Times &lt;/i&gt;bestselling author John Sandford.&lt;/b&gt;&lt;br&gt;&lt;i&gt;Gaia...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Toxic%20Prey"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10043768" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10478364</id>
-    <title>By Any Other Name by Jodi Picoult is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10478364"&gt;
-&lt;img src="https://img2.od-cdn.com/ImageType-150/0111-1/{0B1EDB7F-A1BB-4F22-B009-2165434112D0}IMG150.JPG"&gt;
-&lt;h2&gt;By Any Other Name&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;From the #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author, an &amp;ldquo;inspiring&amp;rdquo; (&lt;i&gt;Elle&lt;/i&gt;) novel about two women, centuries apart&amp;mdash;one of whom is the real author of Shakespeare&amp;rsquo;s plays&amp;mdash;who&amp;nbsp;are both forced to hide...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=By%20Any%20Other%20Name"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10478364" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>11081054</id>
-    <title>Born of Blood and Ash by Jennifer L. Armentrout is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/11081054"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/7948-1/{DF05B50C-4E58-4C8D-885E-DEFD46F0A002}IMG150.JPG"&gt;
-&lt;h2&gt;Born of Blood and Ash&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;From #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Jennifer L. Armentrout comes the thrilling conclusion to her beloved Flesh and Fire series...&lt;/b&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;The line between love and obsession has never been wider.&lt;/i&gt;&lt;/b&gt;&lt;p&gt;While Sera is...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Born%20of%20Blood%20and%20Ash"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/11081054" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>11051665</id>
-    <title>Apprentice to the Villain by Hannah Nicole Maehrer is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/11051665"&gt;
-&lt;img src="https://img3.od-cdn.com/ImageType-150/2390-1/{390CF422-4BA3-4C32-8340-E36BED1D4DBD}IMG150.JPG"&gt;
-&lt;h2&gt;Apprentice to the Villain&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Fiction, Humor (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;"An engaging love story about finding strength in vulnerability." ―&lt;i&gt;Kirkus Reviews&lt;/i&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;NOTICE TO STAFF: There has been a disturbing increase in cheeriness, sprightly behavior, and overall optimism of late. Please resume your former...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Apprentice%20to%20the%20Villain"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/11051665" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10158515</id>
-    <title>Same As It Ever Was by Claire Lombardo is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10158515"&gt;
-&lt;img src="https://img2.od-cdn.com/ImageType-150/0111-1/{12BEB8CB-C01B-41C5-8D46-A601B90CA461}IMG150.JPG"&gt;
-&lt;h2&gt;Same As It Ever Was&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;NATIONAL BESTSELLER &amp;bull; NAMED A BEST BOOK BY &lt;i&gt;PEOPLE &lt;/i&gt;AND &lt;i&gt;PARADE&amp;nbsp;&amp;bull; &lt;/i&gt;The &lt;i&gt;New York Times &lt;/i&gt;bestselling author of &lt;i&gt;The Most Fun We Ever Had&lt;/i&gt; (&amp;ldquo;wonderfully immersive&amp;hellip;deliciously...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Same%20As%20It%20Ever%20Was"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10158515" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10909296</id>
-    <title>Tangled Up In You by Christina Lauren is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10909296"&gt;
-&lt;img src="https://img3.od-cdn.com/ImageType-150/2508-1/{F8FCD20F-8143-496F-8E2A-94F6496B3ECD}IMG150.JPG"&gt;
-&lt;h2&gt;Tangled Up In You&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Humor (Fiction), Mythology, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;A witty and deeply romantic modern reimagining of Disney's&lt;i&gt; Tangled, &lt;/i&gt;by the New York Times bestselling author duo Christina Lauren, part of the acclaimed and bestselling Meant to Be collection.&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;She has a dream. He has a...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Tangled%20Up%20In%20You"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10909296" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
-  </entry>
-  <entry>
-    <id>10216016</id>
-    <title>The Pairing by Casey McQuiston is in the downloadLibrary</title>
-    <updated>2024-08-21T10:52:51.668613+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10216016"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/2390-1/{64439A37-19D5-4AC5-B80B-74CD89AB7E0A}IMG150.JPG"&gt;
-&lt;h2&gt;The Pairing&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, LGBTQIA+ (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;In #1&lt;i&gt; New York Times &lt;/i&gt;bestselling author Casey McQuiston's latest romantic comedy, two bisexual exes accidentally book the same European food and wine tour and challenge each other to a hookup competition to prove they're over each...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Pairing"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10216016" rel="alternate"/>
-    <published>2024-08-21T10:52:51.668613+00:00</published>
   </entry>
 </feed>
