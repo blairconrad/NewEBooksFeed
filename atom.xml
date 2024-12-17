@@ -2,12 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-12-12T10:52:34.034240+00:00</updated>
+  <updated>2024-12-17T10:52:36.677369+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>10443092</id>
+    <title>As We Forgive Others by Shane Peacock is in the downloadLibrary</title>
+    <updated>2024-12-17T10:52:36.721506+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10443092"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/7881-1/{BDFFDA3A-8CDD-4520-B490-AE2A84553AB3}IMG150.JPG"&gt;
+&lt;h2&gt;As We Forgive Others&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+Hugh Mercer has come to a small town in Ontario, far away from his broken career, broken marriage, and broken life in New York. He's expecting to take advantage of what he's sure will be a peaceful place in the middle of winter to begin to make...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=As%20We%20Forgive%20Others%20Shane%20Peacock"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10443092"/>
+    <published>2024-12-17T10:52:36.721506+00:00</published>
+  </entry>
+  <entry>
+    <id>10945105</id>
+    <title>Booked for Christmas by Melissa F. Miller is in the downloadLibrary</title>
+    <updated>2024-12-17T10:52:36.721506+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10945105"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/7168-1/{D0E8BC1D-016B-4CA9-946B-1A7DDA21F1BD}IMG150.JPG"&gt;
+&lt;h2&gt;Booked for Christmas&lt;/h2&gt;
+&lt;h3&gt;A Mistletoe Mountain Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Humor (Fiction), Romance, Suspense&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Return to Mistletoe Mountain with USA Today bestselling author Melissa F. Miller in a new holiday rom-com mystery about a holiday-hating attorney and a big-hearted, book-loving client intent on bringing her some holiday...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Booked%20for%20Christmas%20Melissa%20F.%20Miller"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10945105"/>
+    <published>2024-12-17T10:52:36.721506+00:00</published>
+  </entry>
+  <entry>
+    <id>10390431</id>
+    <title>The Secret War of Julia Child by Diana R. Chambers is in the downloadLibrary</title>
+    <updated>2024-12-17T10:52:36.721506+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10390431"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/0174-1/{9BB2F961-1E76-4A62-8633-B6F54B0D21B3}IMG150.JPG"&gt;
+&lt;h2&gt;The Secret War of Julia Child&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;An instant international bestseller and a USA Today bestseller!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A Washington Post Best Historical Fiction Book of 2024!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A People magazine Best Book of Fall!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A New...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Secret%20War%20of%20Julia%20Child%20Diana%20R.%20Chambers"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10390431"/>
+    <published>2024-12-17T10:52:36.721506+00:00</published>
+  </entry>
   <entry>
     <id>10996672</id>
     <title>Gabriel's Moon by William Boyd is in the downloadLibrary</title>
@@ -6351,65 +6411,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/11105128"/>
     <published>2024-09-18T10:52:45.533251+00:00</published>
-  </entry>
-  <entry>
-    <id>10997349</id>
-    <title>To the Sun by Octavia Randolph is in the downloadLibrary</title>
-    <updated>2024-09-15T10:52:42.519426+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10997349"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/7168-1/{092B8941-B184-47F3-A0DE-A50A79E7E8E4}IMG150.JPG"&gt;
-&lt;h2&gt;To the Sun&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature, Thriller&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;An unpredictable journey with unforeseen consequences...&lt;/p&gt; &lt;p&gt;On Gotland Sidroc wakes from a disturbing dream; one of his sons, Hrald or Yrling &amp;#8211; perhaps both &amp;#8211; are in trouble. Both are in far-off Angle-land, and beyond his...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=To%20the%20Sun"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10997349"/>
-    <published>2024-09-15T10:52:42.519426+00:00</published>
-  </entry>
-  <entry>
-    <id>10454081</id>
-    <title>Prime Time Romance by Kate Robb is in the downloadLibrary</title>
-    <updated>2024-09-15T10:52:42.519426+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/10454081"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{D0444217-5FF2-4930-A4B5-AAEB7D31D29D}IMG150.JPG"&gt;
-&lt;h2&gt;Prime Time Romance&lt;/h2&gt;
-&lt;h3&gt;A Novel&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fantasy, Fiction, Literature, Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;&lt;i&gt;Is love on the small screen better than the real thing?&lt;/i&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;A young divorc&amp;eacute;e finds herself in the ideal world of her favorite 2000s teen soap in this &amp;ldquo;gleefully nostalgic and completely fresh&amp;rdquo;* romance from...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Prime%20Time%20Romance"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/10454081"/>
-    <published>2024-09-15T10:52:42.519426+00:00</published>
-  </entry>
-  <entry>
-    <id>9919915</id>
-    <title>Twelve Trees by Daniel Lewis is in the downloadLibrary</title>
-    <updated>2024-09-15T10:52:42.519426+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/9919915"&gt;
-&lt;img src="https://img2.od-cdn.com/ImageType-150/0439-1/{BB080F56-BCA8-401C-8B6E-3EE87349B56D}IMG150.JPG"&gt;
-&lt;h2&gt;Twelve Trees&lt;/h2&gt;
-&lt;h3&gt;The Deep Roots of Our Future&lt;/h3&gt;
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Nature, Nonfiction&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;B&gt;A compelling global exploration of nature and survival as seen via a dozen species of trees, offering "extensive insight into the ways in which humans and trees are interconnected" (&lt;I&gt;BookPage&lt;/I&gt;), revealing the challenges facing our planet...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Twelve%20Trees"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/9919915"/>
-    <published>2024-09-15T10:52:42.519426+00:00</published>
   </entry>
 </feed>
