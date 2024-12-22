@@ -2,12 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2024-12-21T10:52:33.960795+00:00</updated>
+  <updated>2024-12-22T10:52:47.488013+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>9919844</id>
+    <title>The Mysterious Case of the Alperton Angels by Janice Hallett is in the downloadLibrary</title>
+    <updated>2024-12-22T10:52:47.536833+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9919844"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0439-1/{DF7D3B9D-5957-4EA7-9C8B-64954ECB52BB}IMG150.JPG"&gt;
+&lt;h2&gt;The Mysterious Case of the Alperton Angels&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;&lt;b&gt;A &lt;i&gt;New York Times &lt;/i&gt;Notable Book and Best Thriller of 2024&lt;/b&gt;&lt;BR&gt; &lt;BR&gt; &lt;b&gt;A whip-smart and "fast-paced mystery" (&lt;/b&gt;&lt;b&gt;&lt;i&gt;The Daily Telegraph&lt;/i&gt;&lt;/b&gt;&lt;b&gt;, London) fr&lt;/b&gt;&lt;b&gt;om the internationally bestselling author of &lt;i&gt;The Twyford...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Mysterious%20Case%20of%20the%20Alperton%20Angels%20Janice%20Hallett"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9919844"/>
+    <published>2024-12-22T10:52:47.536833+00:00</published>
+  </entry>
+  <entry>
+    <id>9065025</id>
+    <title>The Twyford Code by Janice Hallett is in the downloadLibrary</title>
+    <updated>2024-12-22T10:52:47.536833+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9065025"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0439-1/{FA4C5DD2-CF14-40F4-8F26-29B165F786ED}IMG150.JPG"&gt;
+&lt;h2&gt;The Twyford Code&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;The mysterious connection between a teacher's disappearance and an unsolved code in a children's book is explored in this new novel from the "modern Agatha Christie" (&lt;/b&gt;&lt;b&gt;&lt;i&gt;The&lt;/i&gt; &lt;i&gt;Sunday Times&lt;/i&gt;, London&lt;/b&gt;&lt;b&gt;) and author of &lt;i&gt;The...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Twyford%20Code%20Janice%20Hallett"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9065025"/>
+    <published>2024-12-22T10:52:47.536833+00:00</published>
+  </entry>
   <entry>
     <id>5098151</id>
     <title>Fresh Water for Flowers by Valérie Perrin is in the downloadLibrary</title>
