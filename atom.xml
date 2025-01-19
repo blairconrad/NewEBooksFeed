@@ -2,12 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2025-01-14T10:52:39.554227+00:00</updated>
+  <updated>2025-01-19T10:52:35.252787+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>10869263</id>
+    <title>More or Less Maddy by Lisa Genova is in the downloadLibrary</title>
+    <updated>2025-01-19T10:52:35.299720+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10869263"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0439-1/{ACF95217-CBA8-4004-94FA-85A90C096514}IMG150.JPG"&gt;
+&lt;h2&gt;More or Less Maddy&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;The powerhouse &lt;i&gt;New York Times&lt;/i&gt; bestselling author and Harvard-trained neuroscientist returns with a breathless, exhilarating, and heartbreaking novel about a young woman diagnosed with bipolar disorder and the ripple effects her mental...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=More%20or%20Less%20Maddy%20Lisa%20Genova"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10869263"/>
+    <published>2025-01-19T10:52:35.299720+00:00</published>
+  </entry>
+  <entry>
+    <id>10717081</id>
+    <title>Grave Danger by James Grippando is in the downloadLibrary</title>
+    <updated>2025-01-19T10:52:35.299720+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10717081"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/0293-1/{8E476B52-ED15-447F-A6BB-5327915B41F7}IMG150.JPG"&gt;
+&lt;h2&gt;Grave Danger&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature, Mystery&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Bestselling author James Grippando's legendary criminal defense attorney Jack Swyteck is back to defend a single mother accused of kidnapping her own child in a perilous case involving politics and international diplomacy that will...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Grave%20Danger%20James%20Grippando"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10717081"/>
+    <published>2025-01-19T10:52:35.299720+00:00</published>
+  </entry>
+  <entry>
+    <id>10649456</id>
+    <title>Beautiful Ugly by Alice Feeney is in the downloadLibrary</title>
+    <updated>2025-01-19T10:52:35.299720+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10649456"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/2390-1/{2FC36CE5-FA36-4B91-B278-5B2C0D2879B1}IMG150.JPG"&gt;
+&lt;h2&gt;Beautiful Ugly&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;b&gt;"Her best book yet." &lt;/b&gt;&lt;b&gt;&amp;#8212;&lt;/b&gt;&lt;b&gt;Harlan Coben&lt;/b&gt;&lt;br&gt;&lt;b&gt;The million-copy bestselling Queen of Twists Alice Feeney returns with a gripping and deliciously dark thriller about marriage. . . &lt;/b&gt;&lt;br&gt;&lt;b&gt;. . . and revenge.&lt;/b&gt;&lt;br&gt;Author...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Beautiful%20Ugly%20Alice%20Feeney"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10649456"/>
+    <published>2025-01-19T10:52:35.299720+00:00</published>
+  </entry>
   <entry>
     <id>10717273</id>
     <title>The Life of Herod the Great by Zora Neale Hurston is in the downloadLibrary</title>
