@@ -2,12 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2025-02-11T10:52:37.464132+00:00</updated>
+  <updated>2025-02-12T10:52:34.540535+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>10682204</id>
+    <title>Emily Wilde's Compendium of Lost Tales by Heather Fawcett is in the downloadLibrary</title>
+    <updated>2025-02-12T10:52:34.574645+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10682204"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/0111-1/{E4A26B53-0DF7-4EAC-AFA3-34D878AE8A51}IMG150.JPG"&gt;
+&lt;h2&gt;Emily Wilde's Compendium of Lost Tales&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Mythology, Romance&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;The third installment in the heartwarming and enchanting Emily Wilde series, about a curmudgeonly scholar of folklore and the fae prince she loves&lt;/b&gt;&lt;br&gt;Emily Wilde has spent her life studying faeries. A renowned dryadologist, she has...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Emily%20Wilde%27s%20Compendium%20of%20Lost%20Tales%20Heather%20Fawcett"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10682204"/>
+    <published>2025-02-12T10:52:34.574645+00:00</published>
+  </entry>
+  <entry>
+    <id>10752325</id>
+    <title>Three Days in June by Anne Tyler is in the downloadLibrary</title>
+    <updated>2025-02-12T10:52:34.574645+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10752325"&gt;
+&lt;img src="https://img2.od-cdn.com/ImageType-150/0111-1/{8DDD4D55-DE1A-4D63-AEC3-1E6C21DA74E0}IMG150.JPG"&gt;
+&lt;h2&gt;Three Days in June&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;A new Anne Tyler novel destined to be an instant classic: a socially awkward mother of the bride navigates the days before and after her daughter's wedding.&lt;/b&gt;&lt;br&gt;Gail Baines is having a bad day. To start, she loses her job&amp;mdash;or quits,...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Three%20Days%20in%20June%20Anne%20Tyler"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10752325"/>
+    <published>2025-02-12T10:52:34.574645+00:00</published>
+  </entry>
   <entry>
     <id>11012158</id>
     <title>The Let Them Theory by Mel Robbins is in the downloadLibrary</title>
