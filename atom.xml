@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2025-04-03T10:52:35.709824+00:00</updated>
+  <updated>2025-04-08T10:52:44.964531+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>10057287</id>
+    <title>In Winter I Get Up at Night by Jane Urquhart is in the downloadLibrary</title>
+    <updated>2025-04-08T10:52:44.989846+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10057287"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{C4EE1862-EAF6-4D0D-8CFC-933DF11A1B45}IMG150.JPG"&gt;
+&lt;h2&gt;In Winter I Get Up at Night&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt; &lt;br&gt;INSTANT NATIONAL BESTELLER &amp;bull; Longlisted for the 2024 Giller Prize &amp;bull; A Heather's Pick &amp;bull; A &lt;i&gt;Globe and Mail&lt;/i&gt; Best Book of the Year &amp;bull;&amp;nbsp;One of Indigo&amp;rsquo;s Most Anticipated Books&amp;nbsp;&amp;bull; One of the...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=In%20Winter%20I%20Get%20Up%20at%20Night%20Jane%20Urquhart"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10057287"/>
+    <published>2025-04-08T10:52:44.989846+00:00</published>
+  </entry>
   <entry>
     <id>10768218</id>
     <title>A Drop of Corruption by Robert Jackson Bennett is in the downloadLibrary</title>
