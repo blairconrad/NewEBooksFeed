@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2026-02-19T11:25:59.334313+00:00</updated>
+  <updated>2026-02-21T10:59:55.385946+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>10644147</id>
+    <title>Kitchen Garden Living by Bailey Van Tassel is in the downloadLibrary</title>
+    <updated>2026-02-21T10:59:55.427992+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/10644147"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/1933-1/{25037B3A-BD24-4EAE-9BFD-713CA2ADDA3E}IMG150.JPG"&gt;
+&lt;h2&gt;Kitchen Garden Living&lt;/h2&gt;
+&lt;h3&gt;Seasonal Growing and Eating from a Beautiful, Bountiful Food Garden&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Gardening, Home Design &amp; Décor, Nonfiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;Build a wholesome life focused on the seasonality of the food you grow with this chic and savvy guide to creating, tending, and sharing the goodness of a kitchen garden.&lt;/B&gt;&lt;br&gt;While kitchen gardening brings freshness and flavor to your dinner...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Kitchen%20Garden%20Living%20Bailey%20Van%20Tassel"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/10644147"/>
+    <published>2026-02-21T10:59:55.427992+00:00</published>
+  </entry>
   <entry>
     <id>11757502</id>
     <title>A Stage Set for Villains by Shannon J. Spann is in the downloadLibrary</title>
