@@ -2,12 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2026-05-27T14:02:56.652061+00:00</updated>
+  <updated>2026-05-28T14:23:22.159084+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>12423678</id>
+    <title>Night Objects by Eli Raphael is in the downloadLibrary</title>
+    <updated>2026-05-28T14:23:22.194108+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/12423678"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0017-1/{E954492B-9602-4275-A871-A21A60901FAC}IMG150.JPG"&gt;
+&lt;h2&gt;Night Objects&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Literature, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;B&gt;This suspenseful novel transports readers to the windswept coast of Washington State and a boarding school steeped in privilege and deadly secrets&amp;mdash;a remarkable story of grief, power, and the dangerous price of belonging.&lt;BR /&gt; &amp;quot;Eli...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Night%20Objects%20Eli%20Raphael"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/12423678"/>
+    <published>2026-05-28T14:23:22.194108+00:00</published>
+  </entry>
+  <entry>
+    <id>12097247</id>
+    <title>Love and Terror by Claudia Verhoeven is in the downloadLibrary</title>
+    <updated>2026-05-28T14:23:22.194108+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/12097247"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0111-1/{BC57A33C-2F0F-4315-8301-149B44CD8B74}IMG150.JPG"&gt;
+&lt;h2&gt;Love and Terror&lt;/h2&gt;
+&lt;h3&gt;The Helter-Skelter History of the Manson Murders&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Nonfiction, Politics, Sociology, True Crime&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;A MAJOR NEW STUDY OF THE MANSON MURDERS, SITUATING THE INFAMOUS CRIMINAL CASE AT A FULCRUM MOMENT IN HISTORY&lt;/b&gt;&lt;br&gt;In August 1969, members of charismatic leader Charles Manson&amp;rsquo;s countercultural &amp;ldquo;family&amp;rdquo; mur&amp;shy;dered some of...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Love%20and%20Terror%20Claudia%20Verhoeven"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/12097247"/>
+    <published>2026-05-28T14:23:22.194108+00:00</published>
+  </entry>
+  <entry>
+    <id>12270471</id>
+    <title>The Memory Foundation by Amanda West is in the downloadLibrary</title>
+    <updated>2026-05-28T14:23:22.194108+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/12270471"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0111-1/{FA772799-1DDB-49F8-9A31-85E7D3359087}IMG150.JPG"&gt;
+&lt;h2&gt;The Memory Foundation&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Science Fiction, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;Wealthy clients looking for the cure for memory loss find themselves trapped in a remote mountainous facility in this ingenious thriller, perfect for fans of Blake Crouch and Alex Michaelides.&lt;/b&gt;&lt;br&gt;Struggling new single mom Natasha Walker is...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Memory%20Foundation%20Amanda%20West"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/12270471"/>
+    <published>2026-05-28T14:23:22.194108+00:00</published>
+  </entry>
   <entry>
     <id>12213282</id>
     <title>The Final Target by Nora Roberts is in the downloadLibrary</title>
