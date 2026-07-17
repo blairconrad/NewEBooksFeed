@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2026-07-15T12:05:41.084436+00:00</updated>
+  <updated>2026-07-17T11:57:37.741063+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>8958901</id>
+    <title>Independence by Chitra Banerjee Divakaruni is in the downloadLibrary</title>
+    <updated>2026-07-17T11:57:37.785430+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/8958901"&gt;
+&lt;img src="https://img1.od-cdn.com/ImageType-150/0293-1/{597DF5F9-D383-4F7C-B0E4-85BAEDBBBD5D}IMG150.JPG"&gt;
+&lt;h2&gt;Independence&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Historical Fiction, Literature&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;"Divakaruni tells the story of India's independence through the eyes of three sisters, each of whom is uniquely different, with her own desires and flaws. I cheered for them and cried with them as they move through the history of their...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Independence%20Chitra%20Banerjee%20Divakaruni"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/8958901"/>
+    <published>2026-07-17T11:57:37.785430+00:00</published>
+  </entry>
   <entry>
     <id>12765189</id>
     <title>Ringo by Tom Doyle is in the downloadLibrary</title>
@@ -7530,25 +7550,5 @@ is an ebook and is available at the downloadLibrary.
 </content>
     <link href="https://downloadlibrary.overdrive.com/media/346268"/>
     <published>2026-04-24T11:45:27.065245+00:00</published>
-  </entry>
-  <entry>
-    <id>11090980</id>
-    <title>Dream On, Ramona Riley by Ashley Herring Blake is in the downloadLibrary</title>
-    <updated>2026-04-17T11:36:48.009397+00:00</updated>
-    <content type="html">
-&lt;a href="https://downloadlibrary.overdrive.com/media/11090980"&gt;
-&lt;img src="https://img1.od-cdn.com/ImageType-150/1523-1/{1416B3B5-E9B1-498E-8B3C-A7E3BFE2E946}IMG150.JPG"&gt;
-&lt;h2&gt;Dream On, Ramona Riley&lt;/h2&gt;
-
-&lt;/a&gt;
-is an ebook and is available at the downloadLibrary.
-&lt;p&gt;Subjects: Fiction, Humor (Fiction), LGBTQIA+ (Fiction), Romance&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;b&gt;AN INSTANT &lt;i&gt;USA TODAY &lt;/i&gt;BESTSELLER!&lt;br&gt;A small-town waitress and a Hollywood star&amp;rsquo;s worlds collide in this new romance by Ashley Herring Blake, &lt;i&gt;USA Today&lt;/i&gt; bestselling author of &lt;i&gt;Iris Kelly Doesn&amp;rsquo;t Date.&lt;/i&gt;&lt;/b&gt;&lt;br&gt;Once...
-&lt;/blockquote&gt;
-&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Dream%20On%2C%20Ramona%20Riley%20Ashley%20Herring%20Blake"&gt;on Goodreads&lt;/a&gt;.
-</content>
-    <link href="https://downloadlibrary.overdrive.com/media/11090980"/>
-    <published>2026-04-17T11:36:48.009397+00:00</published>
   </entry>
 </feed>
