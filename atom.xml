@@ -2,12 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://blairconrad.com/new-ebooks-at-downloadlibrary</id>
   <title>Blair's list of new e-books at downloadLibrary</title>
-  <updated>2026-09-04T14:33:24.114987+00:00</updated>
+  <updated>2026-09-05T13:33:04.745432+00:00</updated>
   <author>
     <name>Blair Conrad</name>
     <email>blair@blairconrad.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>7250343</id>
+    <title>Listen to Me by Tess Gerritsen is in the downloadLibrary</title>
+    <updated>2026-09-05T13:33:04.777237+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/7250343"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0111-1/{3B60D3D8-61AC-40F5-B235-DBC97A4E8CE5}IMG150.JPG"&gt;
+&lt;h2&gt;Listen to Me&lt;/h2&gt;
+&lt;h3&gt;A Novel&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fiction, Mystery, Suspense, Thriller&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;b&gt;NATIONAL BESTSELLER &amp;bull; Rizzoli &amp;amp; Isles are back! From &lt;i&gt;New York Times&lt;/i&gt; bestselling author Tess Gerritsen, this&amp;#160;&amp;ldquo;shocking and fast-paced&amp;rdquo; (Karin Slaughter)&amp;#160;thriller has Jane and Maura investigating a brutal...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=Listen%20to%20Me%20Tess%20Gerritsen"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/7250343"/>
+    <published>2026-09-05T13:33:04.777237+00:00</published>
+  </entry>
+  <entry>
+    <id>9241900</id>
+    <title>English Journey by J. B. Priestley is in the downloadLibrary</title>
+    <updated>2026-09-05T13:33:04.777237+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/9241900"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/0292-1/{444FB097-99B3-4F48-816F-2411F0FFFDDE}IMG150.JPG"&gt;
+&lt;h2&gt;English Journey&lt;/h2&gt;
+
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: History, Nonfiction, Travel&lt;/p&gt;
+&lt;blockquote&gt;
+'The finest book ever written about England and the English' Stuart Maconie 'J. B. Priestley is one of our literary icons of the 20th Century and it is time that we all became re-acquainted with his genius.' Dame Judi Dench Three years before...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=English%20Journey%20J.%20B.%20Priestley"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/9241900"/>
+    <published>2026-09-05T13:33:04.777237+00:00</published>
+  </entry>
+  <entry>
+    <id>13029843</id>
+    <title>The Starlight Princess by Elyse Thomson is in the downloadLibrary</title>
+    <updated>2026-09-05T13:33:04.777237+00:00</updated>
+    <content type="html">
+&lt;a href="https://downloadlibrary.overdrive.com/media/13029843"&gt;
+&lt;img src="https://img3.od-cdn.com/ImageType-150/7168-1/{5C1CC3D1-395F-4580-A8CA-7DF778567DB9}IMG150.JPG"&gt;
+&lt;h2&gt;The Starlight Princess&lt;/h2&gt;
+&lt;h3&gt;An Epic Fantasy Romance&lt;/h3&gt;
+&lt;/a&gt;
+is an ebook and is available at the downloadLibrary.
+&lt;p&gt;Subjects: Fantasy, Fiction, Romance, Science Fiction&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;She's a princess in love with the king's spymaster. He's a cursed traitor plotting her abduction. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Adamanthea is a failure of a princess with a talent for matchmaking. But when her latest pairing falls afoul...
+&lt;/blockquote&gt;
+&lt;p&gt;Look it up &lt;a href="https://www.goodreads.com/search?q=The%20Starlight%20Princess%20Elyse%20Thomson"&gt;on Goodreads&lt;/a&gt;.
+</content>
+    <link href="https://downloadlibrary.overdrive.com/media/13029843"/>
+    <published>2026-09-05T13:33:04.777237+00:00</published>
+  </entry>
   <entry>
     <id>12928106</id>
     <title>Notes to New Mothers by Rebecca Knight is in the downloadLibrary</title>
